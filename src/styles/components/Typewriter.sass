@@ -1,0 +1,36 @@
+@use '../variables'
+@use '../mixins'
+
+.typewriter-container
+  @include mixins.center
+
+.typewriter-content
+  @include mixins.center
+  flex-direction: column
+  height: 140px
+  text-align: center
+  gap: 10px
+
+.first-text
+  width: 100%
+  text-align: center
+  cursor: default
+  font-size: 24px
+  color: variables.$text-color
+
+.second-text
+  width: 100%
+  text-align: center
+  cursor: default
+  background: variables.$gradient
+  background-clip: text
+  color: transparent
+  font-size: 48px
+  font-weight: bold
+
+.third-text
+  width: 100%
+  text-align: center
+  cursor: default
+  font-size: 24px
+  color: variables.$text-color-secondary

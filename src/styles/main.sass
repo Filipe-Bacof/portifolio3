@@ -1,0 +1,16 @@
+@use 'variables'
+@use 'mixins'
+
+*
+    padding: 0
+    margin: 0
+    font-family: variables.$font-stack
+    box-sizing: border-box
+
+body
+    @include mixins.center
+    background: variables.$body-bg-color
+    height: 100vh
+
+a, svg
+    transition: .4s
