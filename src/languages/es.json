@@ -1,0 +1,219 @@
+{
+  "global": {
+    "next": "Siguiente",
+    "prev": "Anterior",
+    "home": "Página Principal",
+    "language": {
+      "title": "Cambiar Idioma",
+      "pt": "Portugués",
+      "en": "Inglés",
+      "es": "Español",
+      "de": "Alemán",
+      "fr": "Francés",
+      "it": "Italiano"
+    }
+  },
+  "home": {
+    "menuTitle": "Inicio",
+    "imageAlt": "Foto de Filipe Bacof",
+    "header": {
+      "header1": "¡Bienvenido! Yo soy",
+      "header2": "Filipe Bacof",
+      "header3": "Desarrollador Full-Stack"
+    },
+    "shortcuts": {
+      "title": "Atajos",
+      "whatsApp": "Contactar por WhatsApp",
+      "email": "Contactar por email usando mi formulario de contacto",
+      "github": "Ver mis proyectos en GitHub",
+      "linkedin": "Conéctate conmigo en LinkedIn"
+    },
+    "location": {
+      "title": "Ubicación",
+      "where": "Sapucaia do Sul - RS"
+    },
+    "phones": {
+      "title": "Teléfonos",
+      "phone1": "",
+      "phone2": ""
+    }
+  },
+  "career": {
+    "menuTitle": "Vida Profesional",
+    "imageAlt": "Foto de Filipe Bacof trabajando",
+    "experiences": {
+      "title": "Experiencias",
+      "jobs": [
+        {
+          "title": "Vidaia Care",
+          "role": "Desarrollador Fullstack",
+          "modality": "Remoto",
+          "start": "jul 2023",
+          "end": "jun 2024",
+          "elapsed": "1 año",
+          "description": "Programación de sistemas enfocados en el cuidado de la salud"
+        },
+        {
+          "title": "Prestativ SAP",
+          "role": "Desarrollador Fullstack",
+          "modality": "Presencial",
+          "start": "dic 2022",
+          "end": "abr 2023",
+          "elapsed": "5 meses",
+          "description": "Desarrollo de sistemas para uso interno de la empresa"
+        },
+        {
+          "title": "Datamétrica",
+          "role": "Operador de Call Center",
+          "modality": "Remoto",
+          "start": "ene 2021",
+          "end": "abr 2022",
+          "elapsed": "1 año y 4 meses",
+          "description": "Atención y soporte a clientes, operación de sistemas administrativos"
+        },
+        {
+          "title": "Tracktus",
+          "role": "Analista de Soporte",
+          "modality": "Presencial",
+          "start": "feb 2017",
+          "end": "ene 2020",
+          "elapsed": "3 años",
+          "description": "Operación de sistemas y soporte a clientes, mantenimiento de información interna"
+        }
+      ]
+    },
+    "download": {
+      "title": "Descargar Currículum",
+      "pt": "PT-BR",
+      "en": "EN-US"
+    }
+  },
+  "academic": {
+    "menuTitle": "Vida Académica",
+    "imageAlt": "Foto de Filipe Bacof en la graduación",
+    "education": {
+      "title": "Formación Académica",
+      "where": "Unicesumar EAD",
+      "course": "Licenciatura en Ingeniería de Software",
+      "conclusion": "En curso, 13/16 completado"
+    },
+    "languages": [
+      {
+        "en": "Portugués Brasileño",
+        "level": "C2 - Competente, Nativo"
+      },
+      {
+        "en": "Inglés",
+        "level": "B2 - Independiente Avanzado"
+      },
+      {
+        "en": "Español",
+        "level": "B1 - Intermedio"
+      }
+    ],
+    "books": [
+      {
+        "title": "El Programador Pragmático",
+        "description": "Ilustra las mejores prácticas y las principales trampas del desarrollo de software."
+      },
+      {
+        "title": "Código Limpio",
+        "description": "Enseña un conjunto de mejores prácticas para lograr una mayor legibilidad y mantenibilidad del código."
+      },
+      {
+        "title": "Más Listo que el Diablo",
+        "description": "Una entrevista donde Napoleon Hill obliga al Diablo a revelar trucos para escapar de trampas como el miedo, la procrastinación, la ira, indicados como herramientas del diablo para alienar a los humanos."
+      },
+      {
+        "title": "El Kybalion",
+        "description": "Este misterioso libro es una iniciación a la sabiduría del Hermetismo, una tradición mística que ha atravesado el tiempo desde la Antigüedad hasta el presente."
+      }
+    ],
+    "softskills": [
+      "Capacidad para analizar información técnica",
+      "Buen humor para trabajar en equipo",
+      "Agilidad para aprender nuevas tecnologías",
+      "Creatividad para resolver problemas",
+      "Acostumbrado a trabajar con metodologías ágiles"
+    ],
+    "currentlyStudying": {
+      "title": "Web3 y Blockchain",
+      "description": "Creación de contratos inteligentes con Solidity"
+    }
+  },
+  "personal": {
+    "menuTitle": "Vida Personal",
+    "imageAlt": "Foto de Filipe Bacof tocando guitarra",
+    "button": {
+      "title": "Algunos buenos recuerdos",
+      "description": "Proyecto de una cápsula del tiempo, creado en un evento de Rocketseat, tengo la intención de rehacer este proyecto cada año."
+    },
+    "about": {
+      "title": "¿Quién soy yo?",
+      "description": "Además de ser un profesional apasionado por la tecnología, también tengo varios hobbies, que incluyen tocar instrumentos de cuerda, leer libros sobre diversos temas, ver series con mi esposa y cuidar de mis dos gatos."
+    },
+    "quote": {
+      "sentence": "El hombre que hace más de lo que se le paga, pronto será pagado por más de lo que hace.",
+      "author": "Napoleon Hill"
+    }
+  },
+  "projects": {
+    "menuTitle": "Proyectos",
+    "buttons": {
+      "deploy": "Ver deploy",
+      "repo": "Ver Repositorio"
+    },
+    "projects": [
+      {
+        "title": "Sitio de Lokos D' Bira",
+        "description1": "Aplicación web creada con amigos como homenaje a una banda muy carismática de mi ciudad",
+        "description2": "Destacado por las optimizaciones de SEO hechas con NextJS, prueba buscar el nombre de la banda en Google"
+      },
+      {
+        "title": "API de Metallica",
+        "description1": "Proyecto backend desarrollado para celebrar el Día del Rock (13 de julio)",
+        "description2": "La intención de este proyecto es hacer networking con otros programadores"
+      },
+      {
+        "title": "Pokedex",
+        "description1": "Todos los programadores tienen este proyecto, pero yo hice casi todo usando Tailwind",
+        "description2": "Este proyecto fue hecho como un desafío técnico para un puesto Full-Stack"
+      },
+      {
+        "title": "Gestor de Tareas",
+        "description1": "Experimenté usar un ORM diferente al que estaba acostumbrado, usé Sequelize en lugar de Prisma",
+        "description2": "Esta aplicación fue hecha como un desafío técnico para un puesto Full-Stack"
+      },
+      {
+        "title": "Clon de Chat GPT",
+        "description1": "Consumo de la API de OpenAI, que es la misma utilizada por el ChatGPT oficial",
+        "description2": "La interfaz es la misma que ChatGPT en su lanzamiento."
+      },
+      {
+        "title": "Biblioteca de Películas",
+        "description1": "Utilización de la API proporcionada por The Movie DataBase (TMDB)",
+        "description2": "La interfaz es la misma que ChatGPT en su lanzamiento."
+      },
+      {
+        "title": "NLW E-Sports",
+        "description1": "Uno de los primeros eventos de programación en los que participé",
+        "description2": "El desafío después del evento fue recrear el proyecto de la página social de E-Sports con otra temática"
+      }
+    ]
+  },
+  "contact": {
+    "menuTitle": "Contacto",
+    "pageTitle": "Contáctame por email",
+    "nameField": "Nombre",
+    "emailField": "Correo electrónico",
+    "phoneField": "Teléfono",
+    "messageField": "Mensaje",
+    "messageLabel": "Escribe tu mensaje aquí",
+    "optional": "Opcional",
+    "sendButton": "Enviar",
+    "loading": "Por favor espera...",
+    "error": "Error al enviar",
+    "old": "Ver página de mi antiguo portafolio",
+    "whats": "Contactar por WhatsApp"
+  }
+}
