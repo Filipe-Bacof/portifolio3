@@ -1,10 +1,31 @@
 import { useEffect, useRef, useState } from "react";
 import "../styles/components/Typewriter.sass";
+import { Language } from "../interfaces/Languages.interface";
 
-export default function Typewriter() {
+type TypewriterProps = {
+  header1: string;
+  header2: string;
+  header3: string;
+  language: Language;
+};
+
+export default function Typewriter({
+  header1,
+  header2,
+  header3,
+  language,
+}: TypewriterProps) {
   const [firstText, setFirstText] = useState("");
   const [secondText, setSecondText] = useState("");
   const [thirdText, setThirdText] = useState("");
+
+  useEffect(() => {
+    if (thirdText !== "") {
+      setFirstText(header1);
+      setSecondText(header2);
+      setThirdText(header3);
+    }
+  }, [language]);
 
   const timeouts = useRef<number[]>([]);
 
@@ -22,10 +43,6 @@ export default function Typewriter() {
       });
       return delay * text.length;
     };
-
-    const header1 = "Bem vindo! Eu sou";
-    const header2 = "Filipe Bacof";
-    const header3 = "Desenvolvedor Full-Stack";
 
     const delay1 = typeText(header1, setFirstText, 75);
 
@@ -49,8 +66,8 @@ export default function Typewriter() {
     <section className="typewriter-container">
       <div className="typewriter-content">
         <span className="first-text">{firstText}</span>
-        <h1 className="second-text">{secondText}</h1>
-        <h2 className="third-text">{thirdText}</h2>
+        <h2 className="second-text">{secondText}</h2>
+        <p className="third-text">{thirdText}</p>
       </div>
     </section>
   );

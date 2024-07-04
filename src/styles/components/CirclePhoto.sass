@@ -2,17 +2,25 @@
 @use '../mixins'
 
 .profile-pic-container
-  height: 164px
-  width: 164px
+  height: 12rem
+  width: 12rem
   text-decoration: none
+
+  &.small
+    width: 6rem
+    height: 6rem
 
 .border-gradient
   @include mixins.center
-  height: 164px
-  width: 164px
+  height: 12rem
+  width: 12rem
   border-radius: 50%
   background: variables.$gradient
   transition: transform 0.3s
+
+  &.small
+    width: 6rem
+    height: 6rem
 
   &:hover
     transform: scale(1.1)

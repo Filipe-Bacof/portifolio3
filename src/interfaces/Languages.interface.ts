@@ -15,7 +15,7 @@ interface Global {
   language: LanguageOptions;
 }
 
-interface LanguageOptions {
+export interface LanguageOptions {
   title: string;
   pt: string;
   en: string;
@@ -24,6 +24,11 @@ interface LanguageOptions {
   fr: string;
   it: string;
 }
+
+export type Language = Exclude<
+  keyof Omit<LanguageOptions, "title">,
+  keyof Object
+>;
 
 interface Home {
   menuTitle: string;
@@ -89,7 +94,7 @@ interface Academic {
   menuTitle: string;
   imageAlt: string;
   education: Education;
-  languages: Language[];
+  languages: LanguageItem[];
   books: Book[];
   softskills: string[];
   currentlyStudying: CurrentlyStudying;
@@ -102,7 +107,7 @@ interface Education {
   conclusion: string;
 }
 
-interface Language {
+interface LanguageItem {
   en: string;
   level: string;
 }
@@ -158,10 +163,6 @@ interface Project {
 interface Contact {
   menuTitle: string;
   pageTitle: string;
-  fields: ContactFields;
-}
-
-interface ContactFields {
   nameField: string;
   emailField: string;
   phoneField: string;

@@ -8,9 +8,16 @@
     box-sizing: border-box
 
 body
-    @include mixins.center
+    display: flex
+    align-items: center
+    justify-content: start
+    flex-direction: column
     background: variables.$body-bg-color
     height: 100vh
+    padding: 1rem
+
+    #root
+        width: 100%
 
 a, svg
     transition: .4s

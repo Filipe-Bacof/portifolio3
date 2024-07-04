@@ -1,6 +1,11 @@
 @use 'mixins'
+@use 'variables'
 
 .main-content
   @include mixins.center
   flex-direction: column
+  width: 100%
   gap: 2rem
+
+p
+  color: variables.$text-color
