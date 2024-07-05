@@ -7,6 +7,7 @@ import Home from "./pages/Home";
 import { AvailablePages } from "./interfaces/Pages.interface";
 import Footer from "./components/Footer";
 import { getTitleOfPage } from "./utils/pageFunctions";
+import Professional from "./pages/Professional";
 
 export default function App() {
   const localStorageLanguage = localStorage.getItem("selectedLanguage");
@@ -14,7 +15,7 @@ export default function App() {
   const [language, setLanguage] = useState<Language>(
     localStorageLanguage && isLanguage(localStorageLanguage)
       ? localStorageLanguage
-      : "pt"
+      : "ptbr"
   );
 
   return language ? (
@@ -25,7 +26,8 @@ export default function App() {
           setLanguage(newLanguage)
         }
       />
-      {page === 0 && <Home language={language} />}
+      {page === 0 && <Home language={language} setPage={setPage} />}
+      {page === 1 && <Professional language={language} />}
       <Footer
         page={page}
         title={getTitleOfPage(page, language)}

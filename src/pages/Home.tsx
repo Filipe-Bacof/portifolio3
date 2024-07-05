@@ -1,13 +1,16 @@
 import CirclePhoto from "../components/CirclePhoto";
+import HomeShortcuts from "../components/HomeShortcuts";
 import Typewriter from "../components/Typewriter";
 import { Language } from "../interfaces/Languages.interface";
+import { AvailablePages } from "../interfaces/Pages.interface";
 import { getTranslatedInformation } from "../utils/languageFunctions";
 
 type HomeProps = {
   language: Language;
+  setPage: (page: AvailablePages) => void;
 };
 
-export default function Home({ language }: HomeProps) {
+export default function Home({ language, setPage }: HomeProps) {
   return (
     <>
       <CirclePhoto
@@ -21,6 +24,7 @@ export default function Home({ language }: HomeProps) {
         header3={getTranslatedInformation(language, "home.header.header3")}
         language={language}
       />
+      <HomeShortcuts setPage={setPage} />
     </>
   );
 }

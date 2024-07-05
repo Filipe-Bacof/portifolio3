@@ -2,10 +2,12 @@
 @use 'variables'
 
 .main-content
-  @include mixins.center
+  display: flex
   flex-direction: column
+  justify-content: space-between
+  align-items: center
   width: 100%
-  gap: 2rem
+  height: 100%
 
 p
   color: variables.$text-color

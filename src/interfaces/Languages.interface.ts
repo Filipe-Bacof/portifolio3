@@ -84,7 +84,7 @@ interface Career {
   download: Download;
 }
 
-interface Job {
+export interface Job {
   title: string;
   role: string;
   modality: string;

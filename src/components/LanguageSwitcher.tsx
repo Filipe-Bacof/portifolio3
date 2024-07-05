@@ -32,6 +32,7 @@ export default function LanguageSwitcher({
   onChange,
 }: LanguageSwitcherProps) {
   const [showPanel, setShowPanel] = useState(false);
+  const [hoveredLanguage, setHoveredLanguage] = useState<string>("");
 
   type LanguageItem = {
     code: Language;
@@ -160,10 +161,22 @@ export default function LanguageSwitcher({
                   lang.code === selected ? "selected" : ""
                 }`}
                 onClick={() => handleLanguageChange(lang.code)}
+                onMouseEnter={() =>
+                  setHoveredLanguage(
+                    getTranslatedInformation(
+                      selected,
+                      `global.language.${lang.code}`
+                    )
+                  )
+                }
+                onMouseLeave={() => setHoveredLanguage("")}
               />
             ))}
           </div>
-          <p>{getTranslatedInformation(selected, "global.language.warning")}</p>
+          <p>{hoveredLanguage}</p>
+          <span className="warning">
+            {getTranslatedInformation(selected, "global.language.warning")}
+          </span>
         </div>
       )}
     </div>
