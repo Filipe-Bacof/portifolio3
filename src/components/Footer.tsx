@@ -1,3 +1,4 @@
+import { useEffect } from "react";
 import IconBxsLeftArrow from "../assets/icons/IconBxsLeftArrow";
 import IconBxsRightArrow from "../assets/icons/IconBxsRightArrow";
 import { AvailablePages, lastPage } from "../interfaces/Pages.interface";
@@ -19,6 +20,23 @@ export default function Footer({ page, setPage, title }: FooterProps) {
       setPage(prevPage as AvailablePages);
     }
   };
+
+  useEffect(() => {
+    const handleKeyDown = (event: KeyboardEvent) => {
+      if (event.key === "ArrowRight") {
+        handlePageChange("increment");
+      } else if (event.key === "ArrowLeft") {
+        handlePageChange("decrement");
+      }
+    };
+
+    window.addEventListener("keydown", handleKeyDown);
+
+    return () => {
+      window.removeEventListener("keydown", handleKeyDown);
+    };
+  }, [page]);
+
   return (
     <footer className="footer-content">
       <IconBxsLeftArrow
