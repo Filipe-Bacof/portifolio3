@@ -14,7 +14,6 @@ export default function Home({ language, setPage }: HomeProps) {
   return (
     <>
       <CirclePhoto
-        href="https://www.linkedin.com/in/filipe-bacof/"
         src="/profilepic.jpg"
         alt={getTranslatedInformation(language, "home.imageAlt")}
       />

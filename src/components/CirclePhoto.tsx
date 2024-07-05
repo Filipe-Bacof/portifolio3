@@ -1,9 +1,9 @@
 import "../styles/components/CirclePhoto.sass";
 
 type CirclePhotoProps = {
-  href: string;
   src: string;
   alt: string;
+  href?: string;
   small?: boolean;
 };
 
@@ -13,7 +13,7 @@ export default function CirclePhoto({
   alt,
   small,
 }: CirclePhotoProps) {
-  return (
+  return href ? (
     <a
       className={`profile-pic-container ${small ? "small" : ""}`}
       href={href}
@@ -30,5 +30,20 @@ export default function CirclePhoto({
         />
       </div>
     </a>
+  ) : (
+    <div
+      className={`profile-pic-container ${small ? "small" : ""} default-cursor`}
+      rel="noreferrer"
+    >
+      <div className={`border-gradient ${small ? "small" : ""}`}>
+        <img
+          className="profile-pic"
+          src={src}
+          alt={alt}
+          width="95%"
+          height="95%"
+        />
+      </div>
+    </div>
   );
 }

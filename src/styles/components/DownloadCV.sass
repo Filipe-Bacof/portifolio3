@@ -1,0 +1,21 @@
+@use '../variables'
+@use '../mixins'
+
+h3
+  color: variables.$text-color
+  margin-bottom: 0.5rem
+
+.buttons-content
+  @include mixins.center
+  gap: 2rem
+
+  .button-download
+    text-decoration: none
+    color: variables.$text-color
+    background: variables.$bg-color-secondary
+    padding: 0.5rem 2rem
+    border-radius: 8px
+
+    &:hover
+      transform: scale(1.1)
+      background: variables.$gradient

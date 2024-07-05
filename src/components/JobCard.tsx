@@ -1,4 +1,6 @@
 import { Job } from "../interfaces/Languages.interface";
+import CirclePhoto from "./CirclePhoto";
+import "../styles/components/JobCard.sass";
 
 type JobCardProps = {
   data: Job;
@@ -7,20 +9,21 @@ type JobCardProps = {
 
 export default function JobCard({ data, dataPic }: JobCardProps) {
   return (
-    <div className="">
-      <div className="">
-        <img className="" src={dataPic} alt={data.title} />
-        <div className="">
-          <div className="">
-            <h4 className="">{data.title}</h4>
-            <h5 className="">{data.role}</h5>
+    <div className="job-content">
+      <div className="job-section-1">
+        <CirclePhoto src={dataPic} alt={data.title} small />
+        <div className="job-section-2">
+          <div className="job-title">
+            <h4>{data.title}</h4>
+            <h5>{data.role}</h5>
           </div>
-          <span className="">
-            {data.start} - {data.role} &#40;{data.elapsed}&#41;
+          <span>
+            {data.start} - {data.end}
           </span>
+          <span>&#40;{data.elapsed}&#41;</span>
         </div>
       </div>
-      <p className="">{data.description}</p>
+      <p>{data.description}</p>
     </div>
   );
 }
