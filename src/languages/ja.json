@@ -1,0 +1,229 @@
+{
+  "global": {
+    "next": "次へ",
+    "prev": "前へ",
+    "home": "ホーム",
+    "language": {
+      "title": "言語切替",
+      "warning": "注意：すべての言語が確認されているわけではありません",
+      "be": "ベンガル語",
+      "ch": "中国語（北京語）",
+      "de": "ドイツ語",
+      "en": "英語",
+      "es": "スペイン語",
+      "fr": "フランス語",
+      "it": "イタリア語",
+      "hi": "ヒンディー語",
+      "ind": "インドネシア語",
+      "ja": "日本語",
+      "ko": "韓国語",
+      "no": "ノルウェー語",
+      "ptbr": "ブラジルポルトガル語",
+      "ptpt": "ポルトガルポルトガル語",
+      "ru": "ロシア語"
+    }
+  },
+  "home": {
+    "menuTitle": "ホーム",
+    "imageAlt": "Filipe Bacof氏の写真",
+    "header": {
+      "header1": "ようこそ！私は",
+      "header2": "Filipe Bacof",
+      "header3": "フルスタック開発者です"
+    },
+    "shortcuts": {
+      "title": "ショートカット",
+      "whatsApp": "WhatsAppで連絡する",
+      "email": "お問い合わせはメールで",
+      "github": "GitHubで私のプロジェクトを見る",
+      "linkedin": "LinkedInでつながる"
+    },
+    "location": {
+      "title": "場所",
+      "where": "サプカイア・ド・スル - RS"
+    },
+    "phones": {
+      "title": "電話",
+      "phone1": "(51) 99445-6865",
+      "phone2": "(51) 99763-1686"
+    }
+  },
+  "career": {
+    "menuTitle": "キャリア",
+    "imageAlt": "Filipe Bacof氏の作業写真",
+    "experiences": {
+      "title": "経験",
+      "jobs": [
+        {
+          "title": "Vidaia Care",
+          "role": "フルスタック開発者",
+          "modality": "リモート",
+          "start": "2023年7月",
+          "end": "2024年6月",
+          "elapsed": "1年",
+          "description": "医療およびケア分野向けシステムのプログラミング"
+        },
+        {
+          "title": "Prestativ SAP",
+          "role": "フルスタック開発者",
+          "modality": "オンサイト",
+          "start": "2022年12月",
+          "end": "2023年4月",
+          "elapsed": "5ヶ月",
+          "description": "企業内システムの開発"
+        },
+        {
+          "title": "Datamétrica",
+          "role": "テレサポートオペレーター",
+          "modality": "リモート",
+          "start": "2021年1月",
+          "end": "2022年4月",
+          "elapsed": "1年4ヶ月",
+          "description": "顧客対応と管理システムの操作"
+        },
+        {
+          "title": "Tracktus",
+          "role": "サポートアナリスト",
+          "modality": "オンサイト",
+          "start": "2017年2月",
+          "end": "2020年1月",
+          "elapsed": "3年",
+          "description": "システム運用と顧客サポート、内部情報の管理"
+        }
+      ]
+    },
+    "download": {
+      "title": "履歴書ダウンロード",
+      "pt": "ポルトガル語（ブラジル）",
+      "en": "英語（アメリカ）"
+    }
+  },
+  "academic": {
+    "menuTitle": "学術",
+    "imageAlt": "Filipe Bacof氏の卒業写真",
+    "education": {
+      "title": "学歴",
+      "where": "Unicesumar EAD",
+      "course": "ソフトウェアエンジニアリング学士号",
+      "conclusion": "進行中、13/16完了"
+    },
+    "languages": [
+      {
+        "en": "ブラジルポルトガル語",
+        "level": "C2 - 熟達者、母国語"
+      },
+      {
+        "en": "英語",
+        "level": "B2 - 最低独立"
+      },
+      {
+        "en": "スペイン語",
+        "level": "B1 - 中級"
+      }
+    ],
+    "books": [
+      {
+        "title": "プラグマティックプログラマー",
+        "description": "ソフトウェア開発のベストプラクティスと主要なトラップを示す"
+      },
+      {
+        "title": "クリーンコード",
+        "description": "コードの可読性と保守性を高めるための一連の良いプラクティスを教える"
+      },
+      {
+        "title": "悪魔より賢い",
+        "description": "ナポレオン・ヒルが悪魔にトリックを明かさせるインタビュー。恐怖、先延ばし、怒りなど、悪魔が人間を隔てるための道具を示す"
+      },
+      {
+        "title": "カバラ",
+        "description": "この神秘的な本は、古代から現代に至るヘルメス主義の知恵の入門です"
+      }
+    ],
+    "softskills": [
+      "技術情報の分析能力",
+      "チームで働くための良いユーモア",
+      "新しい技術を学ぶための素早さ",
+      "問題を解決するための創造性",
+      "アジャイル方法論での作業に慣れています"
+    ],
+    "currentlyStudying": {
+      "title": "Web3とブロックチェーン",
+      "description": "Solidityを使ったスマートコントラクトの作成"
+    }
+  },
+  "personal": {
+    "menuTitle": "個人的な",
+    "imageAlt": "Filipe Bacof氏がギターを弾く写真",
+    "button": {
+      "title": "いくつかの良い思い出",
+      "description": "ロケットシートのイベントで作成されたタイムカプセルプロジェクト、私は毎年このプロジェクトを再作成する予定です"
+    },
+    "about": {
+      "title": "私について",
+      "description": "技術を愛するプロフェッショナルであるだけでなく、弦楽器を演奏したり、さまざまなトピックの本を読んだり、妻とシリーズを見たり、私の2匹の猫の世話をしたりする趣味もあります"
+    },
+    "quote": {
+      "sentence": "彼が支払われている以上のことをする男は、やがて彼がする以上に支払われるでしょう。",
+      "author": "ナポレオン・ヒル"
+    }
+  },
+  "projects": {
+    "menuTitle": "プロジェクト",
+    "buttons": {
+      "deploy": "展開を見る",
+      "repo": "リポジトリを見る"
+    },
+    "projects": [
+      {
+        "title": "Lokos D' Biraサイト",
+        "description1": "私の町のとてもカリスマ的なバンドへの敬意を込めて友人たちと作成したWebアプリ",
+        "description2": "NextJSでのSEOの最適化に焦点を当てています。バンド名でGoogleで検索してみてください"
+      },
+      {
+        "title": "Metallica API",
+        "description1": "ロックの日（7月13日）を祝うために開発されたバックエンドプロジェクト",
+        "description2": "他のプログラマーとのネットワーキングを目的としています"
+      },
+      {
+        "title": "Pokedéx",
+        "description1": "すべてのプログラマーが持っているプロジェクトですが、私はほとんどがTailwindを使用して作成しました",
+        "description2": "フルスタックの求人のための技術的な挑戦としてこのプロジェクトを作成しました"
+      },
+      {
+        "title": "タスクマネージャー",
+        "description1": "慣れていたORMとは異なるORMを試してみました。 Prismaの代わりにSequelizeを使用しました",
+        "description2": "フルスタックの求人のための技術的な挑戦としてこのアプリケーションを作成しました"
+      },
+      {
+        "title": "Chat GPTのクローン",
+        "description1": "OpenAIのAPIを消費し、公式のChatGPTと同じです",
+        "description2": "インターフェースはChatGPTのリリース時と同じです"
+      },
+      {
+        "title": "映画ライブラリ",
+        "description1": "The Movie DataBase（TMDB）が提供するAPIの使用",
+        "description2": "インターフェースはChatGPTのリリース時と同じです"
+      },
+      {
+        "title": "NLW E-Sports",
+        "description1": "私が最初に参加したプログラミングイベントの一つ",
+        "description2": "イベント後の課題は、別のテーマでE-Sportsの社会ページプロジェクトを再作成することでした"
+      }
+    ]
+  },
+  "contact": {
+    "menuTitle": "コンタクト",
+    "pageTitle": "メールでお問い合わせください",
+    "nameField": "名前",
+    "emailField": "メール",
+    "phoneField": "電話",
+    "messageField": "メッセージ",
+    "messageLabel": "ここにメッセージを入力してください",
+    "optional": "オプション",
+    "sendButton": "送信",
+    "loading": "読み込み中...",
+    "error": "送信エラー",
+    "old": "私の古いポートフォリオページを見る",
+    "whats": "WhatsAppで連絡する"
+  }
+}

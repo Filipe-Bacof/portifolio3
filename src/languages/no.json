@@ -1,0 +1,229 @@
+{
+  "global": {
+    "next": "Neste",
+    "prev": "Forrige",
+    "home": "Hjem",
+    "language": {
+      "title": "Bytt språk",
+      "warning": "Varsel: Ikke alle språk er gjennomgått",
+      "be": "Bengali",
+      "ch": "Kinesisk (Mandarin)",
+      "de": "Tysk",
+      "en": "Engelsk",
+      "es": "Spansk",
+      "fr": "Fransk",
+      "it": "Italiensk",
+      "hi": "Hindi",
+      "ind": "Indonesisk",
+      "ja": "Japansk",
+      "ko": "Koreansk",
+      "no": "Norsk",
+      "ptbr": "Brasiliansk portugisisk",
+      "ptpt": "Portugisisk (Portugal)",
+      "ru": "Russisk"
+    }
+  },
+  "home": {
+    "menuTitle": "Hjem",
+    "imageAlt": "Bilde av Filipe Bacof",
+    "header": {
+      "header1": "Velkommen! Jeg er",
+      "header2": "Filipe Bacof",
+      "header3": "Fullstack-utvikler"
+    },
+    "shortcuts": {
+      "title": "Snarveier",
+      "whatsApp": "Kontakt via WhatsApp",
+      "email": "Kontakt via e-post via kontaktskjemaet mitt",
+      "github": "Se prosjektene mine på GitHub",
+      "linkedin": "Koble til med meg på LinkedIn"
+    },
+    "location": {
+      "title": "Plassering",
+      "where": "Sapucaia do Sul - RS"
+    },
+    "phones": {
+      "title": "Telefoner",
+      "phone1": "(51) 99445-6865",
+      "phone2": "(51) 99763-1686"
+    }
+  },
+  "career": {
+    "menuTitle": "Karriere",
+    "imageAlt": "Bilde av Filipe Bacof som arbeider",
+    "experiences": {
+      "title": "Erfaringer",
+      "jobs": [
+        {
+          "title": "Vidaia Care",
+          "role": "Fullstack-utvikler",
+          "modality": "Fjernarbeid",
+          "start": "juli 2023",
+          "end": "juni 2024",
+          "elapsed": "1 år",
+          "description": "Programmering av helsesystemer og omsorg"
+        },
+        {
+          "title": "Prestativ SAP",
+          "role": "Fullstack-utvikler",
+          "modality": "Fysisk tilstedeværelse",
+          "start": "desember 2022",
+          "end": "april 2023",
+          "elapsed": "5 måneder",
+          "description": "Utvikling av systemer for intern bruk i selskapet"
+        },
+        {
+          "title": "Datamétrica",
+          "role": "Operatør for kundestøtte",
+          "modality": "Fjernarbeid",
+          "start": "januar 2021",
+          "end": "april 2022",
+          "elapsed": "1 år og 4 måneder",
+          "description": "Kundestøtte og administrativ systemdrift"
+        },
+        {
+          "title": "Tracktus",
+          "role": "Supportanalytiker",
+          "modality": "Fysisk tilstedeværelse",
+          "start": "februar 2017",
+          "end": "januar 2020",
+          "elapsed": "3 år",
+          "description": "Systemoperasjon og kundestøtte, intern informasjonshåndtering"
+        }
+      ]
+    },
+    "download": {
+      "title": "Last ned CV",
+      "pt": "PT-BR",
+      "en": "EN-US"
+    }
+  },
+  "academic": {
+    "menuTitle": "Akademisk liv",
+    "imageAlt": "Bilde av Filipe Bacof ved eksamen",
+    "education": {
+      "title": "Utdanning",
+      "where": "Unicesumar EAD",
+      "course": "Bachelor i programvareteknikk",
+      "conclusion": "Pågår, 13/16 fullført"
+    },
+    "languages": [
+      {
+        "en": "Brasiliansk portugisisk",
+        "level": "C2 - Kompetent, morsmål"
+      },
+      {
+        "en": "Engelsk",
+        "level": "B2 - Uavhengig minimum"
+      },
+      {
+        "en": "Spansk",
+        "level": "B1 - Mellomliggende"
+      }
+    ],
+    "books": [
+      {
+        "title": "Den Praktiske Programmerer",
+        "description": "Illustrerer beste praksis og de viktigste fellene ved programvareutvikling."
+      },
+      {
+        "title": "Ren Kode",
+        "description": "Lærer en rekke beste praksiser for å oppnå større lesbarhet og vedlikeholdbarhet i koden din."
+      },
+      {
+        "title": "Smartere enn Djevelen",
+        "description": "Intervju hvor Napoleon Hill tvinger djevelen til å avsløre triks for å unnslippe feller som frykt, utsettelse, sinne, angitt som djevelens verktøy for å alienere mennesker."
+      },
+      {
+        "title": "The Kybalion",
+        "description": "Denne mystiske boken er en innvielse i visdommen til hermetisme, en mystisk tradisjon som har overlevd fra antikken til i dag."
+      }
+    ],
+    "softskills": [
+      "Evne til å analysere teknisk informasjon",
+      "God humor for å jobbe i team",
+      "Agilitet til å lære nye teknologier",
+      "Kreativitet til å løse problemer",
+      "Vant til å jobbe med smidige metoder"
+    ],
+    "currentlyStudying": {
+      "title": "Web3 og Blockchain",
+      "description": "Oppretting av smarte kontrakter med Solidity"
+    }
+  },
+  "personal": {
+    "menuTitle": "Personlig liv",
+    "imageAlt": "Bilde av Filipe Bacof som spiller gitar",
+    "button": {
+      "title": "Noen gode minner",
+      "description": "Tidskapselprosjekt, opprettet på en Rocketseat-begivenhet, planlegger å gjenskape dette prosjektet hvert år."
+    },
+    "about": {
+      "title": "Hvem er jeg?",
+      "description": "I tillegg til å være en teknologientusiastisk profesjonell, har jeg også flere hobbyer, inkludert å spille strenginstrumenter, lese bøker om ulike emner, se på serier med kona mi og ta vare på de to kattene mine."
+    },
+    "quote": {
+      "sentence": "Mannen som gjør mer enn han blir betalt for, vil snart bli betalt for mer enn han gjør.",
+      "author": "Napoleon Hill"
+    }
+  },
+  "projects": {
+    "menuTitle": "Prosjekter",
+    "buttons": {
+      "deploy": "Se distribusjon",
+      "repo": "Se depot"
+    },
+    "projects": [
+      {
+        "title": "Lokos D' Bira-nettstedet",
+        "description1": "Webapp opprettet med venner for å hylle en superkarismatisk band fra byen min",
+        "description2": "Fokus på SEO-optimalisering med NextJS, prøv å søke bandnavnet på Google"
+      },
+      {
+        "title": "Metallica API",
+        "description1": "Bakendprosjekt utviklet for å feire Rockens Dag (13. juli)",
+        "description2": "Hensikten med dette prosjektet er å nettverke med andre utviklere"
+      },
+      {
+        "title": "Pokedéx",
+        "description1": "Alle utviklere har dette prosjektet, men jeg gjorde nesten alt med Tailwind",
+        "description2": "Dette prosjektet ble laget som en teknisk utfordring for en fullstack-stilling"
+      },
+      {
+        "title": "Oppgavebehandler",
+        "description1": "Jeg prøvde en annen ORM enn den jeg var vant til, brukte Sequelize i stedet for Prisma",
+        "description2": "Denne applikasjonen ble opprettet som en teknisk utfordring for en fullstack-stilling"
+      },
+      {
+        "title": "Chat GPT Clone",
+        "description1": "Forbruk av OpenAI API, som også brukes av offisiell ChatGPT",
+        "description2": "Grensesnittet er likt ChatGPT ved lanseringstidspunktet"
+      },
+      {
+        "title": "Film Bibliotek",
+        "description1": "Bruk av API levert av The Movie DataBase (TMDB)",
+        "description2": "Grensesnittet er likt ChatGPT ved lanseringstidspunktet"
+      },
+      {
+        "title": "NLW E-Sports",
+        "description1": "En av de første programmeringseventene jeg deltok på",
+        "description2": "Utfordringen etter arrangementet var å gjenskape prosjektet for en sosial side for e-sport med et annet tema"
+      }
+    ]
+  },
+  "contact": {
+    "menuTitle": "Kontakt",
+    "pageTitle": "Kontakt meg via e-post",
+    "nameField": "Navn",
+    "emailField": "E-post",
+    "phoneField": "Telefon",
+    "messageField": "Melding",
+    "messageLabel": "Skriv inn meldingen din her",
+    "optional": "Valgfritt",
+    "sendButton": "Send",
+    "loading": "Laster...",
+    "error": "Feil ved sending",
+    "old": "Se siden for min gamle portefølje",
+    "whats": "Kontakt via WhatsApp"
+  }
+}

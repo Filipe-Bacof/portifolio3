@@ -5,12 +5,22 @@
     "home": "Página Principal",
     "language": {
       "title": "Cambiar Idioma",
-      "pt": "Portugués",
+      "warning": "Advertencia: ¡No se han revisado todos los idiomas!",
+      "be": "Bengalí",
+      "ch": "Chino Mandarín",
+      "de": "Alemán",
       "en": "Inglés",
       "es": "Español",
-      "de": "Alemán",
       "fr": "Francés",
-      "it": "Italiano"
+      "it": "Italiano",
+      "hi": "Hindi",
+      "ind": "Indonesio",
+      "ja": "Japonés",
+      "ko": "Coreano",
+      "no": "Noruego",
+      "ptbr": "Portugués Brasileño",
+      "ptpt": "Portugués de Portugal",
+      "ru": "Ruso"
     }
   },
   "home": {

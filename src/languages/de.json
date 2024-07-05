@@ -5,12 +5,22 @@
     "home": "Startseite",
     "language": {
       "title": "Sprache ändern",
-      "pt": "Portugiesisch",
+      "warning": "Warnung: Nicht alle Sprachen wurden überprüft",
+      "be": "Bengalisch",
+      "ch": "Mandarin-Chinesisch",
+      "de": "Deutsch",
       "en": "Englisch",
       "es": "Spanisch",
-      "de": "Deutsch",
       "fr": "Französisch",
-      "it": "Italienisch"
+      "it": "Italienisch",
+      "hi": "Hindi",
+      "ind": "Indonesisch",
+      "ja": "Japanisch",
+      "ko": "Koreanisch",
+      "no": "Norwegisch",
+      "ptbr": "Brasilianisches Portugiesisch",
+      "ptpt": "Portugiesisch (Portugal)",
+      "ru": "Russisch"
     }
   },
   "home": {

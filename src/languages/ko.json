@@ -1,0 +1,229 @@
+{
+  "global": {
+    "next": "다음",
+    "prev": "이전",
+    "home": "홈",
+    "language": {
+      "title": "언어 변경",
+      "warning": "주의: 모든 언어가 검토되지 않았습니다",
+      "be": "벵골어",
+      "ch": "중국어 (중국어)",
+      "de": "독일어",
+      "en": "영어",
+      "es": "스페인어",
+      "fr": "프랑스어",
+      "it": "이탈리아어",
+      "hi": "힌디어",
+      "ind": "인도네시아어",
+      "ja": "일본어",
+      "ko": "한국어",
+      "no": "노르웨이어",
+      "ptbr": "브라질 포르투갈어",
+      "ptpt": "포르투갈 포르투갈어",
+      "ru": "러시아어"
+    }
+  },
+  "home": {
+    "menuTitle": "홈",
+    "imageAlt": "Filipe Bacof의 사진",
+    "header": {
+      "header1": "환영합니다! 저는",
+      "header2": "Filipe Bacof",
+      "header3": "풀스택 개발자입니다"
+    },
+    "shortcuts": {
+      "title": "바로 가기",
+      "whatsApp": "WhatsApp으로 연락하기",
+      "email": "이메일을 통해 연락하기",
+      "github": "GitHub에서 제 프로젝트 보기",
+      "linkedin": "LinkedIn에서 나와 연결하기"
+    },
+    "location": {
+      "title": "위치",
+      "where": "사푸카이아 도 스우르 - RS"
+    },
+    "phones": {
+      "title": "전화",
+      "phone1": "(51) 99445-6865",
+      "phone2": "(51) 99763-1686"
+    }
+  },
+  "career": {
+    "menuTitle": "경력",
+    "imageAlt": "Filipe Bacof의 작업 사진",
+    "experiences": {
+      "title": "경험",
+      "jobs": [
+        {
+          "title": "Vidaia Care",
+          "role": "풀스택 개발자",
+          "modality": "원격",
+          "start": "2023년 7월",
+          "end": "2024년 6월",
+          "elapsed": "1년",
+          "description": "의료 및 보호 시스템 프로그래밍"
+        },
+        {
+          "title": "Prestativ SAP",
+          "role": "풀스택 개발자",
+          "modality": "온사이트",
+          "start": "2022년 12월",
+          "end": "2023년 4월",
+          "elapsed": "5개월",
+          "description": "기업 내 시스템 개발"
+        },
+        {
+          "title": "Datamétrica",
+          "role": "원격 전화 지원 담당자",
+          "modality": "원격",
+          "start": "2021년 1월",
+          "end": "2022년 4월",
+          "elapsed": "1년 4개월",
+          "description": "고객 지원 및 관리 시스템 운영"
+        },
+        {
+          "title": "Tracktus",
+          "role": "지원 분석가",
+          "modality": "온사이트",
+          "start": "2017년 2월",
+          "end": "2020년 1월",
+          "elapsed": "3년",
+          "description": "시스템 운영 및 고객 지원, 내부 정보 유지 보수"
+        }
+      ]
+    },
+    "download": {
+      "title": "이력서 다운로드",
+      "pt": "포르투갈어 (브라질)",
+      "en": "영어 (미국)"
+    }
+  },
+  "academic": {
+    "menuTitle": "학문적",
+    "imageAlt": "Filipe Bacof의 졸업 사진",
+    "education": {
+      "title": "교육",
+      "where": "Unicesumar EAD",
+      "course": "소프트웨어 공학 학사",
+      "conclusion": "진행 중, 13/16 완료"
+    },
+    "languages": [
+      {
+        "en": "브라질 포르투갈어",
+        "level": "C2 - 능숙, 원어민"
+      },
+      {
+        "en": "영어",
+        "level": "B2 - 독립 최소"
+      },
+      {
+        "en": "스페인어",
+        "level": "B1 - 중급"
+      }
+    ],
+    "books": [
+      {
+        "title": "실용 프로그래머",
+        "description": "소프트웨어 개발의 최상의 실천 방법과 주요 함정을 보여줍니다"
+      },
+      {
+        "title": "깨끗한 코드",
+        "description": "코드의 가독성과 유지 관리성을 높이기 위한 일련의 좋은 실천 방법을 가르칩니다"
+      },
+      {
+        "title": "악마보다 똑똑한",
+        "description": "나폴레온 힐이 악마에게 트릭을 드러내는 인터뷰. 공포, 연기, 분노 등, 악마가 인간을 속이기 위한 도구를 보여줍니다"
+      },
+      {
+        "title": "카발리온",
+        "description": "이 신비로운 책은 에르메스 주의의 지혜를 소개하는 입문서입니다. 고대부터 현대까지 이어진 신비주의 전통"
+      }
+    ],
+    "softskills": [
+      "기술 정보 분석 능력",
+      "팀으로 일할 수 있는 좋은 유머 감각",
+      "새로운 기술을 배우는 데 능숙함",
+      "문제 해결을 위한 창의력",
+      "민첩하게 작업 방법론을 사용하는 데 익숙함"
+    ],
+    "currentlyStudying": {
+      "title": "Web3 및 블록체인",
+      "description": "Solidity를 사용한 스마트 계약 작성"
+    }
+  },
+  "personal": {
+    "menuTitle": "개인적인",
+    "imageAlt": "Filipe Bacof가 기타를 연주하는 사진",
+    "button": {
+      "title": "좋은 추억 몇 가지",
+      "description": "로켓시트 이벤트에서 만든 타임 캡슐 프로젝트, 매년 이 프로젝트를 재작성 할 계획입니다"
+    },
+    "about": {
+      "title": "나에 대해",
+      "description": "기술을 사랑하는 전문가일 뿐만 아니라 현악기를 연주하거나 다양한 주제의 책을 읽거나 아내와 시리즈를 시청하거나 두 마리의 고양이를 돌보는 취미도 가지고 있습니다"
+    },
+    "quote": {
+      "sentence": "그가 받는 것보다 더 많은 일을 하는 사람은 곧 그가 하는 것보다 더 많이 받게 될 것입니다.",
+      "author": "나폴레온 힐"
+    }
+  },
+  "projects": {
+    "menuTitle": "프로젝트",
+    "buttons": {
+      "deploy": "배포보기",
+      "repo": "저장소 보기"
+    },
+    "projects": [
+      {
+        "title": "Lokos D' Bira 웹 사이트",
+        "description1": "저의 도시에서 매우 매력적인 밴드를 기리기 위해 친구들과 함께 만든 웹 앱",
+        "description2": "NextJS로 SEO 최적화에 중점을 두었습니다. 밴드 이름을 Google에서 검색해보세요"
+      },
+      {
+        "title": "Metallica API",
+        "description1": "록의 날 (7월 13일)을 기념하기 위해 개발된 백엔드 프로젝트",
+        "description2": "다른 프로그래머들과의 네트워킹을 목적으로 합니다"
+      },
+      {
+        "title": "Pokedéx",
+        "description1": "모든 프로그래머가 가진 프로젝트지만, 저는 Tailwind를 사용하여 거의 모든 것을 만들었습니다",
+        "description2": "풀스택 직무에 대한 기술적 도전으로이 프로젝트를 만들었습니다"
+      },
+      {
+        "title": "작업 관리자",
+        "description1": "익숙한 ORM이 아닌 다른 ORM을 사용해 보았습니다. Prisma 대신 Sequelize를 사용했습니다",
+        "description2": "풀스택 직무에 대한 기술적 도전으로이 애플리케이션을 만들었습니다"
+      },
+      {
+        "title": "Chat GPT 클론",
+        "description1": "OpenAI의 API를 사용하여 공식 ChatGPT와 동일합니다",
+        "description2": "인터페이스는 ChatGPT 출시 시와 동일합니다"
+      },
+      {
+        "title": "영화 라이브러리",
+        "description1": "The Movie DataBase (TMDB)에서 제공하는 API 사용",
+        "description2": "인터페이스는 ChatGPT 출시 시와 동일합니다"
+      },
+      {
+        "title": "NLW E-Sports",
+        "description1": "참여한 첫 번째 프로그래밍 이벤트 중 하나",
+        "description2": "이벤트 후에는 다른 주제로 E-Sports 소셜 페이지 프로젝트를 다시 만드는 것이었습니다"
+      }
+    ]
+  },
+  "contact": {
+    "menuTitle": "연락처",
+    "pageTitle": "이메일로 연락주세요",
+    "nameField": "이름",
+    "emailField": "이메일",
+    "phoneField": "전화",
+    "messageField": "메시지",
+    "messageLabel": "여기에 메시지 입력",
+    "optional": "선택 사항",
+    "sendButton": "보내기",
+    "loading": "로드 중...",
+    "error": "전송 오류",
+    "old": "이전 포트폴리오 페이지 보기",
+    "whats": "WhatsApp으로 연락하기"
+  }
+}

@@ -1,32 +1,42 @@
 {
   "global": {
-    "next": "Próximo",
+    "next": "Seguinte",
     "prev": "Anterior",
     "home": "Página Inicial",
     "language": {
       "title": "Mudar Idioma",
-      "pt": "Português",
+      "warning": "Aviso: Nem todas as línguas foram revistas",
+      "be": "Bengali",
+      "ch": "Chinês Mandarim",
+      "de": "Alemão",
       "en": "Inglês",
       "es": "Espanhol",
-      "de": "Alemão",
       "fr": "Francês",
-      "it": "Italiano"
+      "it": "Italiano",
+      "hi": "Hindi",
+      "ind": "Indonésio",
+      "ja": "Japonês",
+      "ko": "Coreano",
+      "no": "Norueguês",
+      "ptbr": "Português Brasileiro",
+      "ptpt": "Português de Portugal",
+      "ru": "Russo"
     }
   },
   "home": {
     "menuTitle": "Início",
     "imageAlt": "Foto de Filipe Bacof",
     "header": {
-      "header1": "Bem vindo! Eu sou",
+      "header1": "Bem-vindo! Eu sou",
       "header2": "Filipe Bacof",
       "header3": "Desenvolvedor Full-Stack"
     },
     "shortcuts": {
       "title": "Atalhos",
-      "whatsApp": "Entrar em contato pelo WhatsApp",
-      "email": "Entrar em contato por email pelo meu formulário de contato",
-      "github": "Ver meus projetos no GitHub",
-      "linkedin": "Se conecte comigo no LinkedIn"
+      "whatsApp": "Contacte-me pelo WhatsApp",
+      "email": "Contacte-me por e-mail através do meu formulário de contacto",
+      "github": "Veja os meus projetos no GitHub",
+      "linkedin": "Conecte-se comigo no LinkedIn"
     },
     "location": {
       "title": "Localização",
@@ -39,8 +49,8 @@
     }
   },
   "career": {
-    "menuTitle": "Vida Profissional",
-    "imageAlt": "Foto de Filipe Bacof trabalhando",
+    "menuTitle": "Carreira",
+    "imageAlt": "Foto de Filipe Bacof a trabalhar",
     "experiences": {
       "title": "Experiências",
       "jobs": [
@@ -83,19 +93,19 @@
       ]
     },
     "download": {
-      "title": "Baixar Currículo",
+      "title": "Descarregar Currículo",
       "pt": "PT-BR",
       "en": "EN-US"
     }
   },
   "academic": {
-    "menuTitle": "Vida Acadêmica",
+    "menuTitle": "Vida Académica",
     "imageAlt": "Foto de Filipe Bacof na formatura",
     "education": {
-      "title": "Formação Acadêmica",
+      "title": "Formação Académica",
       "where": "Unicesumar EAD",
-      "course": "Bacharelado em Engenharia de Software",
-      "conclusion": "Em andamento, 13/16 concluído"
+      "course": "Licenciatura em Engenharia de Software",
+      "conclusion": "Em curso, 13/16 concluído"
     },
     "languages": [
       {
@@ -118,7 +128,7 @@
       },
       {
         "title": "Código Limpo",
-        "description": "Ensina um conjunto de boas práticas para obter uma maior legibilidade e manutenabilidade do seu código."
+        "description": "Ensina um conjunto de boas práticas para obter uma maior legibilidade e manutenibilidade do seu código."
       },
       {
         "title": "Mais Esperto que o Diabo",
@@ -202,8 +212,8 @@
     ]
   },
   "contact": {
-    "menuTitle": "Contato",
-    "pageTitle": "Entre em contato comigo por e-mail",
+    "menuTitle": "Contacto",
+    "pageTitle": "Entre em contacto comigo por e-mail",
     "nameField": "Nome",
     "emailField": "E-mail",
     "phoneField": "Telefone",
@@ -211,9 +221,9 @@
     "messageLabel": "Digite aqui a sua mensagem",
     "optional": "Opcional",
     "sendButton": "Enviar",
-    "loading": "Aguarde...",
+    "loading": "A carregar...",
     "error": "Erro ao enviar",
-    "old": "Ver página do meu portifólio antigo",
-    "whats": "Entre em contato pelo WhatsApp"
+    "old": "Ver página do meu portfólio antigo",
+    "whats": "Entre em contacto pelo WhatsApp"
   }
 }

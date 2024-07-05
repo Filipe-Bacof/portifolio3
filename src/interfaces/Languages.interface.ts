@@ -17,16 +17,26 @@ interface Global {
 
 export interface LanguageOptions {
   title: string;
-  pt: string;
+  warning: string;
+  be: string;
+  ch: string;
+  de: string;
   en: string;
   es: string;
-  de: string;
   fr: string;
+  hi: string;
+  ind: string;
   it: string;
+  ja: string;
+  ko: string;
+  no: string;
+  ptbr: string;
+  ptpt: string;
+  ru: string;
 }
 
 export type Language = Exclude<
-  keyof Omit<LanguageOptions, "title">,
+  keyof Omit<LanguageOptions, "title" | "warning">,
   keyof Object
 >;
 

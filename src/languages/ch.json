@@ -1,0 +1,229 @@
+{
+  "global": {
+    "next": "下一个",
+    "prev": "上一个",
+    "home": "主页",
+    "language": {
+      "title": "切换语言",
+      "warning": "注意：并非所有语言都经过审核",
+      "be": "孟加拉语",
+      "ch": "普通话",
+      "de": "德语",
+      "en": "英语",
+      "es": "西班牙语",
+      "fr": "法语",
+      "it": "意大利语",
+      "hi": "印地语",
+      "ind": "印度尼西亚语",
+      "ja": "日语",
+      "ko": "韩语",
+      "no": "挪威语",
+      "ptbr": "巴西葡萄牙语",
+      "ptpt": "葡萄牙语",
+      "ru": "俄语"
+    }
+  },
+  "home": {
+    "menuTitle": "主页",
+    "imageAlt": "Filipe Bacof的照片",
+    "header": {
+      "header1": "欢迎！我是",
+      "header2": "Filipe Bacof",
+      "header3": "全栈开发人员"
+    },
+    "shortcuts": {
+      "title": "快捷方式",
+      "whatsApp": "通过WhatsApp联系",
+      "email": "通过我的联系表格通过电子邮件联系",
+      "github": "在GitHub上查看我的项目",
+      "linkedin": "在LinkedIn上与我连接"
+    },
+    "location": {
+      "title": "位置",
+      "where": "巴西圣保罗州"
+    },
+    "phones": {
+      "title": "电话",
+      "phone1": "(51) 99445-6865",
+      "phone2": "(51) 99763-1686"
+    }
+  },
+  "career": {
+    "menuTitle": "职业生涯",
+    "imageAlt": "Filipe Bacof在工作中的照片",
+    "experiences": {
+      "title": "经验",
+      "jobs": [
+        {
+          "title": "Vidaia Care",
+          "role": "全栈开发人员",
+          "modality": "远程",
+          "start": "2023年7月",
+          "end": "2024年6月",
+          "elapsed": "1年",
+          "description": "面向医疗和护理领域的系统编程"
+        },
+        {
+          "title": "Prestativ SAP",
+          "role": "全栈开发人员",
+          "modality": "现场",
+          "start": "2022年12月",
+          "end": "2023年4月",
+          "elapsed": "5个月",
+          "description": "为公司内部使用开发系统"
+        },
+        {
+          "title": "Datamétrica",
+          "role": "电话支持操作员",
+          "modality": "远程",
+          "start": "2021年1月",
+          "end": "2022年4月",
+          "elapsed": "1年4个月",
+          "description": "为客户提供支持和支持，运营管理系统"
+        },
+        {
+          "title": "Tracktus",
+          "role": "支持分析师",
+          "modality": "现场",
+          "start": "2017年2月",
+          "end": "2020年1月",
+          "elapsed": "3年",
+          "description": "系统操作和客户支持，内部信息维护"
+        }
+      ]
+    },
+    "download": {
+      "title": "下载简历",
+      "pt": "PT-BR",
+      "en": "EN-US"
+    }
+  },
+  "academic": {
+    "menuTitle": "学术生涯",
+    "imageAlt": "Filipe Bacof在毕业典礼上的照片",
+    "education": {
+      "title": "学历",
+      "where": "Unicesumar EAD",
+      "course": "软件工程学士",
+      "conclusion": "进行中，已完成13/16"
+    },
+    "languages": [
+      {
+        "en": "巴西葡萄牙语",
+        "level": "C2 - 精通，母语"
+      },
+      {
+        "en": "英语",
+        "level": "B2 - 独立最低"
+      },
+      {
+        "en": "西班牙语",
+        "level": "B1 - 中级"
+      }
+    ],
+    "books": [
+      {
+        "title": "实用程序员",
+        "description": "展示了软件开发的最佳实践和主要陷阱。"
+      },
+      {
+        "title": "干净的代码",
+        "description": "教授一套良好实践，以提高代码的可读性和可维护性。"
+      },
+      {
+        "title": "比魔鬼聪明",
+        "description": "拿破仑·希尔（Napoleon Hill）在一次访谈中迫使魔鬼揭示逃脱恐惧、拖延和愤怒等魔鬼工具的技巧，这些工具用来疏远人类。"
+      },
+      {
+        "title": "开白隆",
+        "description": "这本神秘的书是引导赫尔梅蒂斯主义智慧的入门，这是一种从古代到现代的神秘传统。"
+      }
+    ],
+    "softskills": [
+      "分析技术信息的能力",
+      "团队合作的良好幽默感",
+      "学习新技术的敏捷性",
+      "解决问题的创造力",
+      "习惯于使用敏捷方法"
+    ],
+    "currentlyStudying": {
+      "title": "Web3和区块链",
+      "description": "使用Solidity创建智能合约"
+    }
+  },
+  "personal": {
+    "menuTitle": "个人生活",
+    "imageAlt": "Filipe Bacof弹吉他的照片",
+    "button": {
+      "title": "一些美好的回忆",
+      "description": "在Rocketseat活动中创建了一个时间胶囊项目，我打算每年重新创建这个项目。"
+    },
+    "about": {
+      "title": "我是谁？",
+      "description": "除了是一名对技术充满热情的专业人士外，我还有许多爱好，包括弹奏弦乐器、阅读各种主题的书籍、与妻子一起观看电视剧和照顾我的两只猫。"
+    },
+    "quote": {
+      "sentence": "做得多的人，很快就会得到更多的回报。",
+      "author": "拿破仑·希尔"
+    }
+  },
+  "projects": {
+    "menuTitle": "项目",
+    "buttons": {
+      "deploy": "查看部署",
+      "repo": "查看存储库"
+    },
+    "projects": [
+      {
+        "title": "Lokos D' Bira网站",
+        "description1": "与朋友一起创建的Web应用程序，以我的城市中一支非常有魅力的乐队为荣誉",
+        "description2": "使用NextJS进行了SEO优化，尝试在Google上搜索乐队名称"
+      },
+      {
+        "title": "Metallica API",
+        "description1": "开发的背后是为了庆祝7月13日的摇滚日",
+        "description2": "这个项目的目的是与其他程序员建立联系"
+      },
+      {
+        "title": "Pokedéx",
+        "description1": "每个程序员都有这个项目，但我的几乎全部使用Tailwind",
+        "description2": "这个项目是为全栈职位的技术挑战创建的"
+      },
+      {
+        "title": "任务管理器",
+        "description1": "我尝试使用这个ORM，而不是我习惯使用的ORM。",
+        "description2": "这个应用程序是为全栈职位的技术挑战创建的"
+      },
+      {
+        "title": "聊天GPT克隆",
+        "description1": "使用OpenAI的API，与官方ChatGPT相同的接口",
+        "description2": "界面与ChatGPT的发布时期相同。"
+      },
+      {
+        "title": "电影图书馆",
+        "description1": "使用The Movie DataBase（TMDB）提供的API",
+        "description2": "界面与ChatGPT的发布时期相同。"
+      },
+      {
+        "title": "NLW电竞",
+        "description1": "我参加的第一个编程活动之一",
+        "description2": "活动后的挑战是使用其他主题重新创建社交电竞页面的项目"
+      }
+    ]
+  },
+  "contact": {
+    "menuTitle": "联系方式",
+    "pageTitle": "通过电子邮件与我联系",
+    "nameField": "名字",
+    "emailField": "电子邮件",
+    "phoneField": "电话",
+    "messageField": "信息",
+    "messageLabel": "在这里输入您的消息",
+    "optional": "选填",
+    "sendButton": "发送",
+    "loading": "加载中...",
+    "error": "发送错误",
+    "old": "查看我的旧作品页",
+    "whats": "通过WhatsApp联系"
+  }
+}

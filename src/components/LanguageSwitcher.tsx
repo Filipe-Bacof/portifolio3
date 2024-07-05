@@ -1,10 +1,19 @@
 import { useState, useEffect } from "react";
+import beIcon from "../assets/flags-icons/be.svg";
+import chIcon from "../assets/flags-icons/ch.svg";
 import deIcon from "../assets/flags-icons/de.svg";
 import enIcon from "../assets/flags-icons/en.svg";
 import esIcon from "../assets/flags-icons/es.svg";
 import frIcon from "../assets/flags-icons/fr.svg";
+import hiIcon from "../assets/flags-icons/hi.svg";
+import indIcon from "../assets/flags-icons/ind.svg";
 import itIcon from "../assets/flags-icons/it.svg";
-import ptIcon from "../assets/flags-icons/pt.svg";
+import jaIcon from "../assets/flags-icons/ja.svg";
+import koIcon from "../assets/flags-icons/ko.svg";
+import noIcon from "../assets/flags-icons/no.svg";
+import ptbrIcon from "../assets/flags-icons/pt-br.svg";
+import ptptIcon from "../assets/flags-icons/pt-pt.svg";
+import ruIcon from "../assets/flags-icons/ru.svg";
 import "../styles/components/LanguageSwitcher.sass";
 import { Language } from "../interfaces/Languages.interface";
 import {
@@ -32,9 +41,9 @@ export default function LanguageSwitcher({
 
   const languages: LanguageItem[] = [
     {
-      code: "de",
-      name: getTranslatedInformation(selected, "global.language.de"),
-      icon: deIcon,
+      code: "ptbr",
+      name: getTranslatedInformation(selected, "global.language.ptbr"),
+      icon: ptbrIcon,
     },
     {
       code: "en",
@@ -47,6 +56,11 @@ export default function LanguageSwitcher({
       icon: esIcon,
     },
     {
+      code: "de",
+      name: getTranslatedInformation(selected, "global.language.de"),
+      icon: deIcon,
+    },
+    {
       code: "fr",
       name: getTranslatedInformation(selected, "global.language.fr"),
       icon: frIcon,
@@ -57,9 +71,49 @@ export default function LanguageSwitcher({
       icon: itIcon,
     },
     {
-      code: "pt",
-      name: getTranslatedInformation(selected, "global.language.pt"),
-      icon: ptIcon,
+      code: "be",
+      name: getTranslatedInformation(selected, "global.language.be"),
+      icon: beIcon,
+    },
+    {
+      code: "ch",
+      name: getTranslatedInformation(selected, "global.language.ch"),
+      icon: chIcon,
+    },
+    {
+      code: "hi",
+      name: getTranslatedInformation(selected, "global.language.hi"),
+      icon: hiIcon,
+    },
+    {
+      code: "ind",
+      name: getTranslatedInformation(selected, "global.language.ind"),
+      icon: indIcon,
+    },
+    {
+      code: "ja",
+      name: getTranslatedInformation(selected, "global.language.ja"),
+      icon: jaIcon,
+    },
+    {
+      code: "ko",
+      name: getTranslatedInformation(selected, "global.language.ko"),
+      icon: koIcon,
+    },
+    {
+      code: "no",
+      name: getTranslatedInformation(selected, "global.language.no"),
+      icon: noIcon,
+    },
+    {
+      code: "ptpt",
+      name: getTranslatedInformation(selected, "global.language.ptpt"),
+      icon: ptptIcon,
+    },
+    {
+      code: "ru",
+      name: getTranslatedInformation(selected, "global.language.ru"),
+      icon: ruIcon,
     },
   ];
 
@@ -77,7 +131,7 @@ export default function LanguageSwitcher({
   useEffect(() => {
     const storedLanguage = localStorage.getItem("selectedLanguage");
     if (storedLanguage && storedLanguage !== selected) {
-      onChange(isLanguage(storedLanguage) ? storedLanguage : "pt");
+      onChange(isLanguage(storedLanguage) ? storedLanguage : "ptbr");
     }
   }, [selected, onChange]);
 
@@ -95,18 +149,21 @@ export default function LanguageSwitcher({
         />
       </Tooltip>
       {showPanel && (
-        <div className="language-panel">
-          {languages.map((lang) => (
-            <img
-              key={lang.code}
-              src={lang.icon}
-              alt={lang.code}
-              className={`language-icon ${
-                lang.code === selected ? "selected" : ""
-              }`}
-              onClick={() => handleLanguageChange(lang.code)}
-            />
-          ))}
+        <div className="language-container">
+          <div className="language-panel">
+            {languages.map((lang) => (
+              <img
+                key={lang.code}
+                src={lang.icon}
+                alt={lang.code}
+                className={`language-icon ${
+                  lang.code === selected ? "selected" : ""
+                }`}
+                onClick={() => handleLanguageChange(lang.code)}
+              />
+            ))}
+          </div>
+          <p>{getTranslatedInformation(selected, "global.language.warning")}</p>
         </div>
       )}
     </div>

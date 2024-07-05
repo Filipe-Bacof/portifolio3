@@ -1,0 +1,229 @@
+{
+  "global": {
+    "next": "Berikutnya",
+    "prev": "Sebelumnya",
+    "home": "Beranda",
+    "language": {
+      "title": "Ubah Bahasa",
+      "warning": "Peringatan: Tidak semua bahasa telah direvisi",
+      "be": "Bengali",
+      "ch": "Mandarin",
+      "de": "Jerman",
+      "en": "Inggris",
+      "es": "Spanyol",
+      "fr": "Perancis",
+      "it": "Italia",
+      "hi": "Hindi",
+      "ind": "Indonesia",
+      "ja": "Jepang",
+      "ko": "Korea",
+      "no": "Norwegia",
+      "ptbr": "Portugis (Brasil)",
+      "ptpt": "Portugis (Portugal)",
+      "ru": "Rusia"
+    }
+  },
+  "home": {
+    "menuTitle": "Beranda",
+    "imageAlt": "Foto Filipe Bacof",
+    "header": {
+      "header1": "Selamat datang! Saya adalah",
+      "header2": "Filipe Bacof",
+      "header3": "Pengembang Full-Stack"
+    },
+    "shortcuts": {
+      "title": "Pintasan",
+      "whatsApp": "Hubungi saya via WhatsApp",
+      "email": "Hubungi saya melalui formulir email",
+      "github": "Lihat proyek-proyek saya di GitHub",
+      "linkedin": "Terhubung dengan saya di LinkedIn"
+    },
+    "location": {
+      "title": "Lokasi",
+      "where": "Sapucaia do Sul - RS"
+    },
+    "phones": {
+      "title": "Telepon",
+      "phone1": "(51) 99445-6865",
+      "phone2": "(51) 99763-1686"
+    }
+  },
+  "career": {
+    "menuTitle": "Karier",
+    "imageAlt": "Foto Filipe Bacof bekerja",
+    "experiences": {
+      "title": "Pengalaman",
+      "jobs": [
+        {
+          "title": "Vidaia Care",
+          "role": "Pengembang Fullstack",
+          "modality": "Remote",
+          "start": "Jul 2023",
+          "end": "Jun 2024",
+          "elapsed": "1 tahun",
+          "description": "Pemrograman sistem-sistem kesehatan dan perawatan"
+        },
+        {
+          "title": "Prestativ SAP",
+          "role": "Pengembang Fullstack",
+          "modality": "On-site",
+          "start": "Des 2022",
+          "end": "Apr 2023",
+          "elapsed": "5 bulan",
+          "description": "Pengembangan sistem-sistem internal perusahaan"
+        },
+        {
+          "title": "Datamétrica",
+          "role": "Operator Layanan Pelanggan",
+          "modality": "Remote",
+          "start": "Jan 2021",
+          "end": "Apr 2022",
+          "elapsed": "1 tahun 4 bulan",
+          "description": "Pelayanan dan dukungan kepada pelanggan, operasi sistem administratif"
+        },
+        {
+          "title": "Tracktus",
+          "role": "Analisis Dukungan",
+          "modality": "On-site",
+          "start": "Feb 2017",
+          "end": "Jan 2020",
+          "elapsed": "3 tahun",
+          "description": "Operasi sistem dan dukungan kepada pelanggan, pemeliharaan informasi internal"
+        }
+      ]
+    },
+    "download": {
+      "title": "Unduh CV",
+      "pt": "PT-BR",
+      "en": "EN-US"
+    }
+  },
+  "academic": {
+    "menuTitle": "Akademik",
+    "imageAlt": "Foto Filipe Bacof saat wisuda",
+    "education": {
+      "title": "Pendidikan",
+      "where": "Unicesumar EAD",
+      "course": "Sarjana Teknik Perangkat Lunak",
+      "conclusion": "Sedang berlangsung, 13/16 selesai"
+    },
+    "languages": [
+      {
+        "en": "Portugis (Brasil)",
+        "level": "C2 - Mahir, Asli"
+      },
+      {
+        "en": "Inggris",
+        "level": "B2 - Mandiri Minimum"
+      },
+      {
+        "en": "Spanyol",
+        "level": "B1 - Menengah"
+      }
+    ],
+    "books": [
+      {
+        "title": "Programmer Pragmatis",
+        "description": "Menyajikan praktik terbaik dan jebakan utama dalam pengembangan perangkat lunak."
+      },
+      {
+        "title": "Kode Bersih",
+        "description": "Mengajarkan seperangkat praktik baik untuk meningkatkan keterbacaan dan maintainabilitas kode Anda."
+      },
+      {
+        "title": "Lebih Pandai dari Setan",
+        "description": "Wawancara di mana Napoleon Hill memaksa Setan untuk mengungkap trik untuk melarikan diri dari perangkap seperti ketakutan, penundaan, kemarahan, yang disebut sebagai alat setan untuk memisahkan manusia."
+      },
+      {
+        "title": "Kabbalah",
+        "description": "Buku misterius ini adalah pengantar kebijaksanaan Hermetis, sebuah tradisi mistik yang melintasi waktu dari zaman kuno hingga saat ini."
+      }
+    ],
+    "softskills": [
+      "Kemampuan untuk menganalisis informasi teknis",
+      "Kesabaran untuk bekerja dalam tim",
+      "Ketangkasan untuk belajar teknologi baru",
+      "Kreativitas untuk menyelesaikan masalah",
+      "Terbiasa dengan metodologi agile"
+    ],
+    "currentlyStudying": {
+      "title": "Web3 dan Blockchain",
+      "description": "Pembuatan kontrak pintar dengan Solidity"
+    }
+  },
+  "personal": {
+    "menuTitle": "Pribadi",
+    "imageAlt": "Foto Filipe Bacof bermain gitar",
+    "button": {
+      "title": "Beberapa kenangan indah",
+      "description": "Proyek kapsul waktu, dibuat dalam acara Rocketseat, saya berencana untuk memperbarui proyek ini setiap tahun."
+    },
+    "about": {
+      "title": "Siapa saya?",
+      "description": "Selain menjadi profesional yang mencintai teknologi, saya juga memiliki berbagai hobi, termasuk bermain alat musik senar, membaca buku tentang berbagai topik, menonton serial dengan istri saya, dan merawat kedua kucing saya."
+    },
+    "quote": {
+      "sentence": "Orang yang melakukan lebih dari yang dia bayar, akan segera dibayar lebih dari apa yang dia lakukan.",
+      "author": "Napoleon Hill"
+    }
+  },
+  "projects": {
+    "menuTitle": "Proyek",
+    "buttons": {
+      "deploy": "Lihat deploy",
+      "repo": "Lihat Repositori"
+    },
+    "projects": [
+      {
+        "title": "Situs Lokos D' Bira",
+        "description1": "Aplikasi web yang dibuat dengan teman-teman sebagai penghargaan untuk band yang sangat karismatik dari kota saya",
+        "description2": "Sorotan untuk optimisasi SEO yang dilakukan dengan NextJS, coba cari nama band di Google"
+      },
+      {
+        "title": "Metallica API",
+        "description1": "Proyek backend yang dikembangkan untuk merayakan Hari Rock (13 Juli)",
+        "description2": "Tujuan proyek ini adalah untuk berjejaring dengan programmer lainnya"
+      },
+      {
+        "title": "Pokedéx",
+        "description1": "Setiap programmer memiliki proyek ini, tetapi saya hampir semuanya menggunakan Tailwind",
+        "description2": "Proyek ini dibuat sebagai tantangan teknis untuk posisi Full-Stack"
+      },
+      {
+        "title": "Manajemen Tugas",
+        "description1": "Saya mencoba menggunakan ORM yang berbeda dari yang biasanya saya gunakan, menggunakan Sequelize bukan Prisma",
+        "description2": "Aplikasi ini dibuat sebagai tantangan teknis untuk posisi Full-Stack"
+      },
+      {
+        "title": "Klon Chat GPT",
+        "description1": "Mengonsumsi API dari OpenAI, yang sama dengan yang digunakan oleh ChatGPT resmi",
+        "description2": "Antarmuka sama dengan ChatGPT pada saat peluncurannya."
+      },
+      {
+        "title": "Perpustakaan Film",
+        "description1": "Menggunakan API yang disediakan oleh The Movie DataBase (TMDB)",
+        "description2": "Antarmuka sama dengan ChatGPT pada saat peluncurannya."
+      },
+      {
+        "title": "NLW E-Sports",
+        "description1": "Salah satu acara pemrograman pertama yang saya ikuti",
+        "description2": "Tantangannya setelah acara adalah untuk membangun kembali proyek halaman sosial E-Sports dengan tema lain"
+      }
+    ]
+  },
+  "contact": {
+    "menuTitle": "Kontak",
+    "pageTitle": "Hubungi saya melalui email",
+    "nameField": "Nama",
+    "emailField": "Email",
+    "phoneField": "Telepon",
+    "messageField": "Pesan",
+    "messageLabel": "Ketikkan pesan Anda di sini",
+    "optional": "Opsional",
+    "sendButton": "Kirim",
+    "loading": "Mohon tunggu...",
+    "error": "Kesalahan saat mengirim",
+    "old": "Lihat halaman portofolio lama saya",
+    "whats": "Hubungi saya melalui WhatsApp"
+  }
+}
