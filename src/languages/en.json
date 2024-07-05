@@ -147,7 +147,8 @@
       "Used to working with agile methodologies"
     ],
     "currentlyStudying": {
-      "title": "Web3 and Blockchain",
+      "title": "Currently, I am studying",
+      "item": "Web3 and Blockchain",
       "description": "Creating smart contracts with Solidity"
     }
   },

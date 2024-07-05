@@ -4,11 +4,11 @@ import Experiences from "../components/Experiences";
 import { Language } from "../interfaces/Languages.interface";
 import { getTranslatedInformation } from "../utils/languageFunctions";
 
-type HomeProps = {
+type ProfessionalProps = {
   language: Language;
 };
 
-export default function Professional({ language }: HomeProps) {
+export default function Professional({ language }: ProfessionalProps) {
   return (
     <>
       <CirclePhoto

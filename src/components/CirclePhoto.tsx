@@ -5,6 +5,7 @@ type CirclePhotoProps = {
   alt: string;
   href?: string;
   small?: boolean;
+  xsmall?: boolean;
 };
 
 export default function CirclePhoto({
@@ -12,15 +13,22 @@ export default function CirclePhoto({
   src,
   alt,
   small,
+  xsmall,
 }: CirclePhotoProps) {
   return href ? (
     <a
-      className={`profile-pic-container ${small ? "small" : ""}`}
+      className={`profile-pic-container ${small ? "small" : ""} ${
+        xsmall ? "xsmall" : ""
+      }`}
       href={href}
       target="_blank"
       rel="noreferrer"
     >
-      <div className={`border-gradient ${small ? "small" : ""}`}>
+      <div
+        className={`border-gradient ${small ? "small" : ""} ${
+          xsmall ? "xsmall" : ""
+        }`}
+      >
         <img
           className="profile-pic"
           src={src}
@@ -32,10 +40,16 @@ export default function CirclePhoto({
     </a>
   ) : (
     <div
-      className={`profile-pic-container ${small ? "small" : ""} default-cursor`}
+      className={`profile-pic-container ${small ? "small" : ""}  ${
+        xsmall ? "xsmall" : ""
+      } default-cursor`}
       rel="noreferrer"
     >
-      <div className={`border-gradient ${small ? "small" : ""}`}>
+      <div
+        className={`border-gradient ${small ? "small" : ""}  ${
+          xsmall ? "xsmall" : ""
+        }`}
+      >
         <img
           className="profile-pic"
           src={src}

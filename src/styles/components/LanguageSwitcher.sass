@@ -1,56 +1,54 @@
 @use '../variables'
 @use '../mixins'
 
-.language-switcher
-  position: relative
-  width: 2.5rem
-  height: 2.5rem
+.language-switcher > button
+  background-color: transparent
+  border: none
 
 .selected-language
   cursor: pointer
   width: 100%
   height: 100%
 
-.language-container
-  position: absolute
-  top: 3.3rem
-  right: 0
+.popover-content
+  width: 14rem
   display: flex
   flex-direction: column
-  justify-content: space-between
   align-items: center
-  height: 22rem
-  width: 12rem
   background-color: variables.$bg-color
   border: 1px solid variables.$bg-color-secondary
   border-radius: 4px
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1)
-  padding: 8px
+  padding: 16px
   z-index: 100
-  cursor: pointer
-
-  .warning
-    color: #b20000
-    text-shadow: 1px 1px 1px #000000
 
 .language-panel
   display: flex
-  flex-direction: column
-  justify-content: space-between
-  align-item: center
-  gap: 0.5rem
   flex-wrap: wrap
-  height: 14rem
+  justify-content: center
+  gap: 8px
+  width: 100%
 
 .language-icon
-  width: 30px
-  margin-left: 10px
-  margin-right: 10px
-  border-radius: 9999px
-  height: 30px
-  margin-bottom: 8px
-  transition: opacity 0.3s ease
+  cursor: pointer
+  width: 40px
+  height: 40px
+  border-radius: 50%
+  transition: transform 0.3s ease
 
 .language-icon.selected
-  box-shadow: 0 0 16px variables.$text-color
-  border-radius: 9999px
+  box-shadow: 0 0 32px #3f66e6, 0 0 16px #3f66e6, 0 0 8px #3f66e6
+  transform: scale(1.1)
+
+.hovered-language
+  @include mixins.center
+  height: 2rem
+  margin-top: 0.5rem
+  font-size: 0.8rem
+  color: variables.$text-color
+
+.warning
+  margin-top: 8px
+  width: 12rem
+  color: #b20000
+  text-shadow: 1px 1px 1px #000000

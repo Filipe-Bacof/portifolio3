@@ -147,7 +147,8 @@
       "习惯于使用敏捷方法"
     ],
     "currentlyStudying": {
-      "title": "Web3和区块链",
+      "title": "目前我正在学习",
+      "item": "Web3和区块链",
       "description": "使用Solidity创建智能合约"
     }
   },

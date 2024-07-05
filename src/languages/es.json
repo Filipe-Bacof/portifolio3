@@ -147,7 +147,8 @@
       "Acostumbrado a trabajar con metodologías ágiles"
     ],
     "currentlyStudying": {
-      "title": "Web3 y Blockchain",
+      "title": "Actualmente estoy estudiando",
+      "item": "Web3 y Blockchain",
       "description": "Creación de contratos inteligentes con Solidity"
     }
   },

@@ -1,0 +1,24 @@
+@use '../variables'
+@use '../mixins'
+
+.border-photo-gradient
+  @include mixins.center
+  height: 12rem
+  width: 12rem
+  border-radius: 50%
+  background: variables.$gradient
+
+  &.small
+    width: 5rem
+    height: 5rem
+
+  &.xsmall
+    width: 2.75rem
+    height: 2.75rem
+
+.image
+  border-radius: 50%
+  padding: 0.1rem
+
+.invisible
+  display: none

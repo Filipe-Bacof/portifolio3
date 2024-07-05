@@ -117,7 +117,7 @@ interface Education {
   conclusion: string;
 }
 
-interface LanguageItem {
+export interface LanguageItem {
   en: string;
   level: string;
 }
@@ -129,6 +129,7 @@ interface Book {
 
 interface CurrentlyStudying {
   title: string;
+  item: string;
   description: string;
 }
 

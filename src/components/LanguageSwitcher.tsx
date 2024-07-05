@@ -20,7 +20,8 @@ import {
   getTranslatedInformation,
   isLanguage,
 } from "../utils/languageFunctions";
-import Tooltip from "./Tooltip";
+import * as Popover from "@radix-ui/react-popover";
+import BorderPhoto from "./BorderPhoto";
 
 type LanguageSwitcherProps = {
   selected: Language;
@@ -31,7 +32,6 @@ export default function LanguageSwitcher({
   selected,
   onChange,
 }: LanguageSwitcherProps) {
-  const [showPanel, setShowPanel] = useState(false);
   const [hoveredLanguage, setHoveredLanguage] = useState<string>("");
 
   type LanguageItem = {
@@ -118,15 +118,9 @@ export default function LanguageSwitcher({
     },
   ];
 
-  const togglePanel = () => {
-    setShowPanel((prev) => !prev);
-  };
-
   const handleLanguageChange = (languageCode: Language) => {
     onChange(languageCode);
-    setShowPanel(false);
     localStorage.setItem("selectedLanguage", languageCode);
-    // window.location.reload();
   };
 
   useEffect(() => {
@@ -138,47 +132,50 @@ export default function LanguageSwitcher({
 
   return (
     <div className="language-switcher">
-      <Tooltip
-        side="left"
-        text={getTranslatedInformation(selected, "global.language.title")}
-      >
-        <img
-          src={languages.find((lang) => lang.code === selected)?.icon}
-          alt={selected}
-          className="selected-language"
-          onClick={togglePanel}
-        />
-      </Tooltip>
-      {showPanel && (
-        <div className="language-container">
-          <div className="language-panel">
-            {languages.map((lang) => (
-              <img
-                key={lang.code}
-                src={lang.icon}
-                alt={lang.code}
-                className={`language-icon ${
-                  lang.code === selected ? "selected" : ""
-                }`}
-                onClick={() => handleLanguageChange(lang.code)}
-                onMouseEnter={() =>
-                  setHoveredLanguage(
-                    getTranslatedInformation(
-                      selected,
-                      `global.language.${lang.code}`
+      <Popover.Root>
+        <Popover.Trigger>
+          <BorderPhoto
+            src={languages.find((lang) => lang.code === selected)?.icon || ""}
+            alt={selected}
+            side="left"
+            text={getTranslatedInformation(selected, "global.language.title")}
+            classes="selected-language"
+            xsmall
+          />
+        </Popover.Trigger>
+        <Popover.Anchor />
+        <Popover.Portal>
+          <Popover.Content className="popover-content">
+            <Popover.Arrow />
+            <div className="language-panel">
+              {languages.map((lang) => (
+                <img
+                  key={lang.code}
+                  src={lang.icon}
+                  alt={lang.code}
+                  className={`language-icon ${
+                    lang.code === selected ? "selected" : ""
+                  }`}
+                  onClick={() => handleLanguageChange(lang.code)}
+                  onMouseEnter={() =>
+                    setHoveredLanguage(
+                      getTranslatedInformation(
+                        selected,
+                        `global.language.${lang.code}`
+                      )
                     )
-                  )
-                }
-                onMouseLeave={() => setHoveredLanguage("")}
-              />
-            ))}
-          </div>
-          <p>{hoveredLanguage}</p>
-          <span className="warning">
-            {getTranslatedInformation(selected, "global.language.warning")}
-          </span>
-        </div>
-      )}
+                  }
+                  onMouseLeave={() => setHoveredLanguage("")}
+                />
+              ))}
+            </div>
+            <p className="hovered-language">{hoveredLanguage}</p>
+            <span className="warning">
+              {getTranslatedInformation(selected, "global.language.warning")}
+            </span>
+          </Popover.Content>
+        </Popover.Portal>
+      </Popover.Root>
     </div>
   );
 }

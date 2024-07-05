@@ -147,7 +147,8 @@
       "アジャイル方法論での作業に慣れています"
     ],
     "currentlyStudying": {
-      "title": "Web3とブロックチェーン",
+      "title": "現在、勉強しています",
+      "item": "Web3とブロックチェーン",
       "description": "Solidityを使ったスマートコントラクトの作成"
     }
   },

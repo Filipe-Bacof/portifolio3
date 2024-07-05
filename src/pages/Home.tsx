@@ -23,7 +23,7 @@ export default function Home({ language, setPage }: HomeProps) {
         header3={getTranslatedInformation(language, "home.header.header3")}
         language={language}
       />
-      <HomeShortcuts setPage={setPage} />
+      <HomeShortcuts language={language} setPage={setPage} />
     </>
   );
 }

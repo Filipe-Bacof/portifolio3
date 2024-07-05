@@ -147,7 +147,8 @@
       "민첩하게 작업 방법론을 사용하는 데 익숙함"
     ],
     "currentlyStudying": {
-      "title": "Web3 및 블록체인",
+      "title": "현재 공부하고 있습니다",
+      "item": "Web3 및 블록체인",
       "description": "Solidity를 사용한 스마트 계약 작성"
     }
   },

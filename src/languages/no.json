@@ -147,7 +147,8 @@
       "Vant til å jobbe med smidige metoder"
     ],
     "currentlyStudying": {
-      "title": "Web3 og Blockchain",
+      "title": "For øyeblikket studerer jeg",
+      "item": "Web3 og Blockchain",
       "description": "Oppretting av smarte kontrakter med Solidity"
     }
   },

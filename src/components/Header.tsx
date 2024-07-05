@@ -2,7 +2,7 @@ import { Language } from "../interfaces/Languages.interface";
 import { getTranslatedInformation } from "../utils/languageFunctions";
 import LanguageSwitcher from "./LanguageSwitcher";
 import "../styles/components/Header.sass";
-import Tooltip from "./Tooltip";
+import BorderPhoto from "./BorderPhoto";
 
 type HeaderProps = {
   language: Language;
@@ -16,13 +16,13 @@ export default function Header({
   return (
     <header className="header-content">
       <a href="/" className="link">
-        <Tooltip text={getTranslatedInformation(language, "global.home")}>
-          <img
-            className="image"
-            src="/icon.png"
-            alt={getTranslatedInformation(language, "global.home")}
-          />
-        </Tooltip>
+        <BorderPhoto
+          src="/icon.png"
+          alt={getTranslatedInformation(language, "global.home")}
+          text={getTranslatedInformation(language, "global.home")}
+          side="right"
+          xsmall
+        />
       </a>
       <h1>Filipe Bacof Desenvolvedor Full-Stack</h1>
       <LanguageSwitcher selected={language} onChange={handleChangeLanguage} />
