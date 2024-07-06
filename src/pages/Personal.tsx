@@ -1,5 +1,5 @@
+import BorderPhoto from "../components/BorderPhoto";
 import CatsAndMemories from "../components/CatsAndMemories";
-import CirclePhoto from "../components/CirclePhoto";
 import WhoIAm from "../components/WhoIAm";
 import { Language } from "../interfaces/Languages.interface";
 import { getTranslatedInformation } from "../utils/languageFunctions";
@@ -11,7 +11,7 @@ type PersonalProps = {
 export default function Personal({ language }: PersonalProps) {
   return (
     <>
-      <CirclePhoto
+      <BorderPhoto
         src="/guitar.jpg"
         alt={getTranslatedInformation(language, "personal.imageAlt")}
       />

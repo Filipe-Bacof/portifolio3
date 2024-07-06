@@ -1,4 +1,4 @@
-import CirclePhoto from "../components/CirclePhoto";
+import BorderPhoto from "../components/BorderPhoto";
 import HomeShortcuts from "../components/HomeShortcuts";
 import Typewriter from "../components/Typewriter";
 import { Language } from "../interfaces/Languages.interface";
@@ -13,7 +13,7 @@ type HomeProps = {
 export default function Home({ language, setPage }: HomeProps) {
   return (
     <>
-      <CirclePhoto
+      <BorderPhoto
         src="/profilepic.jpg"
         alt={getTranslatedInformation(language, "home.imageAlt")}
       />

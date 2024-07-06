@@ -1,6 +1,4 @@
 import { useState } from "react";
-import IconBxsLeftArrow from "../assets/icons/IconBxsLeftArrow";
-import IconBxsRightArrow from "../assets/icons/IconBxsRightArrow";
 import { Job, Language } from "../interfaces/Languages.interface";
 import { getTranslatedInformation } from "../utils/languageFunctions";
 import "../styles/components/Experiences.sass";
@@ -9,6 +7,7 @@ import prestativ from "../assets/jobs/prestativ.jpg";
 import datametrica from "../assets/jobs/datametrica.jpg";
 import tracktus from "../assets/jobs/tracktus.jpg";
 import JobCard from "./JobCard";
+import ArrowsAndTitle from "./ArrowsAndTitle";
 
 type ExperienciesProps = {
   language: Language;
@@ -34,21 +33,16 @@ export default function Experiences({ language }: ExperienciesProps) {
 
   return (
     <>
-      <div className="career-content">
-        <IconBxsLeftArrow
-          className={`career-icon ${selected === 0 ? "disabled" : "able"}`}
-          onClick={() => handleSelected("decrement")}
-        />
+      <ArrowsAndTitle
+        action={handleSelected}
+        lenght={data.length}
+        selected={selected}
+      >
         <h3 className="career-title">
           {getTranslatedInformation(language, "career.experiences.title")}
         </h3>
-        <IconBxsRightArrow
-          className={`career-icon ${
-            selected === data.length - 1 ? "disabled" : "able"
-          }`}
-          onClick={() => handleSelected("increment")}
-        />
-      </div>
+      </ArrowsAndTitle>
+
       {/* {data.map((job, index) => (
         <JobCard key={index} data={job} dataPic={dataPics[index]} />
       ))} */}

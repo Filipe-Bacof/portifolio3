@@ -10,6 +10,7 @@ import Professional from "./pages/Professional";
 import Academic from "./pages/Academic";
 import Footer from "./components/Footer";
 import Personal from "./pages/Personal";
+import Projects from "./pages/Projects";
 
 export default function App() {
   const localStorageLanguage = localStorage.getItem("selectedLanguage");
@@ -33,6 +34,7 @@ export default function App() {
         {page === 1 && <Professional language={language} />}
         {page === 2 && <Academic language={language} />}
         {page === 3 && <Personal language={language} />}
+        {page === 4 && <Projects language={language} />}
       </div>
       <Footer
         page={page}

@@ -1,4 +1,4 @@
-import CirclePhoto from "../components/CirclePhoto";
+import BorderPhoto from "../components/BorderPhoto";
 import DownloadCV from "../components/DownloadCV";
 import Experiences from "../components/Experiences";
 import { Language } from "../interfaces/Languages.interface";
@@ -11,7 +11,7 @@ type ProfessionalProps = {
 export default function Professional({ language }: ProfessionalProps) {
   return (
     <>
-      <CirclePhoto
+      <BorderPhoto
         src="/workingpic.jpg"
         alt={getTranslatedInformation(language, "career.imageAlt")}
       />

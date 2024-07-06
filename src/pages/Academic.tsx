@@ -1,5 +1,5 @@
 import AcademicInfo from "../components/AcademicInfo";
-import CirclePhoto from "../components/CirclePhoto";
+import BorderPhoto from "../components/BorderPhoto";
 import CurrentlyStudying from "../components/CurrentlyStudying";
 import Languages from "../components/Languages";
 import { Language } from "../interfaces/Languages.interface";
@@ -12,7 +12,7 @@ type AcademicProps = {
 export default function Academic({ language }: AcademicProps) {
   return (
     <>
-      <CirclePhoto
+      <BorderPhoto
         src="/badasspic.jpg"
         alt={getTranslatedInformation(language, "academic.imageAlt")}
         // Futuramente vou colocar uma foto minha no dia da formatura aqui, ainda não finalizei o curso kk
