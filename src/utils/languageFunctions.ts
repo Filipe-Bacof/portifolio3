@@ -15,6 +15,7 @@ import no from "../languages/no.json";
 import ptbr from "../languages/pt-br.json";
 import ptpt from "../languages/pt-pt.json";
 import ru from "../languages/ru.json";
+import sw from "../languages/sw.json";
 
 import { WebsiteContent, Language } from "../interfaces/Languages.interface";
 
@@ -36,6 +37,7 @@ const translations: Record<Language, WebsiteContent> = {
   ptbr,
   ptpt,
   ru,
+  sw,
 };
 
 function getTranslatedInformation(language: Language, path: string): any {
@@ -75,6 +77,7 @@ function isLanguage(str: string): str is Language {
     "ptbr",
     "ptpt",
     "ru",
+    "sw",
   ].includes(str);
 }
 

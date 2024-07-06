@@ -1,0 +1,251 @@
+{
+  "global": {
+    "next": "Ifuatayo",
+    "prev": "Iliyotangulia",
+    "home": "Nyumbani",
+    "language": {
+      "title": "Badilisha Lugha",
+      "warning": "Onyo: Si lugha zote zimepitishwa!",
+      "ar": "Kiarabu",
+      "be": "Bengali",
+      "ch": "Kichina (Mandarin)",
+      "de": "Kijerumani",
+      "en": "Kiingereza",
+      "es": "Kihispania",
+      "et": "Kiestonia",
+      "fr": "Kifaransa",
+      "it": "Kiitaliano",
+      "hi": "Kihindi",
+      "ind": "Kiindonesia",
+      "ja": "Kijapani",
+      "ko": "Kikorea",
+      "no": "Kiknorwe",
+      "ptbr": "Kireno (Brazil)",
+      "ptpt": "Kireno (Ureno)",
+      "ru": "Kirusi",
+      "sw": "Kiswahili"
+    }
+  },
+  "home": {
+    "menuTitle": "Nyumbani",
+    "imageAlt": "Picha ya Filipe Bacof",
+    "header": {
+      "header1": "Karibu! Mimi ni",
+      "header2": "Filipe Bacof",
+      "header3": "Mtaalam wa Maendeleo ya Full-Stack"
+    },
+    "shortcuts": {
+      "title": "Vidokezo",
+      "whatsApp": "Wasiliana kwa WhatsApp",
+      "email": "Wasiliana kupitia barua pepe kupitia fomu yangu ya mawasiliano",
+      "github": "Angalia miradi yangu kwenye GitHub",
+      "linkedin": "Jiunge nami kwenye LinkedIn"
+    },
+    "location": {
+      "title": "Mahali",
+      "where": "Sapucaia do Sul - RS"
+    },
+    "phones": {
+      "title": "Simu",
+      "phone1": "+55 51 99445-6865",
+      "phone2": "+55 51 99763-1686"
+    }
+  },
+  "career": {
+    "menuTitle": "Kazi ya Kitaaluma",
+    "imageAlt": "Picha ya Filipe Bacof akifanya kazi",
+    "experiences": {
+      "title": "Uzoefu",
+      "jobs": [
+        {
+          "title": "Vidaia Care",
+          "role": "Mtaalam wa Maendeleo ya Fullstack",
+          "modality": "Kijijini",
+          "start": "Julai 2023",
+          "end": "Juni 2024",
+          "elapsed": "Mwaka mmoja",
+          "description": "Programu za programu zilizolenga eneo la afya na utunzaji"
+        },
+        {
+          "title": "Prestativ SAP",
+          "role": "Mtaalam wa Maendeleo ya Fullstack",
+          "modality": "Ana kwa Ana",
+          "start": "Desemba 2022",
+          "end": "Aprili 2023",
+          "elapsed": "Miezi 5",
+          "description": "Maendeleo ya mifumo kwa matumizi ya ndani ya kampuni"
+        },
+        {
+          "title": "Datamétrica",
+          "role": "Msimamizi wa Huduma za Simu",
+          "modality": "Kijijini",
+          "start": "Januari 2021",
+          "end": "Aprili 2022",
+          "elapsed": "Mwaka mmoja na miezi 4",
+          "description": "Kutoa msaada kwa wateja, uendeshaji wa mifumo ya utawala"
+        },
+        {
+          "title": "Tracktus",
+          "role": "Mchambuzi wa Msaada",
+          "modality": "Ana kwa Ana",
+          "start": "Februari 2017",
+          "end": "Januari 2020",
+          "elapsed": "Miaka 3",
+          "description": "Uendeshaji wa mifumo na msaada kwa wateja, utunzaji wa habari za ndani"
+        }
+      ]
+    },
+    "download": {
+      "title": "Pakua Wasifu",
+      "pt": "PT-BR",
+      "en": "EN-US"
+    }
+  },
+  "academic": {
+    "menuTitle": "Maisha ya Akademia",
+    "imageAlt": "Picha ya Filipe Bacof kwenye mahafali",
+    "education": {
+      "title": "Elimu",
+      "where": "Unicesumar EAD",
+      "course": "Shahada ya Uhandisi wa Programu ya Kompyuta",
+      "conclusion": "Katika maendeleo, 13/16 imekamilika"
+    },
+    "languages": [
+      {
+        "en": "Kireno (Brazil)",
+        "level": "C2 - Mtaalam, Asili"
+      },
+      {
+        "en": "Kiingereza",
+        "level": "B2 - Kujitegemea Kiwango cha Chini"
+      },
+      {
+        "en": "Kihispania",
+        "level": "B1 - Kiwango cha Kati"
+      }
+    ],
+    "books": [
+      {
+        "title": "Mtaalam wa Programu",
+        "description": "Inaonyesha mazoea bora na mitego kuu ya maendeleo ya programu."
+      },
+      {
+        "title": "Msimbo Safi",
+        "description": "Inafundisha seti ya mazoea mazuri ya kupata usomaji zaidi na udumishaji wa kificho chako."
+      },
+      {
+        "title": "Cleverer Kuliko Shetani",
+        "description": "Mahojiano ambapo Napoleon Hill anafanya Shetani afunue mbinu za kutoroka mitego kama hofu, kusitasita, hasira, inayopendekezwa kama zana za shetani za kumfanya mwanadamu ajivue"
+      },
+      {
+        "title": "The Kybalion",
+        "description": "Kitabu hiki cha siri ni utangulizi kwa hekima ya Hermetism, jadi ya kisiri ambayo imepitia wakati tangu zamani hadi leo."
+      }
+    ],
+    "softskills": [
+      "Uwezo wa kuchambua habari za kiufundi",
+      "Mzaha mzuri wa kufanya kazi kama timu",
+      "Uteuzi wa haraka wa kujifunza teknolojia mpya",
+      "Ubunifu wa kutatua matatizo",
+      "Kawaida ya kufanya kazi na mbinu za haraka"
+    ],
+    "currentlyStudying": {
+      "title": "Ninaendelea kusoma",
+      "item": "Web3 na Blockchain",
+      "description": "Uumbaji wa mikataba mjanja na Solidity"
+    }
+  },
+  "personal": {
+    "menuTitle": "Maisha ya Kibinafsi",
+    "imageAlt": "Picha ya Filipe Bacof akicheza gitaa",
+    "button": {
+      "title": "Baadhi ya Kumbukumbu Nzuri",
+      "description": "Mradi wa kibanda cha wakati, ulioanzishwa kwenye hafla ya Rocketseat, nina nia ya kufanya tena mradi huu kila mwaka."
+    },
+    "about": {
+      "title": "Mimi ni nani?",
+      "description": "Mbali na kuwa mtaalamu anayependa teknolojia, pia nina shughuli nyingi za kupenda, zikiwa ni pamoja na kucheza vyombo vya muziki wa kamba, kusoma vitabu juu ya mada mbalimbali, kuangalia vipindi vya runinga na mke wangu na kuhudumia paka wangu wawili."
+    },
+    "quote": {
+      "sentence": "Mtu anayefanya zaidi ya anacholipwa, hivi karibuni atalipwa zaidi ya anachofanya.",
+      "author": "Napoleon Hill"
+    }
+  },
+  "projects": {
+    "menuTitle": "Miradi",
+    "buttons": {
+      "deploy": "Angalia Ufumbuzi",
+      "repo": "Angalia Hazina"
+    },
+    "projects": [
+      {
+        "title": "Tovuti ya Lokos D' Bira",
+        "description1": "Programu ya wavuti iliyoanzishwa na marafiki kama heshima kwa bendi ya kipekee katika jiji langu",
+        "description2": "Mipangilio ya SEO iliyoboreshwa na NextJS, jaribu kutafuta jina la bendi kwenye Google"
+      },
+      {
+        "title": "Metallica API",
+        "description1": "Mradi wa nyuma ulioendelezwa kusherehekea Siku ya Rock (Julai 13)",
+        "description2": "Lengo la mradi huu ni kujenga uhusiano na programu wengine"
+      },
+      {
+        "title": "Pokedéx",
+        "description1": "Kila programu ya kompyuta ina mradi huu, lakini yangu nilifanya karibu kila kitu kwa kutumia Tailwind",
+        "description2": "Mradi huu ulifanywa kama changamoto ya kiufundi kwa nafasi kamili"
+      },
+      {
+        "title": "Meneja wa Kazi",
+        "description1": "Nimejaribu kutumia ORM tofauti na ile niliyoizoea, nilitumia Sequelize badala ya Prisma",
+        "description2": "Programu hii ilifanywa kama changamoto ya kiufundi kwa nafasi kamili"
+      },
+      {
+        "title": "Nakili ya GPT ya Mazungumzo",
+        "description1": "Matumizi ya API ya OpenAI, ambayo ni sawa na ile inayotumiwa na ChatGPT rasmi",
+        "description2": "Kiolesura ni sawa na ChatGPT katika wakati wake wa kutolewa."
+      },
+      {
+        "title": "Maktaba ya Filamu",
+        "description1": "Matumizi ya API inayopatikana na The Movie Database (TMDB)",
+        "description2": "Unaweza kuona data ya kuvutia kuhusu filamu zako pendwa"
+      },
+      {
+        "title": "NLW E-Sports",
+        "description1": "Moja ya hafla za kwanza za programu ambazo nilihudhuria",
+        "description2": "Mbio baada ya hafla ilikuwa kuunda mradi wa ukurasa wa kijamii wa E-Sports na mada nyingine"
+      }
+    ],
+    "technologies": [
+      "Cypress",
+      "Docker",
+      "Git",
+      "JavaScript",
+      "Jest",
+      "MongoDB",
+      "NextJS",
+      "NodeJS",
+      "PostgreSQL",
+      "Prisma",
+      "React",
+      "Sass",
+      "Solidity",
+      "TailwindCSS",
+      "TestingLibrary",
+      "TypeScript"
+    ]
+  },
+  "contact": {
+    "menuTitle": "Wasiliana",
+    "pageTitle": "Wasiliana nami kupitia barua pepe",
+    "nameField": "Jina",
+    "emailField": "Barua pepe",
+    "phoneField": "Simu",
+    "messageField": "Ujumbe",
+    "messageLabel": "Andika ujumbe wako hapa",
+    "optional": "Hiari",
+    "sendButton": "Tuma",
+    "loading": "Subiri...",
+    "error": "Hitilafu wakati wa kutuma",
+    "old": "Angalia ukurasa wa zamani wa portofolio yangu",
+    "whats": "Wasiliana kwa WhatsApp"
+  }
+}

@@ -35,6 +35,7 @@ export interface LanguageOptions {
   ptbr: string;
   ptpt: string;
   ru: string;
+  sw: string;
 }
 
 export type Language = Exclude<

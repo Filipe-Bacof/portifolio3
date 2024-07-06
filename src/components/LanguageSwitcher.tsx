@@ -16,6 +16,7 @@ import noIcon from "../assets/flags-icons/no.svg";
 import ptbrIcon from "../assets/flags-icons/pt-br.svg";
 import ptptIcon from "../assets/flags-icons/pt-pt.svg";
 import ruIcon from "../assets/flags-icons/ru.svg";
+import swIcon from "../assets/flags-icons/sw.svg";
 import "../styles/components/LanguageSwitcher.sass";
 import { Language } from "../interfaces/Languages.interface";
 import {
@@ -127,6 +128,11 @@ export default function LanguageSwitcher({
       code: "et",
       name: getTranslatedInformation(selected, "global.language.et"),
       icon: etIcon,
+    },
+    {
+      code: "sw",
+      name: getTranslatedInformation(selected, "global.language.sw"),
+      icon: swIcon,
     },
   ];
 
