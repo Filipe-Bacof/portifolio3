@@ -24,9 +24,9 @@ const BorderPhoto = forwardRef<
     () => localRef.current as HTMLDivElement | HTMLAnchorElement
   );
 
-  const combinedClasses = `border-photo-gradient ${classes} ${
-    small ? "small" : ""
-  } ${xsmall ? "xsmall" : ""}`;
+  const combinedClasses = `border-photo-gradient ${small ? "small" : ""} ${
+    xsmall ? "xsmall" : ""
+  }`;
   const imageClasses = `image ${small ? "small" : ""} ${
     xsmall ? "xsmall" : ""
   }`;

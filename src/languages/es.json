@@ -211,6 +211,24 @@
         "description1": "Uno de los primeros eventos de programación en los que participé",
         "description2": "El desafío después del evento fue recrear el proyecto de la página social de E-Sports con otra temática"
       }
+    ],
+    "technologies": [
+      "Cypress",
+      "Docker",
+      "Git",
+      "JavaScript",
+      "Jest",
+      "MongoDB",
+      "NextJS",
+      "NodeJS",
+      "PostgreSQL",
+      "Prisma",
+      "React",
+      "Sass",
+      "Solidity",
+      "TailwindCSS",
+      "TestingLibrary",
+      "TypeScript"
     ]
   },
   "contact": {

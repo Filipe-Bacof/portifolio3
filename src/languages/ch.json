@@ -211,6 +211,24 @@
         "description1": "我参加的第一个编程活动之一",
         "description2": "活动后的挑战是使用其他主题重新创建社交电竞页面的项目"
       }
+    ],
+    "technologies": [
+      "赛普拉斯",
+      "码头工人",
+      "吉特",
+      "JavaScript",
+      "杰斯特",
+      "MongoDB",
+      "NextJS",
+      "NodeJS",
+      "PostgreSQL",
+      "棱镜",
+      "React",
+      "萨斯",
+      "Solidity",
+      "TailwindCSS",
+      "测试库",
+      "TypeScript"
     ]
   },
   "contact": {

@@ -1,14 +1,28 @@
 @use '../variables'
+@use '../mixins'
 
-.project-title
-  text-decoration: none
+.projects-content
+  display: flex
   width: 100%
-  text-align: center
-  cursor: default
-  font-size: 1.5rem
-  color: variables.$text-color
+  align-items: center
+  flex-direction: column
+  height: 8rem
+  gap: 0.5rem
 
-.project-description
-  width: 80%
-  text-align: justify
-  text-justify: inter-word
+  .project-title
+    text-decoration: none
+    width: 100%
+    text-align: center
+    cursor: default
+    font-size: 1.5rem
+    color: variables.$text-color
+
+  .project-description-content
+    @include mixins.center
+    flex-direction: column
+    margin-top: 1rem
+
+    .project-description
+      width: 80%
+      text-align: justify
+      text-justify: inter-word

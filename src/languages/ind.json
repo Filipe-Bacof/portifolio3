@@ -211,6 +211,24 @@
         "description1": "Salah satu acara pemrograman pertama yang saya ikuti",
         "description2": "Tantangannya setelah acara adalah untuk membangun kembali proyek halaman sosial E-Sports dengan tema lain"
       }
+    ],
+    "technologies": [
+      "Cypress",
+      "Docker",
+      "Git",
+      "JavaScript",
+      "Jest",
+      "MongoDB",
+      "NextJS",
+      "NodeJS",
+      "PostgreSQL",
+      "Prisma",
+      "React",
+      "Sass",
+      "Solidity",
+      "TailwindCSS",
+      "TestingLibrary",
+      "TypeScript"
     ]
   },
   "contact": {

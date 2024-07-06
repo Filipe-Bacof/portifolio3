@@ -1,4 +1,4 @@
-import { ReactNode } from "react";
+import { ReactNode, forwardRef } from "react";
 import * as TooltipRadix from "@radix-ui/react-tooltip";
 import "../styles/components/Tooltip.sass";
 
@@ -8,11 +8,13 @@ type TooltipProps = {
   side?: "left" | "top" | "right" | "bottom";
 };
 
-export default function Tooltip({ children, text, side }: TooltipProps) {
-  return (
+const Tooltip = forwardRef<HTMLDivElement, TooltipProps>(
+  ({ children, text, side }, ref) => (
     <TooltipRadix.Provider delayDuration={300}>
       <TooltipRadix.Root>
-        <TooltipRadix.Trigger asChild>{children}</TooltipRadix.Trigger>
+        <TooltipRadix.Trigger asChild>
+          <div ref={ref}>{children}</div>
+        </TooltipRadix.Trigger>
         <TooltipRadix.Portal>
           <TooltipRadix.Content
             className="tooltip-content"
@@ -24,5 +26,7 @@ export default function Tooltip({ children, text, side }: TooltipProps) {
         </TooltipRadix.Portal>
       </TooltipRadix.Root>
     </TooltipRadix.Provider>
-  );
-}
+  )
+);
+
+export default Tooltip;

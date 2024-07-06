@@ -54,7 +54,7 @@ export default function ProjectView({ language }: ProjectViewProps) {
     }
   };
   return (
-    <>
+    <div className="projects-content">
       <BorderPhoto
         href={deploys[selected]}
         src={datapics[selected]}
@@ -76,8 +76,10 @@ export default function ProjectView({ language }: ProjectViewProps) {
           </a>
         </Tooltip>
       </ArrowsAndTitle>
-      <p className="project-description">{data[selected].description1}</p>
-      <p className="project-description">{data[selected].description2}</p>
-    </>
+      <div className="project-description-content">
+        <p className="project-description">{data[selected].description1}</p>
+        <p className="project-description">{data[selected].description2}</p>
+      </div>
+    </div>
   );
 }

@@ -164,6 +164,7 @@ interface Projects {
     repo: string;
   };
   projects: Project[];
+  technologies: string[];
 }
 
 export interface Project {

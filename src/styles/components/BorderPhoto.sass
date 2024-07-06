@@ -8,14 +8,15 @@
   border-radius: 50%
   background: variables.$gradient
   transition: transform 0.3s
+  aspect-ratio: 1/1
 
   &.small
-    width: 5rem
-    height: 5rem
+    width: 4.5rem
+    height: 4.5rem
 
   &.xsmall
-    width: 2.5rem
-    height: 2.5rem
+    width: 3rem
+    height: 3rem
 
   &:hover
     transform: scale(1.1)
@@ -23,12 +24,17 @@
 .image
   border-radius: 50%
   padding: 5px
+  aspect-ratio: 1/1
 
   &.small
-    padding: 4px
+    padding: 3px
 
   &.xsmall
     padding: 2px
 
 .invisible
   display: none
+
+.border-photo-gradient > div
+  width: 100%
+  height: 100%
