@@ -1,4 +1,5 @@
 import { useState, useEffect } from "react";
+import arIcon from "../assets/flags-icons/ar.svg";
 import beIcon from "../assets/flags-icons/be.svg";
 import chIcon from "../assets/flags-icons/ch.svg";
 import deIcon from "../assets/flags-icons/de.svg";
@@ -115,6 +116,11 @@ export default function LanguageSwitcher({
       code: "ru",
       name: getTranslatedInformation(selected, "global.language.ru"),
       icon: ruIcon,
+    },
+    {
+      code: "ar",
+      name: getTranslatedInformation(selected, "global.language.ar"),
+      icon: arIcon,
     },
   ];
 

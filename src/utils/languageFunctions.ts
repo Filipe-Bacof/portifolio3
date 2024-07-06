@@ -1,3 +1,4 @@
+import ar from "../languages/ar.json";
 import be from "../languages/be.json";
 import ch from "../languages/ch.json";
 import de from "../languages/de.json";
@@ -17,6 +18,7 @@ import ru from "../languages/ru.json";
 import { WebsiteContent, Language } from "../interfaces/Languages.interface";
 
 const translations: Record<Language, WebsiteContent> = {
+  ar,
   be,
   ch,
   de,
@@ -51,6 +53,7 @@ function getTranslatedInformation(language: Language, path: string): any {
 
 function isLanguage(str: string): str is Language {
   return [
+    "ar",
     "be",
     "ch",
     "de",

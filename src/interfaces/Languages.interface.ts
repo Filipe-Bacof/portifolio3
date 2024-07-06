@@ -18,6 +18,7 @@ interface Global {
 export interface LanguageOptions {
   title: string;
   warning: string;
+  ar: string;
   be: string;
   ch: string;
   de: string;

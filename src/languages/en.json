@@ -6,6 +6,7 @@
     "language": {
       "title": "Change Language",
       "warning": "warning: Not all languages have been reviewed!",
+      "ar": "Arabic",
       "be": "Bengali",
       "ch": "Mandarin Chinese",
       "de": "German",
