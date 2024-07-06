@@ -9,9 +9,13 @@ type AcademicInfoProps = {
 export default function AcademicInfo({ language }: AcademicInfoProps) {
   return (
     <>
-      <h3>{getTranslatedInformation(language, "academic.education.title")}</h3>
-      <h4>{getTranslatedInformation(language, "academic.education.course")}</h4>
-      <span>
+      <h3 className="academic-title">
+        {getTranslatedInformation(language, "academic.education.title")}
+      </h3>
+      <h4 className="academic-course">
+        {getTranslatedInformation(language, "academic.education.course")}
+      </h4>
+      <span className="academic-conclusion">
         {getTranslatedInformation(language, "academic.education.where")} -{" "}
         {getTranslatedInformation(language, "academic.education.conclusion")}
       </span>

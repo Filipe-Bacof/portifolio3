@@ -1,0 +1,32 @@
+@use '../variables'
+@use '../mixins'
+
+.personal-description
+  width: 80%
+  text-align: justify
+  text-justify: inter-word
+
+.quote
+  width: 80%
+  display: flex
+  flex-direction: column
+  justify-content: start
+  gap: 0.2rem
+
+  .sentence-content
+    display: flex
+    justify-content: space-between
+    align-items: center
+    gap: 0.5rem
+
+    .sentence-text
+      color: variables.$text-color
+      font-size: 1rem
+
+  .author
+    color: variables.$text-color-secondary
+
+.quote svg
+  color: variables.$text-color
+  opacity: 0.75
+  height: 3.25rem

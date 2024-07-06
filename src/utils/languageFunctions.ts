@@ -41,7 +41,7 @@ function getTranslatedInformation(language: Language, path: string): any {
   let result: any = json;
   for (const key of keys) {
     if (result[key] === undefined) {
-      throw new Error(`Path not found: ${path}`);
+      throw new Error(`Path not found on language JSONs: ${path}`);
     }
     result = result[key];
   }
