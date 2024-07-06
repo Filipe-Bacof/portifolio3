@@ -24,6 +24,7 @@ export interface LanguageOptions {
   de: string;
   en: string;
   es: string;
+  et: string;
   fr: string;
   hi: string;
   ind: string;

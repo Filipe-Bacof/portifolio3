@@ -1,0 +1,250 @@
+{
+  "global": {
+    "next": "Järgmine",
+    "prev": "Eelmine",
+    "home": "Avaleht",
+    "language": {
+      "title": "Keele vahetamine",
+      "warning": "Hoiatus: Kõiki keeli pole läbi vaadatud",
+      "ar": "Araabia",
+      "be": "Bengali",
+      "ch": "Mandariini hiina",
+      "de": "Saksa",
+      "en": "Inglise",
+      "es": "Hispaania",
+      "et": "Eesti keel",
+      "fr": "Prantsuse",
+      "it": "Itaalia",
+      "hi": "Hindi",
+      "ind": "Indoneesia",
+      "ja": "Jaapani",
+      "ko": "Korea",
+      "no": "Norra",
+      "ptbr": "Brasiilia portugali",
+      "ptpt": "Portugali",
+      "ru": "Vene"
+    }
+  },
+  "home": {
+    "menuTitle": "Avaleht",
+    "imageAlt": "Foto de Filipe Bacof",
+    "header": {
+      "header1": "Tere tulemast! Mina olen",
+      "header2": "Filipe Bacof",
+      "header3": "Täisvaruarendaja"
+    },
+    "shortcuts": {
+      "title": "Otseteed",
+      "whatsApp": "Võta minuga ühendust WhatsAppis",
+      "email": "Võta minuga ühendust e-posti teel minu kontaktivormi kaudu",
+      "github": "Vaata minu projekte GitHubis",
+      "linkedin": "Ühenda minuga LinkedInis"
+    },
+    "location": {
+      "title": "Asukoht",
+      "where": "Sapucaia do Sul - RS"
+    },
+    "phones": {
+      "title": "Telefonid",
+      "phone1": "+55 51 99445-6865",
+      "phone2": "+55 51 99763-1686"
+    }
+  },
+  "career": {
+    "menuTitle": "Karjäär",
+    "imageAlt": "Foto de Filipe Bacof töötamas",
+    "experiences": {
+      "title": "Kogemused",
+      "jobs": [
+        {
+          "title": "Vidaia Care",
+          "role": "Täisvaruarendaja",
+          "modality": "Kaugtöö",
+          "start": "juuli 2023",
+          "end": "juuni 2024",
+          "elapsed": "1 aasta",
+          "description": "Tervishoiuvaldkonna süsteemide programmeerimine ja arendamine"
+        },
+        {
+          "title": "Prestativ SAP",
+          "role": "Täisvaruarendaja",
+          "modality": "Kohapeal",
+          "start": "detsember 2022",
+          "end": "aprill 2023",
+          "elapsed": "5 kuud",
+          "description": "Süsteemide arendamine ettevõtte sisekasutuseks"
+        },
+        {
+          "title": "Datamétrica",
+          "role": "Teletoe operaator",
+          "modality": "Kaugarvutus",
+          "start": "jaanuar 2021",
+          "end": "aprill 2022",
+          "elapsed": "1 aasta ja 4 kuud",
+          "description": "Klienditeenindus ja toetus, haldussüsteemide toimingud"
+        },
+        {
+          "title": "Tracktus",
+          "role": "Tugianalüütik",
+          "modality": "Kohapeal",
+          "start": "veebruar 2017",
+          "end": "jaanuar 2020",
+          "elapsed": "3 aastat",
+          "description": "Süsteemide käitamine ja klientide tugi, sisemise teabe hooldus"
+        }
+      ]
+    },
+    "download": {
+      "title": "Lae CV alla",
+      "pt": "PT-BR",
+      "en": "EN-US"
+    }
+  },
+  "academic": {
+    "menuTitle": "Akadeemiline elu",
+    "imageAlt": "Foto de Filipe Bacof lõpetamas",
+    "education": {
+      "title": "Haridus",
+      "where": "Unicesumar EAD",
+      "course": "Tarkvara inseneri bakalaureus",
+      "conclusion": "Käimas, 13/16 lõpetatud"
+    },
+    "languages": [
+      {
+        "en": "Brasiilia portugali",
+        "level": "C2 - Pädev, emakeelena"
+      },
+      {
+        "en": "Inglise",
+        "level": "B2 - Minimaalselt iseseisev"
+      },
+      {
+        "en": "Hispaania",
+        "level": "B1 - Kesktase"
+      }
+    ],
+    "books": [
+      {
+        "title": "Pragmatistlik programmeerija",
+        "description": "Näitab parimaid tavasid ja tarkvararakenduste peamisi lõkse."
+      },
+      {
+        "title": "Puhas kood",
+        "description": "Õpetab head tavad parema loetavuse ja tarkvara hooldatavuse saavutamiseks."
+      },
+      {
+        "title": "Targem kui kurat",
+        "description": "Intervjuu, kus Napoleon Hill sunnib kuradit avaldama trikke hirmust, edasilükkamisest, vihast, mis on kuradi tööriistadeks inimeste võõrandamiseks"
+      },
+      {
+        "title": "Kaibalion",
+        "description": "See müstiline raamat on sissejuhatus Hermeetika tarkusesse, müstilisse traditsiooni, mis on ületanud aja alates antiigist kuni tänapäevani."
+      }
+    ],
+    "softskills": [
+      "Võime analüüsida tehnilist teavet",
+      "Hea huumor meeskonnatööks",
+      "Kiire õppimisvõime uute tehnoloogiate jaoks",
+      "Loomingulisus probleemide lahendamiseks",
+      "Harjumus töötada Agile metoodikatega"
+    ],
+    "currentlyStudying": {
+      "title": "Hetkel õpin",
+      "item": "Web3 ja Blockchain",
+      "description": "Smart lepingute loomine Solidity abil"
+    }
+  },
+  "personal": {
+    "menuTitle": "Isiklik elu",
+    "imageAlt": "Foto de Filipe Bacof kitarril mängimas",
+    "button": {
+      "title": "Mõned head mälestused",
+      "description": "Ajamasina projekti kapsel, mis loodi Rocketseat'i sündmusel, kavatsen seda projekti igal aastal uuesti teha."
+    },
+    "about": {
+      "title": "Kes ma olen?",
+      "description": "Lisaks sellele, et olen tehnoloogiale pühendunud professionaal, on mul mitmeid hobisid, sealhulgas keelpillide mängimine, raamatute lugemine erinevatel teemadel, seriaalide vaatamine oma abikaasaga ja kahe kassi eest hoolitsemine."
+    },
+    "quote": {
+      "sentence": "Mees, kes teeb rohkem kui tema eest makstakse, saab varsti rohkem palka kui ta teeb.",
+      "author": "Napoleon Hill"
+    }
+  },
+  "projects": {
+    "menuTitle": "Projektid",
+    "buttons": {
+      "deploy": "Vaata deploy'd",
+      "repo": "Vaata repositooriumi"
+    },
+    "projects": [
+      {
+        "title": "Lokos D' Bira veebisait",
+        "description1": "Veebirakendus, mille loomisel osalesid sõbrad auhinnaga oma kodulinna väga karismaatilise bändi jaoks",
+        "description2": "SEO optimeerimine NextJS-iga, proovige bändi nime Google'is otsida"
+      },
+      {
+        "title": "Metallica API",
+        "description1": "Projekt, mis arendati välja Rocki päeval (13. juuli) tähistamiseks",
+        "description2": "Selle projekti eesmärk on võrgustike loomine teiste programmeerijatega"
+      },
+      {
+        "title": "Pokédex",
+        "description1": "Kõigil programmeerijatel on see projekt, kuid minu oma tegin peaaegu täielikult kasutades Tailwindi",
+        "description2": "See projekt oli tehniline väljakutse täisvaru positsiooni jaoks"
+      },
+      {
+        "title": "Ülesannete haldur",
+        "description1": "Katsetasin kasutada erinevat ORM-i, kui olin harjunud, kasutasin Prisma asemel Sequelize'i",
+        "description2": "See rakendus oli tehniline väljakutse täisvaru positsiooni jaoks"
+      },
+      {
+        "title": "Chat GPT kloon",
+        "description1": "OpenAI API tarbimine, mis on sama, mida kasutab ametlik ChatGPT",
+        "description2": "Liides on identne ChatGPT-ga tema käivitamise ajal."
+      },
+      {
+        "title": "Filmide raamatukogu",
+        "description1": "TMDB poolt pakutava API kasutamine",
+        "description2": "Saate näha huvitavat teavet oma lemmikfilmide kohta"
+      },
+      {
+        "title": "NLW E-Sports",
+        "description1": "Üks esimesi programmeerimise sündmusi, kus ma osalesin",
+        "description2": "Väljakutse pärast sündmust oli ümber luua sotsiaalse meedia lehe projekt E-Spordi teemal"
+      }
+    ],
+    "technologies": [
+      "Cypress",
+      "Docker",
+      "Git",
+      "JavaScript",
+      "Jest",
+      "MongoDB",
+      "NextJS",
+      "NodeJS",
+      "PostgreSQL",
+      "Prisma",
+      "React",
+      "Sass",
+      "Solidity",
+      "TailwindCSS",
+      "TestingLibrary",
+      "TypeScript"
+    ]
+  },
+  "contact": {
+    "menuTitle": "Kontakt",
+    "pageTitle": "Võtke minuga ühendust e-posti teel",
+    "nameField": "Nimi",
+    "emailField": "E-post",
+    "phoneField": "Telefon",
+    "messageField": "Sõnum",
+    "messageLabel": "Sisestage siia oma sõnum",
+    "optional": "Valikuline",
+    "sendButton": "Saada",
+    "loading": "Laadimine...",
+    "error": "Viga saatmisel",
+    "old": "Vaata minu vanemat portfooliot",
+    "whats": "Võtke minuga ühendust WhatsAppi kaudu"
+  }
+}

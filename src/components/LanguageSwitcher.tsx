@@ -5,6 +5,7 @@ import chIcon from "../assets/flags-icons/ch.svg";
 import deIcon from "../assets/flags-icons/de.svg";
 import enIcon from "../assets/flags-icons/en.svg";
 import esIcon from "../assets/flags-icons/es.svg";
+import etIcon from "../assets/flags-icons/et.svg";
 import frIcon from "../assets/flags-icons/fr.svg";
 import hiIcon from "../assets/flags-icons/hi.svg";
 import indIcon from "../assets/flags-icons/ind.svg";
@@ -121,6 +122,11 @@ export default function LanguageSwitcher({
       code: "ar",
       name: getTranslatedInformation(selected, "global.language.ar"),
       icon: arIcon,
+    },
+    {
+      code: "et",
+      name: getTranslatedInformation(selected, "global.language.et"),
+      icon: etIcon,
     },
   ];
 

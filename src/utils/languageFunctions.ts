@@ -4,6 +4,7 @@ import ch from "../languages/ch.json";
 import de from "../languages/de.json";
 import en from "../languages/en.json";
 import es from "../languages/es.json";
+import et from "../languages/et.json";
 import fr from "../languages/fr.json";
 import hi from "../languages/hi.json";
 import ind from "../languages/ind.json";
@@ -24,6 +25,7 @@ const translations: Record<Language, WebsiteContent> = {
   de,
   en,
   es,
+  et,
   fr,
   hi,
   ind,
@@ -62,6 +64,7 @@ function isLanguage(str: string): str is Language {
     "de",
     "en",
     "es",
+    "et",
     "fr",
     "hi",
     "ind",

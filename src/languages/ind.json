@@ -12,6 +12,7 @@
       "de": "Jerman",
       "en": "Inggris",
       "es": "Spanyol",
+      "et": "Estonia",
       "fr": "Perancis",
       "it": "Italia",
       "hi": "Hindi",
@@ -45,8 +46,8 @@
     },
     "phones": {
       "title": "Telepon",
-      "phone1": "(51) 99445-6865",
-      "phone2": "(51) 99763-1686"
+      "phone1": "+55 51 99445-6865",
+      "phone2": "+55 51 99763-1686"
     }
   },
   "career": {
