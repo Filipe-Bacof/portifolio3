@@ -33,10 +33,10 @@
     },
     "shortcuts": {
       "title": "ショートカット",
-      "whatsApp": "WhatsAppで連絡する",
+      "whatsApp": "はアプリかサービスの商品名ではないでしょうか。経由で連絡する",
       "email": "お問い合わせはメールで",
-      "github": "GitHubで私のプロジェクトを見る",
-      "linkedin": "LinkedInでつながる"
+      "github": "ギットハブで私のプロジェクトを見る",
+      "linkedin": "リンクインでつながる"
     },
     "location": {
       "title": "場所",
@@ -44,8 +44,8 @@
     },
     "phones": {
       "title": "電話",
-      "phone1": "(51) 99445-6865",
-      "phone2": "(51) 99763-1686"
+      "phone1": "+55 51 99445-6865",
+      "phone2": "+55 51 99763-1686"
     }
   },
   "career": {
@@ -55,7 +55,7 @@
       "title": "経験",
       "jobs": [
         {
-          "title": "Vidaia Care",
+          "title": "ヴィダイア お手入れ",
           "role": "フルスタック開発者",
           "modality": "リモート",
           "start": "2023年7月",
@@ -64,7 +64,7 @@
           "description": "医療およびケア分野向けシステムのプログラミング"
         },
         {
-          "title": "Prestativ SAP",
+          "title": "役立つ 樹液",
           "role": "フルスタック開発者",
           "modality": "オンサイト",
           "start": "2022年12月",
@@ -73,7 +73,7 @@
           "description": "企業内システムの開発"
         },
         {
-          "title": "Datamétrica",
+          "title": "データメトリック",
           "role": "テレサポートオペレーター",
           "modality": "リモート",
           "start": "2021年1月",
@@ -82,7 +82,7 @@
           "description": "顧客対応と管理システムの操作"
         },
         {
-          "title": "Tracktus",
+          "title": "トラックタス",
           "role": "サポートアナリスト",
           "modality": "オンサイト",
           "start": "2017年2月",
@@ -93,9 +93,9 @@
       ]
     },
     "download": {
-      "title": "履歴書ダウンロード",
-      "pt": "ポルトガル語（ブラジル）",
-      "en": "英語（アメリカ）"
+      "title": "ダウンロードを再開する",
+      "pt": "ポルトガル語",
+      "en": "英語"
     }
   },
   "academic": {
@@ -103,7 +103,7 @@
     "imageAlt": "Filipe Bacof氏の卒業写真",
     "education": {
       "title": "学歴",
-      "where": "Unicesumar EAD",
+      "where": "通信教育ウニスマル",
       "course": "ソフトウェアエンジニアリング学士号",
       "conclusion": "進行中、13/16完了"
     },
@@ -148,8 +148,8 @@
     ],
     "currentlyStudying": {
       "title": "現在、勉強しています",
-      "item": "Web3とブロックチェーン",
-      "description": "Solidityを使ったスマートコントラクトの作成"
+      "item": "ウェブ3とブロックチェーン",
+      "description": "堅牢性を使ったスマートコントラクトの作成"
     }
   },
   "personal": {
@@ -176,39 +176,39 @@
     },
     "projects": [
       {
-        "title": "Lokos D' Biraサイト",
-        "description1": "私の町のとてもカリスマ的なバンドへの敬意を込めて友人たちと作成したWebアプリ",
-        "description2": "NextJSでのSEOの最適化に焦点を当てています。バンド名でGoogleで検索してみてください"
+        "title": "ロコス・デ・ビラサイト",
+        "description1": "私の町のとてもカリスマ的なバンドへの敬意を込めて友人たちと作成したウェブアプリ",
+        "description2": "次でのSEOの最適化に焦点を当てています。バンド名でGoogleで検索してみてください"
       },
       {
-        "title": "Metallica API",
+        "title": "メタリカ アピ",
         "description1": "ロックの日（7月13日）を祝うために開発されたバックエンドプロジェクト",
         "description2": "他のプログラマーとのネットワーキングを目的としています"
       },
       {
-        "title": "Pokedéx",
-        "description1": "すべてのプログラマーが持っているプロジェクトですが、私はほとんどがTailwindを使用して作成しました",
+        "title": "ポケモン図鑑",
+        "description1": "すべてのプログラマーが持っているプロジェクトですが、私はほとんどが追い風を使用して作成しました",
         "description2": "フルスタックの求人のための技術的な挑戦としてこのプロジェクトを作成しました"
       },
       {
         "title": "タスクマネージャー",
-        "description1": "慣れていたORMとは異なるORMを試してみました。 Prismaの代わりにSequelizeを使用しました",
+        "description1": "慣れていたオームとは異なるオームを試してみました。 プリズマの代わりに続編を使用しました",
         "description2": "フルスタックの求人のための技術的な挑戦としてこのアプリケーションを作成しました"
       },
       {
-        "title": "Chat GPTのクローン",
-        "description1": "OpenAIのAPIを消費し、公式のChatGPTと同じです",
-        "description2": "インターフェースはChatGPTのリリース時と同じです"
+        "title": "チャット グプトのクローン",
+        "description1": "開くのアピを消費し、公式のチャット グプトと同じです",
+        "description2": "インターフェースはチャット グプトのリリース時と同じです"
       },
       {
         "title": "映画ライブラリ",
-        "description1": "The Movie DataBase（TMDB）が提供するAPIの使用",
-        "description2": "インターフェースはChatGPTのリリース時と同じです"
+        "description1": "映画データベース（翻訳）が提供するアピの使用",
+        "description2": "インターフェースはチャット グプトのリリース時と同じです"
       },
       {
-        "title": "NLW E-Sports",
+        "title": "いいえ eスポーツ",
         "description1": "私が最初に参加したプログラミングイベントの一つ",
-        "description2": "イベント後の課題は、別のテーマでE-Sportsの社会ページプロジェクトを再作成することでした"
+        "description2": "イベント後の課題は、別のテーマでeスポーツの社会ページプロジェクトを再作成することでした"
       }
     ]
   },
@@ -225,6 +225,6 @@
     "loading": "読み込み中...",
     "error": "送信エラー",
     "old": "私の古いポートフォリオページを見る",
-    "whats": "WhatsAppで連絡する"
+    "whats": "はアプリかサービスの商品名ではないでしょうか。で連絡する"
   }
 }

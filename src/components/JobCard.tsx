@@ -17,13 +17,13 @@ export default function JobCard({ data, dataPic }: JobCardProps) {
             <h4>{data.title}</h4>
             <h5>{data.role}</h5>
           </div>
-          <span>
+          <span className="job-duration">
             {data.start} - {data.end}
           </span>
-          <span>&#40;{data.elapsed}&#41;</span>
+          <span className="job-duration">&#40;{data.elapsed}&#41;</span>
         </div>
       </div>
-      <p>{data.description}</p>
+      <p className="job-description">{data.description}</p>
     </div>
   );
 }
