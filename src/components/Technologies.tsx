@@ -13,7 +13,7 @@ export default function Technologies({ language }: TechnologiesProps) {
   const data = generateArrayTechs(language);
   const imagesPerView = 6;
   const timeInSeconds = 5;
-  let timeoutId: NodeJS.Timeout | null = null;
+  let timeoutId: number | null = null;
 
   useEffect(() => {
     const advanceImages = () => {
@@ -23,10 +23,10 @@ export default function Technologies({ language }: TechnologiesProps) {
       });
     };
 
-    timeoutId = setTimeout(advanceImages, timeInSeconds * 1000);
+    timeoutId = window.setTimeout(advanceImages, timeInSeconds * 1000);
 
     return () => {
-      if (timeoutId) {
+      if (timeoutId !== null) {
         clearTimeout(timeoutId);
       }
     };
@@ -38,12 +38,12 @@ export default function Technologies({ language }: TechnologiesProps) {
       return nextIndex;
     });
 
-    if (timeoutId) {
+    if (timeoutId !== null) {
       clearTimeout(timeoutId);
     }
-    timeoutId = setTimeout(() => {
+    timeoutId = window.setTimeout(() => {
       handleAdvanceImages();
-    }, timeInSeconds);
+    }, timeInSeconds * 1000);
   };
 
   return (

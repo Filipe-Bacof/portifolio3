@@ -26,7 +26,7 @@ const BorderPhoto = forwardRef<
 
   const combinedClasses = `border-photo-gradient ${small ? "small" : ""} ${
     xsmall ? "xsmall" : ""
-  }`;
+  } ${classes}`;
   const imageClasses = `image ${small ? "small" : ""} ${
     xsmall ? "xsmall" : ""
   }`;
