@@ -181,12 +181,15 @@ interface Contact {
   nameField: string;
   emailField: string;
   phoneField: string;
+  subjectField: string;
   messageField: string;
   messageLabel: string;
   optional: string;
+  required: string;
   sendButton: string;
   loading: string;
   error: string;
+  success: string;
   old: string;
   whats: string;
 }

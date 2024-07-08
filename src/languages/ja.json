@@ -239,12 +239,15 @@
     "nameField": "名前",
     "emailField": "メール",
     "phoneField": "電話",
+    "subjectField": "件名",
     "messageField": "メッセージ",
     "messageLabel": "ここにメッセージを入力してください",
     "optional": "オプション",
-    "sendButton": "送信",
-    "loading": "読み込み中...",
-    "error": "送信エラー",
+    "required": "必須",
+    "sendButton": "メールを送信",
+    "loading": "送信中、しばらくお待ちください...",
+    "error": "失敗しました!! 再試行するにはクリックしてください",
+    "success": "送信されました!!",
     "old": "私の古いポートフォリオページを見る",
     "whats": "はアプリかサービスの商品名ではないでしょうか。で連絡する"
   }

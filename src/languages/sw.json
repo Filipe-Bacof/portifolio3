@@ -239,12 +239,15 @@
     "nameField": "Jina",
     "emailField": "Barua pepe",
     "phoneField": "Simu",
+    "subjectField": "Mada",
     "messageField": "Ujumbe",
     "messageLabel": "Andika ujumbe wako hapa",
     "optional": "Hiari",
-    "sendButton": "Tuma",
-    "loading": "Subiri...",
-    "error": "Hitilafu wakati wa kutuma",
+    "required": "Inahitajika",
+    "sendButton": "Tuma Barua pepe",
+    "loading": "Tafadhali subiri, inatuma...",
+    "error": "Imeshindwa!! Bonyeza kujaribu tena",
+    "success": "Imetumwa!!",
     "old": "Angalia ukurasa wa zamani wa portofolio yangu",
     "whats": "Wasiliana kwa WhatsApp"
   }

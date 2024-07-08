@@ -239,12 +239,15 @@
     "nameField": "이름",
     "emailField": "이메일",
     "phoneField": "전화",
+    "subjectField": "제목",
     "messageField": "메시지",
     "messageLabel": "여기에 메시지 입력",
     "optional": "선택 사항",
-    "sendButton": "보내기",
-    "loading": "로드 중...",
-    "error": "전송 오류",
+    "required": "필수",
+    "sendButton": "이메일 보내기",
+    "loading": "기다려 주십시오, 보내는 중...",
+    "error": "실패했습니다!! 다시 시도하려면 클릭하십시오",
+    "success": "보냈습니다!!",
     "old": "이전 포트폴리오 페이지 보기",
     "whats": "WhatsApp으로 연락하기"
   }

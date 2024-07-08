@@ -239,12 +239,15 @@
     "nameField": "Nimi",
     "emailField": "E-post",
     "phoneField": "Telefon",
+    "subjectField": "Teema",
     "messageField": "Sõnum",
     "messageLabel": "Sisestage siia oma sõnum",
     "optional": "Valikuline",
-    "sendButton": "Saada",
-    "loading": "Laadimine...",
-    "error": "Viga saatmisel",
+    "required": "Kohustuslik",
+    "sendButton": "Saada e-kiri",
+    "loading": "Oodake, saatmine...",
+    "error": "Ebaõnnestus!! Klõpsake uuesti proovimiseks",
+    "success": "Saadetud!!",
     "old": "Vaata minu vanemat portfooliot",
     "whats": "Võtke minuga ühendust WhatsAppi kaudu"
   }

@@ -239,12 +239,15 @@
     "nameField": "Name",
     "emailField": "Email",
     "phoneField": "Phone",
+    "subjectField": "Subject",
     "messageField": "Message",
     "messageLabel": "Type your message here",
     "optional": "Optional",
-    "sendButton": "Send",
-    "loading": "Please wait...",
-    "error": "Error sending",
+    "required": "Required",
+    "sendButton": "Send E-Mail",
+    "loading": "Please wait, sending...",
+    "error": "Failed!! Click to try again",
+    "success": "Sent!!",
     "old": "View my old portfolio page",
     "whats": "Contact via WhatsApp"
   }

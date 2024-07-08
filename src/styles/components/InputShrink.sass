@@ -1,0 +1,48 @@
+.input-container
+  position: relative
+  width: 100%
+
+.input-label
+  position: absolute
+  pointer-events: none
+  cursor: text
+  left: 1rem
+  transition: all 0.2s
+  &.focused
+    color: #3b82f6
+
+  &.shrink
+    top: 0.2rem
+    left: 0.5rem
+    padding: 0 0.25rem
+    font-size: 0.75rem
+    &.disabled
+      background: linear-gradient(to right, #e5e7eb, #e5e7eb)
+      cursor: not-allowed
+
+  &:not(.shrink)
+    top: 0.6rem
+    font-size: 1rem
+
+.input-field
+  width: 100%
+  height: 3rem
+  padding: 1.2rem 0.75rem 0.5rem 0.75rem
+  border: 1px solid #d1d5db
+  border-radius: 0.25rem
+  transition: border 0.2s
+
+  &.disabled-bg
+    background: #e5e7eb
+
+  &:focus
+    border-width: 3px
+    border-color: #3b82f6
+    outline: none
+
+  &.bigger
+    height: 5rem
+
+.input-container.bigger
+  .input-field
+    height: 5rem

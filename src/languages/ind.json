@@ -239,12 +239,15 @@
     "nameField": "Nama",
     "emailField": "Email",
     "phoneField": "Telepon",
+    "subjectField": "Subjek",
     "messageField": "Pesan",
     "messageLabel": "Ketikkan pesan Anda di sini",
     "optional": "Opsional",
-    "sendButton": "Kirim",
-    "loading": "Mohon tunggu...",
-    "error": "Kesalahan saat mengirim",
+    "required": "Diperlukan",
+    "sendButton": "Kirim E-Mail",
+    "loading": "Tunggu, sedang mengirim...",
+    "error": "Gagal!! Klik untuk mencoba lagi",
+    "success": "Terkirim!!",
     "old": "Lihat halaman portofolio lama saya",
     "whats": "Hubungi saya melalui WhatsApp"
   }

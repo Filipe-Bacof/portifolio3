@@ -239,12 +239,15 @@
     "nameField": "Navn",
     "emailField": "E-post",
     "phoneField": "Telefon",
+    "subjectField": "Emne",
     "messageField": "Melding",
     "messageLabel": "Skriv inn meldingen din her",
     "optional": "Valgfritt",
-    "sendButton": "Send",
-    "loading": "Laster...",
-    "error": "Feil ved sending",
+    "required": "Påkrevd",
+    "sendButton": "Send e-post",
+    "loading": "Vennligst vent, sender...",
+    "error": "Mislyktes!! Klikk for å prøve igjen",
+    "success": "Sendt!!",
     "old": "Se siden for min gamle portefølje",
     "whats": "Kontakt via WhatsApp"
   }

@@ -239,12 +239,15 @@
     "nameField": "Nome",
     "emailField": "Email",
     "phoneField": "Telefono",
+    "subjectField": "Oggetto",
     "messageField": "Messaggio",
     "messageLabel": "Scrivi qui il tuo messaggio",
     "optional": "Opzionale",
-    "sendButton": "Invia",
-    "loading": "Attendere prego...",
-    "error": "Errore nell'invio",
+    "required": "Obbligatorio",
+    "sendButton": "Invia e-mail",
+    "loading": "Attendere, invio in corso...",
+    "error": "Fallito!! Clicca per riprovare",
+    "success": "Inviato!!",
     "old": "Visualizza la pagina del mio vecchio portfolio",
     "whats": "Contattami su WhatsApp"
   }
