@@ -8,6 +8,7 @@
   flex-direction: row
   justify-content: space-between
   align-items: center
+  margin-bottom: 0.8rem
 
   .footer-title
     width: 100%
@@ -17,9 +18,13 @@
     color: variables.$text-color
 
 .footer-content > svg
+  cursor: pointer
   width: 5rem
   height: 100%
   fill: #3E43CA
+
+  &:hover
+    fill: #575cf5
 
   &.disabled
     cursor: not-allowed
