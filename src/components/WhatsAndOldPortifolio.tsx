@@ -23,7 +23,7 @@ export default function WhatsAndOldPortifolio({
           {getTranslatedInformation(language, "contact.whats")} <IconWhatsApp />
         </a>
         <a
-          href="https://github.com/Filipe-Bacof/portifolio-filipe/raw/master/public/resume-filipe-bacof.pdf"
+          href="https://portifolio-filipe-bacof-old.vercel.app/"
           target="_blank"
           className="button-contact"
         >
