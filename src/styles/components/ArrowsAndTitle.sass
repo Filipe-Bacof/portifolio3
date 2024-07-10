@@ -3,12 +3,10 @@
 
 .arrows-and-title-content
   width: 100%
-  height: 2rem
   display: flex
   flex-direction: row
   justify-content: space-between
   align-items: center
-  margin-top: 1rem
 
   .arrows-and-title-icon
     width: 5rem
@@ -29,6 +27,11 @@
   svg
     width: 100%
     height: 100%
-    fill: variables.$bg-color-secondary
+    fill: #3E43CA
+
     &:hover
-      fill: #3E43CA
+      fill: #575cf5
+
+    &.disabled
+      cursor: not-allowed
+      opacity: 0.1

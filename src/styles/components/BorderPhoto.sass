@@ -9,6 +9,7 @@
   background: variables.$gradient
   transition: transform 0.3s
   aspect-ratio: 1/1
+  overflow: hidden
 
   &.small
     width: 4.5rem
@@ -23,14 +24,18 @@
 
 .image
   border-radius: 50%
-  padding: 5px
   aspect-ratio: 1/1
+  width: 100%
+  height: 100%
+  padding: 5px
+  object-fit: cover
+  object-position: center
 
   &.small
-    padding: 3px
+    padding: 4px
 
   &.xsmall
-    padding: 2px
+    padding: 3px
 
 .invisible
   display: none

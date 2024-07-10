@@ -3,6 +3,7 @@ import IconBxsLeftArrow from "../assets/icons/IconBxsLeftArrow";
 import IconBxsRightArrow from "../assets/icons/IconBxsRightArrow";
 import { AvailablePages, lastPage } from "../interfaces/Pages.interface";
 import "../styles/components/Footer.sass";
+import ArrowsAndTitle from "./ArrowsAndTitle";
 
 type FooterProps = {
   page: AvailablePages;
@@ -39,15 +40,13 @@ export default function Footer({ page, setPage, title }: FooterProps) {
 
   return (
     <footer className="footer-content">
-      <IconBxsLeftArrow
-        className={`footer-icon ${page === 0 ? "disabled" : "able"}`}
-        onClick={() => handlePageChange("decrement")}
-      />
-      <h3 className="footer-title">{title}</h3>
-      <IconBxsRightArrow
-        className={`footer-icon ${page === lastPage ? "disabled" : "able"}`}
-        onClick={() => handlePageChange("increment")}
-      />
+      <ArrowsAndTitle
+        action={handlePageChange}
+        lenght={lastPage + 1}
+        selected={page}
+      >
+        <h3 className="footer-title">{title}</h3>
+      </ArrowsAndTitle>
     </footer>
   );
 }

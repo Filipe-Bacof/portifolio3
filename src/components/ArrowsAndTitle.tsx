@@ -23,7 +23,7 @@ export default function ArrowsAndTitle({
         }`}
         onClick={() => action("decrement")}
       />
-      {children}
+      <div className="title">{children}</div>
       <IconBxsRightArrow
         className={`arrows-and-title-icon ${
           selected === lenght - 1 ? "disabled" : "able"

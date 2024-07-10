@@ -14,18 +14,9 @@ export default function Header({
   handleChangeLanguage,
 }: HeaderProps) {
   return (
-    <header className="header-content">
-      <a href="/" className="link">
-        <BorderPhoto
-          src="/icon.png"
-          alt={getTranslatedInformation(language, "global.home")}
-          text={getTranslatedInformation(language, "global.home")}
-          side="right"
-          xsmall
-        />
-      </a>
-      <h1>Filipe Bacof Desenvolvedor Full-Stack</h1>
+    <>
+      <h1 className="title-seo">Filipe Bacof Desenvolvedor Full-Stack</h1>
       <LanguageSwitcher selected={language} onChange={handleChangeLanguage} />
-    </header>
+    </>
   );
 }

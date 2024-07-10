@@ -10,7 +10,9 @@ type WhoIAmProps = {
 export default function WhoIAm({ language }: WhoIAmProps) {
   return (
     <>
-      <h3>{getTranslatedInformation(language, "personal.about.title")}</h3>
+      <h3 className="personal-title">
+        {getTranslatedInformation(language, "personal.about.title")}
+      </h3>
       <p className="personal-description">
         {getTranslatedInformation(language, "personal.about.description")}
       </p>

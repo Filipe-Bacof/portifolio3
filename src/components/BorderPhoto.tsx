@@ -39,22 +39,10 @@ const BorderPhoto = forwardRef<
     >
       {text ? (
         <Tooltip text={text} side={side}>
-          <img
-            className={imageClasses}
-            src={src}
-            alt={alt}
-            width="95%"
-            height="95%"
-          />
+          <img className={imageClasses} src={src} alt={alt} />
         </Tooltip>
       ) : (
-        <img
-          className={imageClasses}
-          src={src}
-          alt={alt}
-          width="95%"
-          height="95%"
-        />
+        <img className={imageClasses} src={src} alt={alt} />
       )}
     </a>
   ) : (
@@ -64,22 +52,10 @@ const BorderPhoto = forwardRef<
     >
       {text ? (
         <Tooltip text={text} side={side}>
-          <img
-            className={imageClasses}
-            src={src}
-            alt={alt}
-            width="95%"
-            height="95%"
-          />
+          <img className={imageClasses} src={src} alt={alt} />
         </Tooltip>
       ) : (
-        <img
-          className={imageClasses}
-          src={src}
-          alt={alt}
-          width="95%"
-          height="95%"
-        />
+        <img className={imageClasses} src={src} alt={alt} />
       )}
     </div>
   );
