@@ -4,6 +4,7 @@ import "../styles/components/WhatsAndOldPortifolio.sass";
 import { returnWhatsAppLink } from "../utils/links";
 import IconWhatsApp from "../assets/icons/IconWhatsApp";
 import IconDocumentTextOutline from "../assets/icons/IconDocumentTextOutline";
+import Tooltip from "./Tooltip";
 
 type WhatsAndOldPortifolioProps = {
   language: Language;
@@ -15,21 +16,26 @@ export default function WhatsAndOldPortifolio({
   return (
     <>
       <div className="buttons-contact-content">
-        <a
-          href={returnWhatsAppLink()}
-          target="_blank"
-          className="button-contact"
+        <Tooltip
+          text={getTranslatedInformation(language, "contact.whats")}
+          side="top"
         >
-          {getTranslatedInformation(language, "contact.whats")} <IconWhatsApp />
-        </a>
-        <a
-          href="https://portifolio-filipe-bacof-old.vercel.app/"
-          target="_blank"
-          className="button-contact"
+          <a href={returnWhatsAppLink()} target="_blank" className="button">
+            <IconWhatsApp className="icon" />
+          </a>
+        </Tooltip>
+        <Tooltip
+          text={getTranslatedInformation(language, "contact.old")}
+          side="top"
         >
-          {getTranslatedInformation(language, "contact.old")}{" "}
-          <IconDocumentTextOutline />
-        </a>
+          <a
+            href="https://portifolio-filipe-bacof-old.vercel.app/"
+            target="_blank"
+            className="button"
+          >
+            <IconDocumentTextOutline className="icon" />
+          </a>
+        </Tooltip>
       </div>
     </>
   );

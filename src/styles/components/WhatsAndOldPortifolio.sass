@@ -3,19 +3,17 @@
 
 .buttons-contact-content
   @include mixins.center
-  flex-direction: column
+  flex-direction: row
   width: 100%
+  max-width: 620px
+  margin: 0 2rem
   gap: 1rem
 
-  .button-contact
+  .button
     @include mixins.center
-    gap: 0.5rem
-    width: 80%
-    max-width: 620px
     text-decoration: none
     color: variables.$text-color
     background: variables.$bg-color-secondary
-    padding: 0.5rem 2rem
     border-radius: 8px
     transition: transform 0.3s
 

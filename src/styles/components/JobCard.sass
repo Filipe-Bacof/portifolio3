@@ -11,7 +11,7 @@
 
   .job-section-1
     @include mixins.center
-    align-items: flex-start
+    align-items: center
 
     .job-section-2
       width: 15rem
@@ -21,12 +21,14 @@
 
       .job-duration
         color: variables.$text-color-secondary
+        font-size: 0.75rem
 
       .job-title
         color: variables.$text-color
 
-        .job-title > h4, .job-title >h5
-          margin: 0
+      .job-title > h5
+        font-weight: 400
+        height: 21px
 
       span
         color: variables.$text-color
@@ -35,6 +37,7 @@
     color: variables.$text-color
     height: auto
     width: 20rem
+    height: 63px
     text-overflow: ellipsis
     display: -webkit-box
     -webkit-line-clamp: 3
