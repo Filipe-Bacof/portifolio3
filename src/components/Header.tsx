@@ -1,8 +1,6 @@
 import { Language } from "../interfaces/Languages.interface";
-import { getTranslatedInformation } from "../utils/languageFunctions";
 import LanguageSwitcher from "./LanguageSwitcher";
 import "../styles/components/Header.sass";
-import BorderPhoto from "./BorderPhoto";
 
 type HeaderProps = {
   language: Language;

@@ -1,6 +1,4 @@
 import { useEffect } from "react";
-import IconBxsLeftArrow from "../assets/icons/IconBxsLeftArrow";
-import IconBxsRightArrow from "../assets/icons/IconBxsRightArrow";
 import { AvailablePages, lastPage } from "../interfaces/Pages.interface";
 import "../styles/components/Footer.sass";
 import ArrowsAndTitle from "./ArrowsAndTitle";
