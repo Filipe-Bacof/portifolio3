@@ -14,6 +14,7 @@ export default function Home({ language, setPage }: HomeProps) {
   return (
     <>
       <BorderPhoto
+        classes="main-img"
         src="/profilepic.jpg"
         alt={getTranslatedInformation(language, "home.imageAlt")}
       />

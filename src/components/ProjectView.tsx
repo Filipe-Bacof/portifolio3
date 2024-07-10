@@ -60,6 +60,7 @@ export default function ProjectView({ language }: ProjectViewProps) {
         src={datapics[selected]}
         alt={getTranslatedInformation(language, "projects.buttons.deploy")}
         side="bottom"
+        classes="main-img"
         text={getTranslatedInformation(language, "projects.buttons.deploy")}
       />
       <ArrowsAndTitle

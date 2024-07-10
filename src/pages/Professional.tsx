@@ -12,6 +12,7 @@ export default function Professional({ language }: ProfessionalProps) {
   return (
     <>
       <BorderPhoto
+        classes="main-img"
         src="/workingpic.jpg"
         alt={getTranslatedInformation(language, "career.imageAlt")}
       />

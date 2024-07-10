@@ -24,7 +24,7 @@ export default function HomeShortcuts({
         text={getTranslatedInformation(language, "home.shortcuts.whatsApp")}
         side="top"
       >
-        <a href={returnWhatsAppLink()} target="_blank" className="button">
+        <a href={returnWhatsAppLink()} target="_blank" className="button btn-1">
           <IconWhatsApp className="icon" />
         </a>
       </Tooltip>
@@ -33,7 +33,7 @@ export default function HomeShortcuts({
         side="top"
       >
         <button
-          className="button"
+          className="button btn-2"
           onClick={() => {
             setPage(5);
           }}
@@ -48,7 +48,7 @@ export default function HomeShortcuts({
         <a
           href="https://github.com/Filipe-Bacof"
           target="_blank"
-          className="button"
+          className="button btn-3"
         >
           <IconGithub className="icon" />
         </a>
@@ -60,7 +60,7 @@ export default function HomeShortcuts({
         <a
           href="https://www.linkedin.com/in/filipe-bacof/"
           target="_blank"
-          className="button"
+          className="button btn-4"
         >
           <IconLinkedin className="icon" />
         </a>

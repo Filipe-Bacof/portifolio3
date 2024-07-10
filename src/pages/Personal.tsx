@@ -12,6 +12,7 @@ export default function Personal({ language }: PersonalProps) {
   return (
     <>
       <BorderPhoto
+        classes="main-img"
         src="/guitar.jpg"
         alt={getTranslatedInformation(language, "personal.imageAlt")}
       />

@@ -4,6 +4,7 @@ import { isLanguage } from "./utils/languageFunctions";
 import { AvailablePages } from "./interfaces/Pages.interface";
 import { getTitleOfPage } from "./utils/pageFunctions";
 import "./styles/App.sass";
+import "./styles/animations.sass";
 import Header from "./components/Header";
 import Home from "./pages/Home";
 import Professional from "./pages/Professional";

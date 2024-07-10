@@ -13,6 +13,7 @@ export default function Academic({ language }: AcademicProps) {
   return (
     <>
       <BorderPhoto
+        classes="main-img"
         src="/badasspic.jpg"
         alt={getTranslatedInformation(language, "academic.imageAlt")}
         // Futuramente vou colocar uma foto minha no dia da formatura aqui, ainda não finalizei o curso kk
