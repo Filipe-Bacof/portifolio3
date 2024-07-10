@@ -13,11 +13,12 @@ type HomeProps = {
 export default function Home({ language, setPage }: HomeProps) {
   return (
     <>
-      <BorderPhoto
-        classes="main-img"
-        src="/profilepic.jpg"
-        alt={getTranslatedInformation(language, "home.imageAlt")}
-      />
+      <div className="main-img">
+        <BorderPhoto
+          src="/profilepic.jpg"
+          alt={getTranslatedInformation(language, "home.imageAlt")}
+        />
+      </div>
       <Typewriter
         header1={getTranslatedInformation(language, "home.header.header1")}
         header2={getTranslatedInformation(language, "home.header.header2")}

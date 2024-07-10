@@ -11,11 +11,12 @@ type PersonalProps = {
 export default function Personal({ language }: PersonalProps) {
   return (
     <>
-      <BorderPhoto
-        classes="main-img"
-        src="/guitar.jpg"
-        alt={getTranslatedInformation(language, "personal.imageAlt")}
-      />
+      <div className="main-img">
+        <BorderPhoto
+          src="/guitar.jpg"
+          alt={getTranslatedInformation(language, "personal.imageAlt")}
+        />
+      </div>
       <WhoIAm language={language} />
       <CatsAndMemories language={language} />
     </>

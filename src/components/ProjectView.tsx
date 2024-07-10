@@ -55,14 +55,15 @@ export default function ProjectView({ language }: ProjectViewProps) {
   };
   return (
     <div className="projects-content">
-      <BorderPhoto
-        href={deploys[selected]}
-        src={datapics[selected]}
-        alt={getTranslatedInformation(language, "projects.buttons.deploy")}
-        side="bottom"
-        classes="main-img"
-        text={getTranslatedInformation(language, "projects.buttons.deploy")}
-      />
+      <div className="main-img">
+        <BorderPhoto
+          href={deploys[selected]}
+          src={datapics[selected]}
+          alt={getTranslatedInformation(language, "projects.buttons.deploy")}
+          side="bottom"
+          text={getTranslatedInformation(language, "projects.buttons.deploy")}
+        />
+      </div>
       <ArrowsAndTitle
         action={handleSelected}
         lenght={data.length}

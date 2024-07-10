@@ -11,11 +11,12 @@ type ProfessionalProps = {
 export default function Professional({ language }: ProfessionalProps) {
   return (
     <>
-      <BorderPhoto
-        classes="main-img"
-        src="/workingpic.jpg"
-        alt={getTranslatedInformation(language, "career.imageAlt")}
-      />
+      <div className="main-img">
+        <BorderPhoto
+          src="/workingpic.jpg"
+          alt={getTranslatedInformation(language, "career.imageAlt")}
+        />
+      </div>
       <Experiences language={language} />
       <DownloadCV language={language} />
     </>
