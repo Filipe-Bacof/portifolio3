@@ -1,0 +1,266 @@
+{
+  "global": {
+    "next": "Okulandelayo",
+    "prev": "Okwesibili",
+    "home": "Ikhasi Likhaya",
+    "language": {
+      "title": "Shintsha Ulwimi",
+      "warning": "Khombisa: Njengoba yindawo zonke azithuthayo",
+      "ar": "Arabic",
+      "be": "Bengali",
+      "ch": "Mandarin Chinese",
+      "cz": "Czech",
+      "de": "German",
+      "di": "Danish",
+      "en": "English",
+      "es": "Spanish",
+      "et": "Estonian",
+      "fi": "Finnish",
+      "fr": "French",
+      "gr": "Greek",
+      "he": "Hebrew",
+      "hi": "Hindi",
+      "hu": "Hungarian",
+      "ind": "Indonesian",
+      "it": "Italian",
+      "ja": "Japanese",
+      "ko": "Korean",
+      "la": "Latin",
+      "ne": "Dutch",
+      "no": "Norwegian",
+      "po": "Polish",
+      "ptbr": "Brazilian Portuguese",
+      "ptpt": "Portuguese Portuguese",
+      "ru": "Russian",
+      "sw": "Swahili",
+      "ta": "Thai",
+      "tu": "Turkish",
+      "zu": "Zulu"
+    }
+  },
+  "home": {
+    "menuTitle": "Ikhasi Likhaya",
+    "imageAlt": "Inzuzu yeFilipe Bacof",
+    "header": {
+      "header1": "Wamukelekile! Ngingu",
+      "header2": "Filipe Bacof",
+      "header3": "Umphathi we-Stack Olandelayo"
+    },
+    "shortcuts": {
+      "title": "Izindlela Ezingaphezu Kwamanje",
+      "whatsApp": "Thumela umyalezo nge-WhatsApp",
+      "email": "Thumela umyalezo nge-email ngokusebenzisa ifomu yami yemephu",
+      "github": "Bheka izifundo zami ku-GitHub",
+      "linkedin": "Hlangana nami ku-LinkedIn"
+    },
+    "location": {
+      "title": "Indawo",
+      "where": "Sapucaia do Sul - RS"
+    },
+    "phones": {
+      "title": "Izilwane",
+      "phone1": "+55 51 99445-6865",
+      "phone2": "+55 51 99763-1686"
+    }
+  },
+  "career": {
+    "menuTitle": "Ubumnyama Bokufundisa",
+    "imageAlt": "Inzuzu yeFilipe Bacof ekusebenziseni",
+    "experiences": {
+      "title": "Izikhundla",
+      "jobs": [
+        {
+          "title": "Vidaia Care",
+          "role": "Umphathi we-Fullstack",
+          "modality": "I-Remote",
+          "start": "Jul 2023",
+          "end": "Jun 2024",
+          "elapsed": "1 iminyaka",
+          "description": "Ukubhala amasistimu akhawunti yezempilo futhi inhlalakahle"
+        },
+        {
+          "title": "Prestativ SAP",
+          "role": "Umphathi we-Fullstack",
+          "modality": "On-site",
+          "start": "Dec 2022",
+          "end": "Apr 2023",
+          "elapsed": "5 imizuzu",
+          "description": "Ukuhlela amasistimu ukusebenzisa kwezakhiwo ezimbalwa"
+        },
+        {
+          "title": "Datamétrica",
+          "role": "I-Calcenter Operator",
+          "modality": "I-Remote",
+          "start": "Jan 2021",
+          "end": "Apr 2022",
+          "elapsed": "1 iminyaka nezinyanga ezine",
+          "description": "Ukuphendula kubasebenzi futhi usizo, ukusebenza kwezinkampani zokuphathwa kwamasevisi"
+        },
+        {
+          "title": "Tracktus",
+          "role": "I-Analyst Support",
+          "modality": "On-site",
+          "start": "Feb 2017",
+          "end": "Jan 2020",
+          "elapsed": "3 iminyaka",
+          "description": "Ukusebenza kwezici ezilula kanye nokubhekana nezici ezinhlelweni zezifunda, ukucacisa umkhakha wamabhayisikobho ezindaweni"
+        }
+      ]
+    },
+    "download": {
+      "title": "Thumela i-Resume",
+      "pt": "PT-BR",
+      "en": "EN-US"
+    }
+  },
+  "academic": {
+    "menuTitle": "Ubuciko Bokufundisa",
+    "imageAlt": "Inzuzu yeFilipe Bacof ngesikhathi se-graduation",
+    "education": {
+      "title": "Ubuciko Bokufundisa",
+      "where": "Unicesumar EAD",
+      "course": "Inguqulo ye-Software Engineering",
+      "conclusion": "Kusukela ngemva kokufinyelela, kubeka 13/16 okwakwenzelwa"
+    },
+    "languages": [
+      {
+        "en": "Brazilian Portuguese",
+        "level": "C2 - Proficient, Native"
+      },
+      {
+        "en": "English",
+        "level": "B2 - Upper Intermediate"
+      },
+      {
+        "en": "Spanish",
+        "level": "B1 - Intermediate"
+      }
+    ],
+    "books": [
+      {
+        "title": "The Pragmatic Programmer",
+        "description": "Inikeza izinto ezinhle futhi izigaba ezikhathalelwe ezingeni lokuphakama"
+      },
+      {
+        "title": "Clean Code",
+        "description": "Isombisa uhlelo olusha lwezokusebenza futhi ukuthuthukisa ukwazi okuphelele ukuthola ukwazi okuphelele"
+      },
+      {
+        "title": "Outwitting the Devil",
+        "description": "Umphakathi onganikeli ubuqu lokushiyana ngo-Napoleon Hill ukuphatha uNarasa kuwo wonke amandla, usokhomba amagciwane akusebenzi, ukuthuthukiswa njalo nenhlanhla ekuphatheni kwabantu"
+      },
+      {
+        "title": "The Kybalion",
+        "description": "Le ncwadi enomhlamvu itholakala ngokwe-hermeticism, indlela evamile yokuthi ivuleke kule minyaka ephakathi"
+      }
+    ],
+    "softskills": [
+      "Ukuziphatha izifundo zokufunda",
+      "Ukunembeza okuhle ukuba nesikweletu",
+      "Ukukhula kwezobuchwepheshe zemfundo entsha",
+      "Ukuvikelwa kwesizathu",
+      "Kuzoba lezo zinto zezimoto ezibizayo"
+    ],
+    "currentlyStudying": {
+      "title": "Njengoba ngifundela manje",
+      "item": "Web3 kanye no-Blockchain",
+      "description": "Ukukhulisa imiklomelo emisha ngo-Solidity"
+    }
+  },
+  "personal": {
+    "menuTitle": "Umndeni Wami Wokuphila",
+    "imageAlt": "Inzuzu yeFilipe Bacof ekudlaleni i-guitar",
+    "button": {
+      "title": "Izinto ezinhle ezithandwa",
+      "description": "I-project ye-time capsule, okuyinto ibhalwe ngempela ngo-Rocketseat, ngiphumelela ukwakha le project kusukela ngonyaka kuya ngoonyaka."
+    },
+    "about": {
+      "title": "Ngicela ngingubani?",
+      "description": "Ngaphezu kwalokho ukuthi ngiyinxalenye yemibhalo yezakhiwo esihlalweni esingaphansi, nginemibhobho eminingi, okuyinto kungenziwa ukudlala izithameli zetshani, ukufunda izincwadi ngamabhange anezinye, ukubuka izikhathi nezintombi zakhe abazibonisa ezimbili."
+    },
+    "quote": {
+      "sentence": "Omunye umuntu ongakhokhelwa ukuthola okuningi kulungile ukukhokhelwa kakhulu kwakhe.",
+      "author": "Napoleon Hill"
+    }
+  },
+  "projects": {
+    "menuTitle": "Izifundo",
+    "buttons": {
+      "deploy": "Bheka isifundo",
+      "repo": "Bheka I-Repository"
+    },
+    "projects": [
+      {
+        "title": "Lokos D' Bira Website",
+        "description1": "I-web app yayikhishwa ngamaJele ngo-tribute for band eceleni lami",
+        "description2": "Highlight for SEO optimizations made with NextJS, uzama ukufunda isibonelo somsebenzi we-band's name on Google"
+      },
+      {
+        "title": "Metallica API",
+        "description1": "Isenzo se-backend sesisithombe sokwakha sibonga ngo-Rock Day (July 13)",
+        "description2": "Ikhuthaza lokhu ngo-project yokuthi nabaqambi baphathane"
+      },
+      {
+        "title": "Pokedex",
+        "description1": "Konke izi-Programmers zinelungelo lokuwakha le-project, kodwa ngilikhona konke lokuwusebenza ngo-Tailwind",
+        "description2": "Le project yayimoshini yekwiphi endleleni yeFull-Stack"
+      },
+      {
+        "title": "Task Manager",
+        "description1": "Ngakuphazamisa ukusebenza nge-ORM eyodwa ekwaziyo, ngizelela i-Sequelize ngaphandle ko-Prisma",
+        "description2": "Lomsebenzi wabuye wakwenza njengoba ukuphazamisa ngo-Technical Full-Stack"
+      },
+      {
+        "title": "Chat GPT Clone",
+        "description1": "Ukudlulisela kwe-API ye-OpenAI, eyenziwe ngomumo wokuthi uChatGPT uyafunda",
+        "description2": "I-interface is the same as ChatGPT when it was launched."
+      },
+      {
+        "title": "Movie Library",
+        "description1": "Ukusebenza nge-API eyinikeziwe yi-Movie DataBase (TMDB)",
+        "description2": "Uzofunda izinqubo ezithakazelisayo mayelana nemvume yakho yamafilimu afanelekayo"
+      },
+      {
+        "title": "NLW E-Sports",
+        "description1": "Ngumkhosi ongaphambi kakhulu ohlola ngakho",
+        "description2": "Umphumela ophakathi wasekuseni wathela ukugcina umsebenzi wokusebenza nge-page page yabo e-sports ne theme nayizinye"
+      }
+    ],
+    "technologies": [
+      "Cypress",
+      "Docker",
+      "Git",
+      "JavaScript",
+      "Jest",
+      "MongoDB",
+      "NextJS",
+      "NodeJS",
+      "PostgreSQL",
+      "Prisma",
+      "React",
+      "Sass",
+      "Solidity",
+      "TailwindCSS",
+      "TestingLibrary",
+      "TypeScript"
+    ]
+  },
+  "contact": {
+    "menuTitle": "Thola Ingxoxo Nami",
+    "pageTitle": "Thola nami nge-email",
+    "nameField": "Igama",
+    "emailField": "I-Email",
+    "phoneField": "I-Phone",
+    "subjectField": "I-Sibonga",
+    "messageField": "I-Ngqukuva",
+    "messageLabel": "Vula umyalezo wakho lapha",
+    "optional": "Ehlukile",
+    "required": "Kudingekile",
+    "sendButton": "Thumela I-E-Mail",
+    "loading": "Nceda uyeke, ukuthumela...",
+    "error": "Okungenzeka!! Thinta ukuze uthole futhi",
+    "success": "Kuthumela!!",
+    "old": "Bheka i-old portfolio page yami",
+    "whats": "Thumela umyalezo nge-WhatsApp"
+  }
+}

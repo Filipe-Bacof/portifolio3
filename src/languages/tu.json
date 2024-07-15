@@ -1,0 +1,266 @@
+{
+  "global": {
+    "next": "İleri",
+    "prev": "Geri",
+    "home": "Ana Sayfa",
+    "language": {
+      "title": "Dil Değiştir",
+      "warning": "Uyarı: Tüm diller gözden geçirilmiş değil!",
+      "ar": "Arapça",
+      "be": "Bengalce",
+      "ch": "Mandarin Çincesi",
+      "cz": "Çekçe",
+      "de": "Almanca",
+      "di": "Danca",
+      "en": "İngilizce",
+      "es": "İspanyolca",
+      "et": "Estonca",
+      "fi": "Fince",
+      "fr": "Fransızca",
+      "gr": "Yunanca",
+      "he": "İbranice",
+      "hi": "Hintçe",
+      "hu": "Macarca",
+      "ind": "Endonezce",
+      "it": "İtalyanca",
+      "ja": "Japonca",
+      "ko": "Korece",
+      "la": "Latince",
+      "ne": "Felemenkçe",
+      "no": "Norveççe",
+      "po": "Lehçe",
+      "ptbr": "Brezilya Portekizcesi",
+      "ptpt": "Portekiz Portekizcesi",
+      "ru": "Rusça",
+      "sw": "Svahili",
+      "ta": "Tayca",
+      "tu": "Türkçe",
+      "zu": "Zulu"
+    }
+  },
+  "home": {
+    "menuTitle": "Ana Sayfa",
+    "imageAlt": "Filipe Bacof'un fotoğrafı",
+    "header": {
+      "header1": "Hoş geldiniz! Ben",
+      "header2": "Filipe Bacof",
+      "header3": "Full-Stack Geliştirici"
+    },
+    "shortcuts": {
+      "title": "Kısayollar",
+      "whatsApp": "WhatsApp ile iletişime geçin",
+      "email": "İletişim formumu kullanarak e-posta yoluyla iletişime geçin",
+      "github": "GitHub'daki projelerimi görüntüleyin",
+      "linkedin": "LinkedIn'de benimle bağlantı kurun"
+    },
+    "location": {
+      "title": "Konum",
+      "where": "Sapucaia do Sul - RS"
+    },
+    "phones": {
+      "title": "Telefonlar",
+      "phone1": "+55 51 99445-6865",
+      "phone2": "+55 51 99763-1686"
+    }
+  },
+  "career": {
+    "menuTitle": "Mesleki Hayat",
+    "imageAlt": "Filipe Bacof'un çalışırken fotoğrafı",
+    "experiences": {
+      "title": "Deneyimler",
+      "jobs": [
+        {
+          "title": "Vidaia Care",
+          "role": "Fullstack Geliştirici",
+          "modality": "Uzaktan",
+          "start": "Tem 2023",
+          "end": "Haz 2024",
+          "elapsed": "1 yıl",
+          "description": "Sağlık ve bakım odaklı sistemlerin programlanması"
+        },
+        {
+          "title": "Prestativ SAP",
+          "role": "Fullstack Geliştirici",
+          "modality": "Yerinde",
+          "start": "Ara 2022",
+          "end": "Nis 2023",
+          "elapsed": "5 ay",
+          "description": "Şirket içi kullanım için sistem geliştirme"
+        },
+        {
+          "title": "Datamétrica",
+          "role": "Çağrı Merkezi Operatörü",
+          "modality": "Uzaktan",
+          "start": "Oca 2021",
+          "end": "Nis 2022",
+          "elapsed": "1 yıl 4 ay",
+          "description": "Müşteri hizmetleri ve destek, yönetim sistemlerinin işletimi"
+        },
+        {
+          "title": "Tracktus",
+          "role": "Destek Analisti",
+          "modality": "Yerinde",
+          "start": "Şub 2017",
+          "end": "Oca 2020",
+          "elapsed": "3 yıl",
+          "description": "Sistem işletimi ve müşteri desteği, iç bilgi sistemlerinin bakımı"
+        }
+      ]
+    },
+    "download": {
+      "title": "Özgeçmişi İndir",
+      "pt": "PT-BR",
+      "en": "EN-US"
+    }
+  },
+  "academic": {
+    "menuTitle": "Akademik Hayat",
+    "imageAlt": "Filipe Bacof'un mezuniyet fotoğrafı",
+    "education": {
+      "title": "Akademik Eğitim",
+      "where": "Unicesumar UZD",
+      "course": "Yazılım Mühendisliği Lisansı",
+      "conclusion": "Devam ediyor, 13/16 tamamlandı"
+    },
+    "languages": [
+      {
+        "en": "Brezilya Portekizcesi",
+        "level": "C2 - Uzman, Ana Dil"
+      },
+      {
+        "en": "İngilizce",
+        "level": "B2 - İleri Düzey"
+      },
+      {
+        "en": "İspanyolca",
+        "level": "B1 - Orta Düzey"
+      }
+    ],
+    "books": [
+      {
+        "title": "Pragmatik Programcı",
+        "description": "Yazılım geliştirme alanında en iyi uygulamaları ve ana tuzağı gösterir."
+      },
+      {
+        "title": "Temiz Kod",
+        "description": "Kodunuzun daha okunabilir ve sürdürülebilir olması için bir dizi en iyi uygulamayı öğretir."
+      },
+      {
+        "title": "Şeytani Alt Etmek",
+        "description": "Napolyon Hill'in Şeytan ile yaptığı röportajda, şeytanın korku, erteleme, öfke gibi tuzaklardan kaçmanın püf noktalarını ortaya çıkardı."
+      },
+      {
+        "title": "Kybalion",
+        "description": "Bu gizemli kitap, Antikçağ'dan günümüze kadar geçen zaman içinde Hermetizm bilgeliğine bir inisiyasyon sunar."
+      }
+    ],
+    "softskills": [
+      "Teknik bilgiyi analiz etme yeteneği",
+      "Takım çalışması için iyi mizah",
+      "Yeni teknolojileri öğrenme çevikliği",
+      "Sorunları çözmek için yaratıcılık",
+      "Çevik metodlarla çalışmaya alışkın"
+    ],
+    "currentlyStudying": {
+      "title": "Şu anda çalışıyorum",
+      "item": "Web3 ve Blockchain",
+      "description": "Solidity ile akıllı kontratlar oluşturma"
+    }
+  },
+  "personal": {
+    "menuTitle": "Kişisel Hayat",
+    "imageAlt": "Filipe Bacof'un gitar çalarken fotoğrafı",
+    "button": {
+      "title": "Bazı güzel anılar",
+      "description": "Rocketseat etkinliğinde oluşturulan bir zaman kapsülü projesi, bu projeyi her yıl yeniden yapmayı planlıyorum."
+    },
+    "about": {
+      "title": "Ben kimim?",
+      "description": "Teknolojiye tutkulu bir profesyonel olmanın ötesinde, çeşitli hobilerim var; bunlar arasında telli çalgılar çalmak, çeşitli konularda kitap okumak, eşimle diziler izlemek ve iki kedimle ilgilenmek bulunuyor."
+    },
+    "quote": {
+      "sentence": "Yaptığından fazlasını yapacak adam, yakında yaptığından daha fazlasını yapacak.",
+      "author": "Napolyon Hill"
+    }
+  },
+  "projects": {
+    "menuTitle": "Projeler",
+    "buttons": {
+      "deploy": "Dağıtımı Görüntüle",
+      "repo": "Depoyu Görüntüle"
+    },
+    "projects": [
+      {
+        "title": "Lokos D' Bira Web Sitesi",
+        "description1": "Şehrimden çok karizmatik bir gruba saygı olarak arkadaşlarımızla birlikte oluşturulan web uygulaması",
+        "description2": "SEO optimizasyonlarıyla ön plana çıkan NextJS ile yapıldı, grup adını Google'da arayın"
+      },
+      {
+        "title": "Metallica API",
+        "description1": "Rock Günü (13 Temmuz) için geliştirilen arka uç projesi",
+        "description2": "Bu proje diğer programcılarla ağ kurma amacını taşıyor"
+      },
+      {
+        "title": "Pokedex",
+        "description1": "Tüm programcıların bu projeye sahip olduğunu, ancak hemen hemen her şeyi Tailwind kullanarak yaptığımı belirtmek isterim",
+        "description2": "Bu proje, bir Full-Stack pozisyonu için teknik bir meydan okuma olarak yapıldı"
+      },
+      {
+        "title": "Görev Yöneticisi",
+        "description1": "Alışık olmadığım bir ORM yerine farklı bir ORM kullanarak denemeler yaptım, Prisma yerine Sequelize kullandım",
+        "description2": "Bu uygulama, bir Full-Stack pozisyonu için teknik bir meydan okuma olarak yapıldı"
+      },
+      {
+        "title": "Chat GPT Klonu",
+        "description1": "OpenAI API'sini tüketme, resmi ChatGPT tarafından kullanılan ile aynı",
+        "description2": "Arayüz, piyasaya sürüldüğünde ChatGPT ile aynı"
+      },
+      {
+        "title": "Film Kütüphanesi",
+        "description1": "The Movie DataBase (TMDB) tarafından sağlanan API kullanılarak yapıldı",
+        "description2": "Favori filmleriniz hakkında ilginç verileri görebilirsiniz"
+      },
+      {
+        "title": "NLW E-Spor",
+        "description1": "Katıldığım ilk programlama etkinliklerinden biri",
+        "description2": "Etkinlikten sonra meydan okuma, e-spor sosyal sayfa projesini başka bir tema ile yeniden oluşturmaktı"
+      }
+    ],
+    "technologies": [
+      "Cypress",
+      "Docker",
+      "Git",
+      "JavaScript",
+      "Jest",
+      "MongoDB",
+      "NextJS",
+      "NodeJS",
+      "PostgreSQL",
+      "Prisma",
+      "React",
+      "Sass",
+      "Solidity",
+      "TailwindCSS",
+      "TestingLibrary",
+      "TypeScript"
+    ]
+  },
+  "contact": {
+    "menuTitle": "İletişim",
+    "pageTitle": "Bana e-posta ile ulaşın",
+    "nameField": "İsim",
+    "emailField": "E-posta",
+    "phoneField": "Telefon",
+    "subjectField": "Konu",
+    "messageField": "Mesaj",
+    "messageLabel": "Mesajınızı buraya yazın",
+    "optional": "İsteğe Bağlı",
+    "required": "Zorunlu",
+    "sendButton": "E-Posta Gönder",
+    "loading": "Lütfen bekleyin, gönderiliyor...",
+    "error": "Başarısız!! Tekrar denemek için tıklayın",
+    "success": "Gönderildi!!",
+    "old": "Eski portföy sayfamı görüntüleyin",
+    "whats": "WhatsApp ile iletişime geçin"
+  }
+}

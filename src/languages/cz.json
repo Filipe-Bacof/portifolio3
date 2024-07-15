@@ -1,0 +1,266 @@
+{
+  "global": {
+    "next": "Další",
+    "prev": "Předchozí",
+    "home": "Domovská stránka",
+    "language": {
+      "title": "Změnit jazyk",
+      "warning": "Upozornění: Ne všechny jazyky byly zkontrolovány!",
+      "ar": "Arabština",
+      "be": "Bengálština",
+      "ch": "Mandarínská čínština",
+      "cz": "Čeština",
+      "de": "Němčina",
+      "di": "Dánština",
+      "en": "Angličtina",
+      "es": "Španělština",
+      "et": "Estonština",
+      "fi": "Finština",
+      "fr": "Francouzština",
+      "gr": "Řečtina",
+      "he": "Hebrejština",
+      "hi": "Hindština",
+      "hu": "Maďarština",
+      "ind": "Indonéština",
+      "it": "Italština",
+      "ja": "Japonština",
+      "ko": "Korejština",
+      "la": "Latina",
+      "ne": "Nizozemština",
+      "no": "Norština",
+      "po": "Polština",
+      "ptbr": "Brazilská portugalština",
+      "ptpt": "Evropská portugalština",
+      "ru": "Ruština",
+      "sw": "Svahilština",
+      "ta": "Thajština",
+      "tu": "Turečtina",
+      "zu": "Zuluština"
+    }
+  },
+  "home": {
+    "menuTitle": "Domů",
+    "imageAlt": "Fotografie Filipeho Bacofa",
+    "header": {
+      "header1": "Vítejte! Jsem",
+      "header2": "Filipe Bacof",
+      "header3": "Full-Stack Developer"
+    },
+    "shortcuts": {
+      "title": "Zkratky",
+      "whatsApp": "Kontaktujte mě přes WhatsApp",
+      "email": "Kontaktujte mě přes email pomocí kontaktního formuláře",
+      "github": "Podívejte se na mé projekty na GitHubu",
+      "linkedin": "Propojte se se mnou na LinkedIn"
+    },
+    "location": {
+      "title": "Lokalita",
+      "where": "Sapucaia do Sul - RS"
+    },
+    "phones": {
+      "title": "Telefony",
+      "phone1": "+55 51 99445-6865",
+      "phone2": "+55 51 99763-1686"
+    }
+  },
+  "career": {
+    "menuTitle": "Profesionální život",
+    "imageAlt": "Fotografie Filipeho Bacofa při práci",
+    "experiences": {
+      "title": "Zkušenosti",
+      "jobs": [
+        {
+          "title": "Vidaia Care",
+          "role": "Fullstack Developer",
+          "modality": "Remote",
+          "start": "Červenec 2023",
+          "end": "Červen 2024",
+          "elapsed": "1 rok",
+          "description": "Programování systémů zaměřených na zdravotní péči"
+        },
+        {
+          "title": "Prestativ SAP",
+          "role": "Fullstack Developer",
+          "modality": "Na místě",
+          "start": "Prosinec 2022",
+          "end": "Duben 2023",
+          "elapsed": "5 měsíců",
+          "description": "Vývoj systémů pro interní použití ve firmě"
+        },
+        {
+          "title": "Datamétrica",
+          "role": "Operátor call centra",
+          "modality": "Remote",
+          "start": "Leden 2021",
+          "end": "Duben 2022",
+          "elapsed": "1 rok a 4 měsíce",
+          "description": "Zákaznická podpora a provoz administrativních systémů"
+        },
+        {
+          "title": "Tracktus",
+          "role": "Analytik podpory",
+          "modality": "Na místě",
+          "start": "Únor 2017",
+          "end": "Leden 2020",
+          "elapsed": "3 roky",
+          "description": "Provoz systémů a zákaznická podpora, údržba interních informací"
+        }
+      ]
+    },
+    "download": {
+      "title": "Stáhnout životopis",
+      "pt": "PT-BR",
+      "en": "EN-US"
+    }
+  },
+  "academic": {
+    "menuTitle": "Akademický život",
+    "imageAlt": "Fotografie Filipeho Bacofa při promoci",
+    "education": {
+      "title": "Akademické vzdělání",
+      "where": "Unicesumar EAD",
+      "course": "Bakalář softwarového inženýrství",
+      "conclusion": "Probíhá, dokončeno 13/16"
+    },
+    "languages": [
+      {
+        "en": "Brazilská portugalština",
+        "level": "C2 - Profesionální, rodilý mluvčí"
+      },
+      {
+        "en": "Angličtina",
+        "level": "B2 - Vyšší středně pokročilá"
+      },
+      {
+        "en": "Španělština",
+        "level": "B1 - Středně pokročilá"
+      }
+    ],
+    "books": [
+      {
+        "title": "The Pragmatic Programmer",
+        "description": "Ilustruje nejlepší praktiky a hlavní úskalí ve vývoji softwaru."
+      },
+      {
+        "title": "Clean Code",
+        "description": "Učí sadu nejlepších praktik pro dosažení větší čitelnosti a udržovatelnosti kódu."
+      },
+      {
+        "title": "Outwitting the Devil",
+        "description": "Rozhovor, kde Napoleon Hill přinutí ďábla odhalit triky, jak se vyhnout pastím jako strach, prokrastinace, hněv, které jsou označovány jako nástroje ďábla k odcizení lidí."
+      },
+      {
+        "title": "The Kybalion",
+        "description": "Tato tajemná kniha je zasvěcením do moudrosti hermetismu, mystické tradice, která prošla časem od starověku až po současnost."
+      }
+    ],
+    "softskills": [
+      "Schopnost analyzovat technické informace",
+      "Dobrý smysl pro humor při týmové práci",
+      "Rychlost učení se novým technologiím",
+      "Kreativita při řešení problémů",
+      "Zvyklost pracovat s agilními metodikami"
+    ],
+    "currentlyStudying": {
+      "title": "Momentálně studuji",
+      "item": "Web3 a Blockchain",
+      "description": "Tvorba chytrých kontraktů pomocí Solidity"
+    }
+  },
+  "personal": {
+    "menuTitle": "Osobní život",
+    "imageAlt": "Fotografie Filipeho Bacofa při hraní na kytaru",
+    "button": {
+      "title": "Nějaké dobré vzpomínky",
+      "description": "Projekt časové kapsle, vytvořený na akci Rocketseat, tento projekt plánuji opakovat každý rok."
+    },
+    "about": {
+      "title": "Kdo jsem?",
+      "description": "Kromě toho, že jsem profesionál nadšený pro technologie, mám také několik koníčků, které zahrnují hraní na strunné nástroje, čtení knih na různá témata, sledování seriálů s mou ženou a péči o mé dvě kočky."
+    },
+    "quote": {
+      "sentence": "Muž, který dělá více, než za co je placen, bude brzy placen za více, než co dělá.",
+      "author": "Napoleon Hill"
+    }
+  },
+  "projects": {
+    "menuTitle": "Projekty",
+    "buttons": {
+      "deploy": "Zobrazit nasazení",
+      "repo": "Zobrazit repository"
+    },
+    "projects": [
+      {
+        "title": "Lokos D' Bira Web",
+        "description1": "Webová aplikace vytvořená s přáteli jako pocta velmi charismatické kapele z mého města",
+        "description2": "Zvýraznění optimalizací SEO provedených pomocí NextJS, zkuste vyhledat jméno kapely na Googlu"
+      },
+      {
+        "title": "Metallica API",
+        "description1": "Backend projekt vyvinutý k oslavě Dne rocku (13. července)",
+        "description2": "Účelem tohoto projektu je navázat kontakt s ostatními programátory"
+      },
+      {
+        "title": "Pokedex",
+        "description1": "Všichni programátoři mají tento projekt, ale já jsem dělal téměř vše pomocí Tailwind",
+        "description2": "Tento projekt byl vytvořen jako technická výzva pro pozici Full-Stack"
+      },
+      {
+        "title": "Správce úkolů",
+        "description1": "Experimentoval jsem s použitím jiného ORM, než na který jsem byl zvyklý, použil jsem Sequelize místo Prisma",
+        "description2": "Tato aplikace byla vytvořena jako technická výzva pro pozici Full-Stack"
+      },
+      {
+        "title": "Chat GPT Klon",
+        "description1": "Spotřeba OpenAI API, která je stejná jako ta používaná oficiálním ChatGPT",
+        "description2": "Rozhraní je stejné jako ChatGPT při jeho spuštění."
+      },
+      {
+        "title": "Filmová knihovna",
+        "description1": "Použití API poskytované The Movie DataBase (TMDB)",
+        "description2": "Můžete vidět zajímavá data o svých oblíbených filmech"
+      },
+      {
+        "title": "NLW E-Sports",
+        "description1": "Jedna z prvních programovacích akcí, které jsem se zúčastnil",
+        "description2": "Výzva po akci byla znovu vytvořit projekt sociální stránky e-sportů s jiným tématem"
+      }
+    ],
+    "technologies": [
+      "Cypress",
+      "Docker",
+      "Git",
+      "JavaScript",
+      "Jest",
+      "MongoDB",
+      "NextJS",
+      "NodeJS",
+      "PostgreSQL",
+      "Prisma",
+      "React",
+      "Sass",
+      "Solidity",
+      "TailwindCSS",
+      "TestingLibrary",
+      "TypeScript"
+    ]
+  },
+  "contact": {
+    "menuTitle": "Kontakt",
+    "pageTitle": "Kontaktujte mě emailem",
+    "nameField": "Jméno",
+    "emailField": "Email",
+    "phoneField": "Telefon",
+    "subjectField": "Předmět",
+    "messageField": "Zpráva",
+    "messageLabel": "Zadejte svou zprávu zde",
+    "optional": "Volitelné",
+    "required": "Povinné",
+    "sendButton": "Odeslat e-mail",
+    "loading": "Čekejte prosím, odesílám...",
+    "error": "Selhání!! Klikněte pro opětovné odeslání",
+    "success": "Odesláno!!",
+    "old": "Zobrazit mou starou portfoliovou stránku",
+    "whats": "Kontaktovat přes WhatsApp"
+  }
+}

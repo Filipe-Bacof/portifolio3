@@ -2,21 +2,33 @@ import { useState, useEffect } from "react";
 import arIcon from "../assets/flags-icons/ar.svg";
 import beIcon from "../assets/flags-icons/be.svg";
 import chIcon from "../assets/flags-icons/ch.svg";
+import czIcon from "../assets/flags-icons/cz.svg";
 import deIcon from "../assets/flags-icons/de.svg";
+import diIcon from "../assets/flags-icons/di.svg";
 import enIcon from "../assets/flags-icons/en.svg";
 import esIcon from "../assets/flags-icons/es.svg";
 import etIcon from "../assets/flags-icons/et.svg";
+import fiIcon from "../assets/flags-icons/fi.svg";
 import frIcon from "../assets/flags-icons/fr.svg";
+import grIcon from "../assets/flags-icons/gr.svg";
+import heIcon from "../assets/flags-icons/he.svg";
 import hiIcon from "../assets/flags-icons/hi.svg";
+import huIcon from "../assets/flags-icons/hu.svg";
 import indIcon from "../assets/flags-icons/ind.svg";
 import itIcon from "../assets/flags-icons/it.svg";
 import jaIcon from "../assets/flags-icons/ja.svg";
 import koIcon from "../assets/flags-icons/ko.svg";
+import laIcon from "../assets/flags-icons/la.svg";
+import neIcon from "../assets/flags-icons/ne.svg";
 import noIcon from "../assets/flags-icons/no.svg";
+import poIcon from "../assets/flags-icons/po.svg";
 import ptbrIcon from "../assets/flags-icons/pt-br.svg";
 import ptptIcon from "../assets/flags-icons/pt-pt.svg";
 import ruIcon from "../assets/flags-icons/ru.svg";
 import swIcon from "../assets/flags-icons/sw.svg";
+import taIcon from "../assets/flags-icons/ta.svg";
+import tuIcon from "../assets/flags-icons/tu.svg";
+import zuIcon from "../assets/flags-icons/zu.svg";
 import "../styles/components/LanguageSwitcher.sass";
 import { Language } from "../interfaces/Languages.interface";
 import {
@@ -133,6 +145,66 @@ export default function LanguageSwitcher({
       code: "sw",
       name: getTranslatedInformation(selected, "global.language.sw"),
       icon: swIcon,
+    },
+    {
+      code: "cz",
+      name: getTranslatedInformation(selected, "global.language.cz"),
+      icon: czIcon,
+    },
+    {
+      code: "di",
+      name: getTranslatedInformation(selected, "global.language.di"),
+      icon: diIcon,
+    },
+    {
+      code: "fi",
+      name: getTranslatedInformation(selected, "global.language.fi"),
+      icon: fiIcon,
+    },
+    {
+      code: "gr",
+      name: getTranslatedInformation(selected, "global.language.gr"),
+      icon: grIcon,
+    },
+    {
+      code: "he",
+      name: getTranslatedInformation(selected, "global.language.he"),
+      icon: heIcon,
+    },
+    {
+      code: "hu",
+      name: getTranslatedInformation(selected, "global.language.hu"),
+      icon: huIcon,
+    },
+    {
+      code: "la",
+      name: getTranslatedInformation(selected, "global.language.la"),
+      icon: laIcon,
+    },
+    {
+      code: "ne",
+      name: getTranslatedInformation(selected, "global.language.ne"),
+      icon: neIcon,
+    },
+    {
+      code: "po",
+      name: getTranslatedInformation(selected, "global.language.po"),
+      icon: poIcon,
+    },
+    {
+      code: "ta",
+      name: getTranslatedInformation(selected, "global.language.ta"),
+      icon: taIcon,
+    },
+    {
+      code: "tu",
+      name: getTranslatedInformation(selected, "global.language.tu"),
+      icon: tuIcon,
+    },
+    {
+      code: "zu",
+      name: getTranslatedInformation(selected, "global.language.zu"),
+      icon: zuIcon,
     },
   ];
 

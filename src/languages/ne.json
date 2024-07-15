@@ -1,0 +1,266 @@
+{
+  "global": {
+    "next": "Volgende",
+    "prev": "Vorige",
+    "home": "Startpagina",
+    "language": {
+      "title": "Taal wijzigen",
+      "warning": "Waarschuwing: Niet alle talen zijn gerecenseerd!",
+      "ar": "Arabisch",
+      "be": "Bengaals",
+      "ch": "Mandarijns Chinees",
+      "cz": "Tsjechisch",
+      "de": "Duits",
+      "di": "Deens",
+      "en": "Engels",
+      "es": "Spaans",
+      "et": "Ests",
+      "fi": "Fins",
+      "fr": "Frans",
+      "gr": "Grieks",
+      "he": "Hebreeuws",
+      "hi": "Hindi",
+      "hu": "Hongaars",
+      "ind": "Indonesisch",
+      "it": "Italiaans",
+      "ja": "Japans",
+      "ko": "Koreaans",
+      "la": "Latijn",
+      "ne": "Nederlands",
+      "no": "Noors",
+      "po": "Pools",
+      "ptbr": "Braziliaans Portugees",
+      "ptpt": "Portugees Portugees",
+      "ru": "Russisch",
+      "sw": "Swahili",
+      "ta": "Thai",
+      "tu": "Turks",
+      "zu": "Zulu"
+    }
+  },
+  "home": {
+    "menuTitle": "Home",
+    "imageAlt": "Foto van Filipe Bacof",
+    "header": {
+      "header1": "Welkom! Ik ben",
+      "header2": "Filipe Bacof",
+      "header3": "Full-Stack Developer"
+    },
+    "shortcuts": {
+      "title": "Snelkoppelingen",
+      "whatsApp": "Contact via WhatsApp",
+      "email": "Contact via e-mail met behulp van mijn contactformulier",
+      "github": "Bekijk mijn projecten op GitHub",
+      "linkedin": "Verbind met mij op LinkedIn"
+    },
+    "location": {
+      "title": "Locatie",
+      "where": "Sapucaia do Sul - RS"
+    },
+    "phones": {
+      "title": "Telefoons",
+      "phone1": "+55 51 99445-6865",
+      "phone2": "+55 51 99763-1686"
+    }
+  },
+  "career": {
+    "menuTitle": "Professioneel Leven",
+    "imageAlt": "Foto van Filipe Bacof aan het werk",
+    "experiences": {
+      "title": "Ervaringen",
+      "jobs": [
+        {
+          "title": "Vidaia Care",
+          "role": "Fullstack Developer",
+          "modality": "Op afstand",
+          "start": "Jul 2023",
+          "end": "Jun 2024",
+          "elapsed": "1 jaar",
+          "description": "Programmeren van systemen gericht op gezondheidszorg en zorg"
+        },
+        {
+          "title": "Prestativ SAP",
+          "role": "Fullstack Developer",
+          "modality": "Op locatie",
+          "start": "Dec 2022",
+          "end": "Apr 2023",
+          "elapsed": "5 maanden",
+          "description": "Ontwikkeling van systemen voor intern gebruik van het bedrijf"
+        },
+        {
+          "title": "Datamétrica",
+          "role": "Callcentermedewerker",
+          "modality": "Op afstand",
+          "start": "Jan 2021",
+          "end": "Apr 2022",
+          "elapsed": "1 jaar en 4 maanden",
+          "description": "Klantenservice en ondersteuning, bediening van administratieve systemen"
+        },
+        {
+          "title": "Tracktus",
+          "role": "Support-analist",
+          "modality": "Op locatie",
+          "start": "Feb 2017",
+          "end": "Jan 2020",
+          "elapsed": "3 jaar",
+          "description": "Bedrijfsvoering van systemen en klantenondersteuning, onderhoud van interne informatie"
+        }
+      ]
+    },
+    "download": {
+      "title": "Download CV",
+      "pt": "PT-BR",
+      "en": "EN-US"
+    }
+  },
+  "academic": {
+    "menuTitle": "Academisch Leven",
+    "imageAlt": "Foto van Filipe Bacof bij afstuderen",
+    "education": {
+      "title": "Academische Opleiding",
+      "where": "Unicesumar EAD",
+      "course": "Bachelor in Software Engineering",
+      "conclusion": "In progress, 13/16 completed"
+    },
+    "languages": [
+      {
+        "en": "Brazilian Portuguese",
+        "level": "C2 - Bekwaam, Moedertaal"
+      },
+      {
+        "en": "English",
+        "level": "B2 - Hoger Tussenliggend"
+      },
+      {
+        "en": "Spanish",
+        "level": "B1 - Tussenliggend"
+      }
+    ],
+    "books": [
+      {
+        "title": "The Pragmatic Programmer",
+        "description": "Illustrates best practices and main pitfalls in software development."
+      },
+      {
+        "title": "Clean Code",
+        "description": "Teaches a set of best practices to achieve greater readability and maintainability of your code."
+      },
+      {
+        "title": "Outwitting the Devil",
+        "description": "An interview where Napoleon Hill forces the Devil to reveal tricks to escape traps like fear, procrastination, anger, indicated as tools of the devil to alienate humans."
+      },
+      {
+        "title": "The Kybalion",
+        "description": "This mysterious book is an initiation into the wisdom of Hermeticism, a mystical tradition that has crossed time from Antiquity to the present day."
+      }
+    ],
+    "softskills": [
+      "Ability to analyze technical information",
+      "Good humor for teamwork",
+      "Agility to learn new technologies",
+      "Creativity to solve problems",
+      "Used to working with agile methodologies"
+    ],
+    "currentlyStudying": {
+      "title": "Currently, I am studying",
+      "item": "Web3 and Blockchain",
+      "description": "Creating smart contracts with Solidity"
+    }
+  },
+  "personal": {
+    "menuTitle": "Persoonlijk Leven",
+    "imageAlt": "Foto van Filipe Bacof die gitaar speelt",
+    "button": {
+      "title": "Enkele goede herinneringen",
+      "description": "Een tijdcapsuleproject, gemaakt tijdens een Rocketseat-evenement, ik ben van plan dit project elk jaar opnieuw te doen."
+    },
+    "about": {
+      "title": "Wie ben ik?",
+      "description": "Naast dat ik een professional ben die gepassioneerd is door technologie, heb ik ook verschillende hobby's, waaronder het bespelen van snaarinstrumenten, het lezen van boeken over uiteenlopende onderwerpen, series kijken met mijn vrouw, en het verzorgen van mijn twee katten."
+    },
+    "quote": {
+      "sentence": "De man die meer doet dan waarvoor hij wordt betaald, zal al snel worden betaald voor meer dan hij doet.",
+      "author": "Napoleon Hill"
+    }
+  },
+  "projects": {
+    "menuTitle": "Projecten",
+    "buttons": {
+      "deploy": "Bekijk implementatie",
+      "repo": "Bekijk Repository"
+    },
+    "projects": [
+      {
+        "title": "Lokos D' Bira Website",
+        "description1": "Webapp gemaakt met vrienden als eerbetoon aan een zeer charismatische band uit mijn stad",
+        "description2": "Hoogtepunt voor de SEO-optimalisaties gemaakt met NextJS, probeer de naam van de band te zoeken op Google"
+      },
+      {
+        "title": "Metallica API",
+        "description1": "Backend-project ontwikkeld ter viering van Rock Day (13 juli)",
+        "description2": "Het doel van dit project is om te netwerken met andere programmeurs"
+      },
+      {
+        "title": "Pokedex",
+        "description1": "Alle programmeurs hebben dit project, maar ik heb bijna alles gedaan met behulp van Tailwind",
+        "description2": "Dit project werd gedaan als een technische uitdaging voor een Full-Stack positie"
+      },
+      {
+        "title": "Taakbeheerder",
+        "description1": "Ik heb geëxperimenteerd met het gebruik van een ander ORM dan ik gewend was, ik heb Sequelize gebruikt in plaats van Prisma",
+        "description2": "Deze applicatie is gemaakt als een technische uitdaging voor een Full-Stack positie"
+      },
+      {
+        "title": "Chat GPT Clone",
+        "description1": "Consumptie van de OpenAI API, die dezelfde is als die gebruikt door de officiële ChatGPT",
+        "description2": "De interface is hetzelfde als ChatGPT bij de lancering."
+      },
+      {
+        "title": "Filmbibliotheek",
+        "description1": "Gebruikmakend van de API verstrekt door The Movie DataBase (TMDB)",
+        "description2": "U kunt interessante gegevens zien over uw favoriete films"
+      },
+      {
+        "title": "NLW E-Sports",
+        "description1": "Een van de eerste programmeerevenementen waar ik aan heb deelgenomen",
+        "description2": "De uitdaging na het evenement was om het e-sports sociale pagina project te recreëren met een ander thema"
+      }
+    ],
+    "technologies": [
+      "Cypress",
+      "Docker",
+      "Git",
+      "JavaScript",
+      "Jest",
+      "MongoDB",
+      "NextJS",
+      "NodeJS",
+      "PostgreSQL",
+      "Prisma",
+      "React",
+      "Sass",
+      "Solidity",
+      "TailwindCSS",
+      "TestingLibrary",
+      "TypeScript"
+    ]
+  },
+  "contact": {
+    "menuTitle": "Contact",
+    "pageTitle": "Neem contact met mij op via e-mail",
+    "nameField": "Naam",
+    "emailField": "E-mail",
+    "phoneField": "Telefoon",
+    "subjectField": "Onderwerp",
+    "messageField": "Bericht",
+    "messageLabel": "Typ hier je bericht",
+    "optional": "Optioneel",
+    "required": "Vereist",
+    "sendButton": "Verstuur E-mail",
+    "loading": "Even geduld, versturen...",
+    "error": "Mislukt!! Klik om opnieuw te proberen",
+    "success": "Verstuurd!!",
+    "old": "Bekijk mijn oude portfoliopagina",
+    "whats": "Contact via WhatsApp"
+  }
+}

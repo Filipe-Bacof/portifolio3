@@ -1,0 +1,266 @@
+{
+  "global": {
+    "next": "Sequens",
+    "prev": "Anterior",
+    "home": "Domum Pagina",
+    "language": {
+      "title": "Linguam Mutare",
+      "warning": "Cave: Non omnes linguae examinatae sunt!",
+      "ar": "Arabica",
+      "be": "Bengalica",
+      "ch": "Sinica Mandarinica",
+      "cz": "Bohemica",
+      "de": "Germanica",
+      "di": "Danica",
+      "en": "Anglica",
+      "es": "Hispanica",
+      "et": "Estica",
+      "fi": "Finnica",
+      "fr": "Gallica",
+      "gr": "Graeca",
+      "he": "Hebraica",
+      "hi": "Indica",
+      "hu": "Hungarica",
+      "ind": "Indonesica",
+      "it": "Italica",
+      "ja": "Iaponica",
+      "ko": "Coreanica",
+      "la": "Latina",
+      "ne": "Belgica",
+      "no": "Norvegica",
+      "po": "Polonica",
+      "ptbr": "Lusitana Brasiliensis",
+      "ptpt": "Lusitana Portugallensis",
+      "ru": "Russica",
+      "sw": "Svahilica",
+      "ta": "Thaica",
+      "tu": "Turcica",
+      "zu": "Zuluensis"
+    }
+  },
+  "home": {
+    "menuTitle": "Domum",
+    "imageAlt": "Imago Filippi Bacof",
+    "header": {
+      "header1": "Salve! Sum",
+      "header2": "Filippus Bacof",
+      "header3": "Programmator Full-Stack"
+    },
+    "shortcuts": {
+      "title": "Viæ Brevissimæ",
+      "whatsApp": "Contactus per WhatsApp",
+      "email": "Contactus per e-mail, ad formula mea",
+      "github": "Mea opera in GitHub vide",
+      "linkedin": "Mei cum LinkedIn coniunge"
+    },
+    "location": {
+      "title": "Locatio",
+      "where": "Sapucaia do Sul - RS"
+    },
+    "phones": {
+      "title": "Telephona",
+      "phone1": "+55 51 99445-6865",
+      "phone2": "+55 51 99763-1686"
+    }
+  },
+  "career": {
+    "menuTitle": "Vita Professionalis",
+    "imageAlt": "Imago Filippi Bacof laborantis",
+    "experiences": {
+      "title": "Experientiæ",
+      "jobs": [
+        {
+          "title": "Vidaia Cura",
+          "role": "Programmator Fullstack",
+          "modality": "Remotus",
+          "start": "Iul 2023",
+          "end": "Iun 2024",
+          "elapsed": "1 annum",
+          "description": "Systemata ad curam sanitatis et curam focata programmando"
+        },
+        {
+          "title": "Prestativ SAP",
+          "role": "Programmator Fullstack",
+          "modality": "In loco",
+          "start": "Dec 2022",
+          "end": "Apr 2023",
+          "elapsed": "5 menses",
+          "description": "Systemata ad usum internum in domo scripta"
+        },
+        {
+          "title": "Datamétrica",
+          "role": "Operator Call Center",
+          "modality": "Remotus",
+          "start": "Ian 2021",
+          "end": "Apr 2022",
+          "elapsed": "1 annum et 4 menses",
+          "description": "Servitium clientium et auxilium, systematum administrativorum operatio"
+        },
+        {
+          "title": "Tracktus",
+          "role": "Analistæ Auxilii",
+          "modality": "In loco",
+          "start": "Feb 2017",
+          "end": "Ian 2020",
+          "elapsed": "3 annos",
+          "description": "Systematum operatio et clientium auxilium, conservationis internae informatio"
+        }
+      ]
+    },
+    "download": {
+      "title": "Curriculum Decrevi",
+      "pt": "PT-BR",
+      "en": "EN-US"
+    }
+  },
+  "academic": {
+    "menuTitle": "Vita Academica",
+    "imageAlt": "Imago Filippi Bacof ad graduandum",
+    "education": {
+      "title": "Educatio Academica",
+      "where": "Unicesumar EAD",
+      "course": "Baccalaureatus in Ingeniaria Software",
+      "conclusion": "In progress, 13/16 completi"
+    },
+    "languages": [
+      {
+        "en": "Lusitana Brasiliensis",
+        "level": "C2 - Peritus, Indigena"
+      },
+      {
+        "en": "Anglica",
+        "level": "B2 - Superiorem Intermediam"
+      },
+      {
+        "en": "Hispanica",
+        "level": "B1 - Intermediam"
+      }
+    ],
+    "books": [
+      {
+        "title": "Programmator Pragmaticus",
+        "description": "Normas optimas ac errores præcipuos in evolvendo software ostendit."
+      },
+      {
+        "title": "Codex Mundi",
+        "description": "Doctrinam normarum ad maiorem legebilitatem et sustentabilitatem codicis tui docet."
+      },
+      {
+        "title": "Diabolum superantes",
+        "description": "Colloquium in quo Napoleon Hill Diabolum cogit ad tradendos dolos ad evadendum insidias sicut timorem, cunctationem, iram."
+      },
+      {
+        "title": "Kybalion",
+        "description": "Liber iste mysticus est initium in sapientiam Hermeticam, traditionem mysticam quae temporis cursu a vetustate ad præsentem diem transiit."
+      }
+    ],
+    "softskills": [
+      "Facultas ad analysandum informationem technicam",
+      "Bona humoris ad teamwork",
+      "Agilitas ad discendum novas technologias",
+      "Creativitas ad resolvendum problemas",
+      "Consuetudo ad operationem cum methodis agilibus"
+    ],
+    "currentlyStudying": {
+      "title": "Studio nunc",
+      "item": "Web3 et Blockchain",
+      "description": "Creationem smart contractuum cum Soliditate"
+    }
+  },
+  "personal": {
+    "menuTitle": "Vita Personalis",
+    "imageAlt": "Imago Filippi Bacof chelystra canentis",
+    "button": {
+      "title": "Memoriae aliquot bona",
+      "description": "Projectum capsule temporis, in occasione rei gestae Rocketseat creatum, eo proposito, ut hoc projectum annis singulis repeterem."
+    },
+    "about": {
+      "title": "Quis ego sum?",
+      "description": "Praeter esse profesionem technologiam amantem, alios etiam amores habeo, qui includunt instrumenta cordis cantum, libros de variis rebus legendos, series cum uxore mea spectandas, curamque duorum meorum felium."
+    },
+    "quote": {
+      "sentence": "Homo, qui plus facit quam ei redditur, mox plus redditur, quam facit.",
+      "author": "Napoleon Hill"
+    }
+  },
+  "projects": {
+    "menuTitle": "Projecta",
+    "buttons": {
+      "deploy": "Visum ponere",
+      "repo": "Repository Visum"
+    },
+    "projects": [
+      {
+        "title": "Lokos D' Bira Website",
+        "description1": "App web, amicis meis tributum ad bandam ex mea urbe valde charismatice",
+        "description2": "Emphasis SEO optimisationibus, quas NextJS adhibitis fecimus, bandae nomen in Google conerere tempta"
+      },
+      {
+        "title": "Metallica API",
+        "description1": "Projectum background, ad celebrandum diem Rock (Iulius XIII) scriptum",
+        "description2": "Huius projecti propositum est cum aliis programmatoribus interretibus ire"
+      },
+      {
+        "title": "Pokedex",
+        "description1": "Omnibus programmatoribus hoc projectum est, sed ego fere omnia feci Tailwind adhibitis",
+        "description2": "Hoc projecto provocationis technicæ ad Full-Stack positionem factum est"
+      },
+      {
+        "title": "Task Manager",
+        "description1": "Experimentavi cum alio ORM usu, non usu mei, sed Prisma adhibui Sequelize",
+        "description2": "Applicatio hac technica ad Full-Stack positionem facta est"
+      },
+      {
+        "title": "Chat GPT Clone",
+        "description1": "OpenAI API consumption, idem usum quem officialis ChatGPT utitur",
+        "description2": "Facies simile est ChatGPT in eius exordio"
+      },
+      {
+        "title": "Movie Library",
+        "description1": "API, qua Movie DataBase (TMDB) providebatur adhibita",
+        "description2": "Data interestantia de tuis favoritis filmis videri possunt"
+      },
+      {
+        "title": "NLW E-Sports",
+        "description1": "Unum e primum eventibus programmationis, in quo participavi",
+        "description2": "Certamen post eventum erat paginam sociale e-sports projectum cum alia themate recreare"
+      }
+    ],
+    "technologies": [
+      "Cypress",
+      "Docker",
+      "Git",
+      "JavaScript",
+      "Jest",
+      "MongoDB",
+      "NextJS",
+      "NodeJS",
+      "PostgreSQL",
+      "Prisma",
+      "React",
+      "Sass",
+      "Solidity",
+      "TailwindCSS",
+      "TestingLibrary",
+      "TypeScript"
+    ]
+  },
+  "contact": {
+    "menuTitle": "Contactus",
+    "pageTitle": "Mihi per e-mail coniunge",
+    "nameField": "Nomen",
+    "emailField": "E-mail",
+    "phoneField": "Telephono",
+    "subjectField": "Argumentum",
+    "messageField": "Nuntium",
+    "messageLabel": "Tuum nuntium hic scribe",
+    "optional": "Optativum",
+    "required": "Requiritur",
+    "sendButton": "Mitte E-Mail",
+    "loading": "Expecta, mitte...",
+    "error": "Defecit!! Clicke ut iterum temptes",
+    "success": "Missum est!!",
+    "old": "Vide vetus portfolii mei paginam",
+    "whats": "Contactus per WhatsApp"
+  }
+}

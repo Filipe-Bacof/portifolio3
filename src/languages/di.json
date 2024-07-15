@@ -1,0 +1,266 @@
+{
+  "global": {
+    "next": "Næste",
+    "prev": "Forrige",
+    "home": "Forside",
+    "language": {
+      "title": "Skift sprog",
+      "warning": "Advarsel: Ikke alle sprog er blevet gennemgået!",
+      "ar": "Arabisk",
+      "be": "Bengali",
+      "ch": "Mandarinkinesisk",
+      "cz": "Tjekkisk",
+      "de": "Tysk",
+      "di": "Dansk",
+      "en": "Engelsk",
+      "es": "Spansk",
+      "et": "Estisk",
+      "fi": "Finsk",
+      "fr": "Fransk",
+      "gr": "Græsk",
+      "he": "Hebraisk",
+      "hi": "Hindi",
+      "hu": "Ungarsk",
+      "ind": "Indonesisk",
+      "it": "Italiensk",
+      "ja": "Japansk",
+      "ko": "Koreansk",
+      "la": "Latin",
+      "ne": "Hollandsk",
+      "no": "Norsk",
+      "po": "Polsk",
+      "ptbr": "Brasiliansk portugisisk",
+      "ptpt": "Portugisisk portugisisk",
+      "ru": "Russisk",
+      "sw": "Swahili",
+      "ta": "Thai",
+      "tu": "Tyrkisk",
+      "zu": "Zulu"
+    }
+  },
+  "home": {
+    "menuTitle": "Forside",
+    "imageAlt": "Foto af Filipe Bacof",
+    "header": {
+      "header1": "Velkommen! Jeg er",
+      "header2": "Filipe Bacof",
+      "header3": "Full-Stack Developer"
+    },
+    "shortcuts": {
+      "title": "Genveje",
+      "whatsApp": "Kontakt via WhatsApp",
+      "email": "Kontakt via e-mail ved hjælp af mit kontaktformular",
+      "github": "Se mine projekter på GitHub",
+      "linkedin": "Forbind med mig på LinkedIn"
+    },
+    "location": {
+      "title": "Placering",
+      "where": "Sapucaia do Sul - RS"
+    },
+    "phones": {
+      "title": "Telefoner",
+      "phone1": "+55 51 99445-6865",
+      "phone2": "+55 51 99763-1686"
+    }
+  },
+  "career": {
+    "menuTitle": "Professionelt liv",
+    "imageAlt": "Foto af Filipe Bacof, der arbejder",
+    "experiences": {
+      "title": "Erfaringer",
+      "jobs": [
+        {
+          "title": "Vidaia Care",
+          "role": "Fullstack Developer",
+          "modality": "Fjern",
+          "start": "Jul 2023",
+          "end": "Jun 2024",
+          "elapsed": "1 år",
+          "description": "Programmeringssystemer med fokus på sundhedspleje og omsorg"
+        },
+        {
+          "title": "Prestativ SAP",
+          "role": "Fullstack Developer",
+          "modality": "På stedet",
+          "start": "Dec 2022",
+          "end": "Apr 2023",
+          "elapsed": "5 måneder",
+          "description": "Udvikling af systemer til intern virksomhedsbrug"
+        },
+        {
+          "title": "Datamétrica",
+          "role": "Call Center Operator",
+          "modality": "Fjern",
+          "start": "Jan 2021",
+          "end": "Apr 2022",
+          "elapsed": "1 år og 4 måneder",
+          "description": "Kundeservice og support, drift af administrative systemer"
+        },
+        {
+          "title": "Tracktus",
+          "role": "Support Analyst",
+          "modality": "På stedet",
+          "start": "Feb 2017",
+          "end": "Jan 2020",
+          "elapsed": "3 år",
+          "description": "Systemdrift og kundesupport, vedligeholdelse af intern information"
+        }
+      ]
+    },
+    "download": {
+      "title": "Download CV",
+      "pt": "PT-BR",
+      "en": "EN-US"
+    }
+  },
+  "academic": {
+    "menuTitle": "Akademisk liv",
+    "imageAlt": "Foto af Filipe Bacof ved eksamen",
+    "education": {
+      "title": "Akademisk uddannelse",
+      "where": "Unicesumar EAD",
+      "course": "Bachelor i Software Engineering",
+      "conclusion": "Under uddannelse, 13/16 afsluttet"
+    },
+    "languages": [
+      {
+        "en": "Brasiliansk portugisisk",
+        "level": "C2 - Dygtig, indfødt"
+      },
+      {
+        "en": "Engelsk",
+        "level": "B2 - Øvre mellemliggende"
+      },
+      {
+        "en": "Spansk",
+        "level": "B1 - Mellemliggende"
+      }
+    ],
+    "books": [
+      {
+        "title": "The Pragmatic Programmer",
+        "description": "Illustrerer bedste praksis og hovedfaldgruber inden for softwareudvikling."
+      },
+      {
+        "title": "Clean Code",
+        "description": "Lærer en række bedste praksis for at opnå større læsbarhed og vedligeholdelse af din kode."
+      },
+      {
+        "title": "Outwitting the Devil",
+        "description": "Et interview, hvor Napoleon Hill tvinger Djævelen til at afsløre tricks for at undslippe fælder som frygt, udskydelse, vrede, angivet som djævlens værktøjer til at forføre mennesker."
+      },
+      {
+        "title": "The Kybalion",
+        "description": "Denne mystiske bog er en indvielse i Hermeticismens visdom, en mystisk tradition, der har krydset tid fra oldtiden til i dag."
+      }
+    ],
+    "softskills": [
+      "Evne til at analysere teknisk information",
+      "God humor til teamwork",
+      "Agilitet til at lære nye teknologier",
+      "Kreativitet til at løse problemer",
+      "Brugt til at arbejde med agile metoder"
+    ],
+    "currentlyStudying": {
+      "title": "I øjeblikket studerer jeg",
+      "item": "Web3 og Blockchain",
+      "description": "Oprettelse af smarte kontrakter med Solidity"
+    }
+  },
+  "personal": {
+    "menuTitle": "Personligt liv",
+    "imageAlt": "Foto af Filipe Bacof, der spiller guitar",
+    "button": {
+      "title": "Nogle gode minder",
+      "description": "Et tidskapselprojekt, oprettet på en Rocketseat begivenhed, jeg har til hensigt at genoprette dette projekt hvert år."
+    },
+    "about": {
+      "title": "Hvem er jeg?",
+      "description": "Udover at være en professionel passioneret om teknologi, har jeg også flere hobbyer, som inkluderer at spille strengeinstrumenter, læse bøger om forskellige emner, se serier med min kone og tage mig af mine to katte."
+    },
+    "quote": {
+      "sentence": "Manden, der gør mere end han bliver betalt for, vil snart blive betalt for mere end han gør.",
+      "author": "Napoleon Hill"
+    }
+  },
+  "projects": {
+    "menuTitle": "Projekter",
+    "buttons": {
+      "deploy": "Se deploy",
+      "repo": "Se depot"
+    },
+    "projects": [
+      {
+        "title": "Lokos D' Bira Website",
+        "description1": "Webapp oprettet med venner som en hyldest til et meget karismatisk band fra min by",
+        "description2": "Fremhæv for SEO-optimeringer foretaget med NextJS, prøv at søge efter bandets navn på Google"
+      },
+      {
+        "title": "Metallica API",
+        "description1": "Backend-projekt udviklet til at fejre Rock Day (13. juli)",
+        "description2": "Hensigten med dette projekt er at netværke med andre programmører"
+      },
+      {
+        "title": "Pokedex",
+        "description1": "Alle programmører har dette projekt, men jeg gjorde næsten alt ved hjælp af Tailwind",
+        "description2": "Dette projekt blev udført som en teknisk udfordring til en Full-Stack position"
+      },
+      {
+        "title": "Task Manager",
+        "description1": "Jeg eksperimenterede med at bruge en anden ORM end jeg var vant til, jeg brugte Sequelize i stedet for Prisma",
+        "description2": "Denne applikation blev lavet som en teknisk udfordring til en Full-Stack position"
+      },
+      {
+        "title": "Chat GPT Clone",
+        "description1": "Forbrug af OpenAI API, som er den samme brugt af den officielle ChatGPT",
+        "description2": "Interfacet er det samme som ChatGPT ved lanceringen."
+      },
+      {
+        "title": "Movie Library",
+        "description1": "Brug af API leveret af The Movie DataBase (TMDB)",
+        "description2": "Du kan se interessante data om dine yndlingsfilm"
+      },
+      {
+        "title": "NLW E-Sports",
+        "description1": "En af de første programmeringsevents, jeg deltog i",
+        "description2": "Udfordringen efter begivenheden var at genskabe e-sports social side-projektet med et andet tema"
+      }
+    ],
+    "technologies": [
+      "Cypress",
+      "Docker",
+      "Git",
+      "JavaScript",
+      "Jest",
+      "MongoDB",
+      "NextJS",
+      "NodeJS",
+      "PostgreSQL",
+      "Prisma",
+      "React",
+      "Sass",
+      "Solidity",
+      "TailwindCSS",
+      "TestingLibrary",
+      "TypeScript"
+    ]
+  },
+  "contact": {
+    "menuTitle": "Kontakt",
+    "pageTitle": "Kontakt mig via e-mail",
+    "nameField": "Navn",
+    "emailField": "E-mail",
+    "phoneField": "Telefon",
+    "subjectField": "Emne",
+    "messageField": "Besked",
+    "messageLabel": "Skriv din besked her",
+    "optional": "Valgfrit",
+    "required": "Påkrævet",
+    "sendButton": "Send e-mail",
+    "loading": "Vent venligst, sender...",
+    "error": "Mislykkedes!! Klik for at prøve igen",
+    "success": "Sendt!!",
+    "old": "Se min gamle porteføljeside",
+    "whats": "Kontakt via WhatsApp"
+  }
+}

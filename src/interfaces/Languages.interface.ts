@@ -21,21 +21,33 @@ export interface LanguageOptions {
   ar: string;
   be: string;
   ch: string;
+  cz: string;
   de: string;
+  di: string;
   en: string;
   es: string;
   et: string;
+  fi: string;
   fr: string;
+  gr: string;
+  he: string;
   hi: string;
+  hu: string;
   ind: string;
   it: string;
   ja: string;
   ko: string;
+  la: string;
+  ne: string;
   no: string;
+  po: string;
   ptbr: string;
   ptpt: string;
   ru: string;
   sw: string;
+  ta: string;
+  tu: string;
+  zu: string;
 }
 
 export type Language = Exclude<

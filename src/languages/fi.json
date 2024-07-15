@@ -1,0 +1,266 @@
+{
+  "global": {
+    "next": "Seuraava",
+    "prev": "Edellinen",
+    "home": "Kotisivu",
+    "language": {
+      "title": "Vaihda kieltä",
+      "warning": "Huomio: Kaikkia kieliä ei ole tarkistettu!",
+      "ar": "Arabia",
+      "be": "Bengali",
+      "ch": "Mandariinikiina",
+      "cz": "Tšekki",
+      "de": "Saksa",
+      "di": "Tanska",
+      "en": "Englanti",
+      "es": "Espanja",
+      "et": "Viro",
+      "fi": "Suomi",
+      "fr": "Ranska",
+      "gr": "Kreikka",
+      "he": "Heprea",
+      "hi": "Hindi",
+      "hu": "Unkari",
+      "ind": "Indonesia",
+      "it": "Italia",
+      "ja": "Japani",
+      "ko": "Korea",
+      "la": "Latina",
+      "ne": "Hollanti",
+      "no": "Norja",
+      "po": "Puola",
+      "ptbr": "Brasilian portugali",
+      "ptpt": "Portugalin portugali",
+      "ru": "Venäjä",
+      "sw": "Swahili",
+      "ta": "Thai",
+      "tu": "Turkki",
+      "zu": "Zulu"
+    }
+  },
+  "home": {
+    "menuTitle": "Koti",
+    "imageAlt": "Kuva Filipe Bacofista",
+    "header": {
+      "header1": "Tervetuloa! Olen",
+      "header2": "Filipe Bacof",
+      "header3": "Full-Stack -kehittäjä"
+    },
+    "shortcuts": {
+      "title": "Pikakuvakkeet",
+      "whatsApp": "Ota yhteyttä WhatsAppin kautta",
+      "email": "Ota yhteyttä sähköpostitse käyttäen yhteydenottolomakettani",
+      "github": "Katso projektejani GitHubissa",
+      "linkedin": "Yhdistä minuun LinkedInissä"
+    },
+    "location": {
+      "title": "Sijainti",
+      "where": "Sapucaia do Sul - RS"
+    },
+    "phones": {
+      "title": "Puhelimet",
+      "phone1": "+55 51 99445-6865",
+      "phone2": "+55 51 99763-1686"
+    }
+  },
+  "career": {
+    "menuTitle": "Ammatillinen elämä",
+    "imageAlt": "Kuva Filipe Bacofista työskentelemässä",
+    "experiences": {
+      "title": "Kokemukset",
+      "jobs": [
+        {
+          "title": "Vidaia Care",
+          "role": "Fullstack-kehittäjä",
+          "modality": "Etätyö",
+          "start": "Heinä 2023",
+          "end": "Kesä 2024",
+          "elapsed": "1 vuosi",
+          "description": "Ohjelmistojen kehittäminen terveydenhuoltoon ja hoivaan"
+        },
+        {
+          "title": "Prestativ SAP",
+          "role": "Fullstack-kehittäjä",
+          "modality": "Paikan päällä",
+          "start": "Joulu 2022",
+          "end": "Huhti 2023",
+          "elapsed": "5 kuukautta",
+          "description": "Järjestelmien kehittäminen yrityksen sisäiseen käyttöön"
+        },
+        {
+          "title": "Datamétrica",
+          "role": "Call center -operaattori",
+          "modality": "Etätyö",
+          "start": "Tammi 2021",
+          "end": "Huhti 2022",
+          "elapsed": "1 vuosi ja 4 kuukautta",
+          "description": "Asiakaspalvelu ja tuki, hallinnollisten järjestelmien käyttö"
+        },
+        {
+          "title": "Tracktus",
+          "role": "Tukianalyytikko",
+          "modality": "Paikan päällä",
+          "start": "Helmi 2017",
+          "end": "Tammi 2020",
+          "elapsed": "3 vuotta",
+          "description": "Järjestelmän käyttö ja asiakastuki, sisäisen tiedon ylläpito"
+        }
+      ]
+    },
+    "download": {
+      "title": "Lataa ansioluetteloni",
+      "pt": "PT-BR",
+      "en": "EN-US"
+    }
+  },
+  "academic": {
+    "menuTitle": "Akateeminen elämä",
+    "imageAlt": "Kuva Filipe Bacofista valmistumisen yhteydessä",
+    "education": {
+      "title": "Akateeminen koulutus",
+      "where": "Unicesumar EAD",
+      "course": "Ohjelmistotekniikan kandidaatti",
+      "conclusion": "Kesken, 13/16 suoritettu"
+    },
+    "languages": [
+      {
+        "en": "Brasilian portugali",
+        "level": "C2 - Taitava, äidinkielen tasoinen"
+      },
+      {
+        "en": "Englanti",
+        "level": "B2 - Yläkeskitaso"
+      },
+      {
+        "en": "Espanja",
+        "level": "B1 - Keskitaso"
+      }
+    ],
+    "books": [
+      {
+        "title": "The Pragmatic Programmer",
+        "description": "Esittelee parhaita käytäntöjä ja pääasiallisia sudenkuoppia ohjelmistokehityksessä."
+      },
+      {
+        "title": "Clean Code",
+        "description": "Opettaa joukon parhaita käytäntöjä paremman luettavuuden ja ylläpidettävyyden saavuttamiseksi koodissasi."
+      },
+      {
+        "title": "Outwitting the Devil",
+        "description": "Haastattelu, jossa Napoleon Hill pakottaa Paholaisen paljastamaan temput, joilla voi välttää ansat kuten pelko, vitkastelu, viha, joita pidetään ihmisten vieraannuttamisen välineinä Paholaisen työkalujen."
+      },
+      {
+        "title": "The Kybalion",
+        "description": "Tämä salaperäinen kirja on johdatus hermetismiin, mystiseen perinteeseen, joka on kulkenut ajasta antiikkiin nykypäivään asti."
+      }
+    ],
+    "softskills": [
+      "Kyky analysoida teknistä tietoa",
+      "Hyvä huumorintaju tiimityöskentelyyn",
+      "Nopeus oppia uusia teknologioita",
+      "Luovuus ongelmien ratkaisemiseen",
+      "Käytetty työskentelemään ketterillä menetelmillä"
+    ],
+    "currentlyStudying": {
+      "title": "Tällä hetkellä opiskelen",
+      "item": "Web3 ja lohkoketjut",
+      "description": "Älykkäiden sopimusten luominen Solidityn avulla"
+    }
+  },
+  "personal": {
+    "menuTitle": "Henkilökohtainen elämä",
+    "imageAlt": "Kuva Filipe Bacofista soittamassa kitaraa",
+    "button": {
+      "title": "Muutamia hyviä muistoja",
+      "description": "Aikakapseliprojekti, luotu Rocketseat-tapahtumassa, aion tehdä tämän projektin uudelleen joka vuosi."
+    },
+    "about": {
+      "title": "Kuka minä olen?",
+      "description": "Olen intohimoinen teknologiasta ammattilainen, mutta minulla on myös useita harrastuksia, jotka sisältävät kielisoittimien soittamisen, kirjojen lukemisen eri aiheista, sarjojen katsomisen vaimoni kanssa sekä kahden kissani hoitamisen."
+    },
+    "quote": {
+      "sentence": "Mies, joka tekee enemmän kuin hänelle maksetaan, tulee pian maksetuksi enemmän kuin hän tekee.",
+      "author": "Napoleon Hill"
+    }
+  },
+  "projects": {
+    "menuTitle": "Projektit",
+    "buttons": {
+      "deploy": "Näytä käyttöön",
+      "repo": "Näytä repository"
+    },
+    "projects": [
+      {
+        "title": "Lokos D' Bira -verkkosivusto",
+        "description1": "Web-sovellus, joka luotiin ystävien kanssa kunnianosoituksena erittäin karismaattiselle bändille kotikaupungissani",
+        "description2": "Korostus SEO-optimoinneista, jotka on tehty NextJS:llä, yritä etsiä bändin nimeä Googlesta"
+      },
+      {
+        "title": "Metallica API",
+        "description1": "Backend-projekti, joka kehitettiin juhlistamaan Rock Dayta (13. heinäkuuta)",
+        "description2": "Tämän projektin tarkoituksena on verkostoitua muiden ohjelmoijien kanssa"
+      },
+      {
+        "title": "Pokedex",
+        "description1": "Kaikilla ohjelmoijilla on tämä projekti, mutta tein melkein kaiken käyttäen Tailwindia",
+        "description2": "Tämä projekti tehtiin tekniseksi haasteeksi Full-Stack -asemaan"
+      },
+      {
+        "title": "Tehtävänhallinta",
+        "description1": "Kokeilin käyttää erilaista ORM:ää kuin olin tottunut, käytin sen sijaan Sequelizeä Prisman sijaan",
+        "description2": "Tämä sovellus tehtiin tekniseksi haasteeksi Full-Stack -asemaan"
+      },
+      {
+        "title": "Chat GPT Clone",
+        "description1": "OpenAI API:n käyttö, jota käyttää virallinen ChatGPT",
+        "description2": "Liitäntä on sama kuin ChatGPT:llä sen julkaisun aikaan."
+      },
+      {
+        "title": "Elokuvaliittymä",
+        "description1": "Käyttämällä The Movie DataBase (TMDB) -tarjoamaa API:a",
+        "description2": "Voit nähdä mielenkiintoisia tietoja suosikkielokuvistasi"
+      },
+      {
+        "title": "NLW E-Sports",
+        "description1": "Yksi ensimmäisistä ohjelmointitapahtumista, johon osallistuin",
+        "description2": "Haaste tapahtuman jälkeen oli luoda e-urheilun sosiaalisen sivun projekti toisella teemalla"
+      }
+    ],
+    "technologies": [
+      "Cypress",
+      "Docker",
+      "Git",
+      "JavaScript",
+      "Jest",
+      "MongoDB",
+      "NextJS",
+      "NodeJS",
+      "PostgreSQL",
+      "Prisma",
+      "React",
+      "Sass",
+      "Solidity",
+      "TailwindCSS",
+      "TestingLibrary",
+      "TypeScript"
+    ]
+  },
+  "contact": {
+    "menuTitle": "Ota yhteyttä",
+    "pageTitle": "Ota yhteyttä minuun sähköpostitse",
+    "nameField": "Nimi",
+    "emailField": "Sähköposti",
+    "phoneField": "Puhelin",
+    "subjectField": "Aihe",
+    "messageField": "Viesti",
+    "messageLabel": "Kirjoita viestisi tähän",
+    "optional": "Valinnainen",
+    "required": "Vaadittu",
+    "sendButton": "Lähetä sähköposti",
+    "loading": "Odota hetki, lähetetään...",
+    "error": "Epäonnistui!! Klikkaa yrittääksesi uudelleen",
+    "success": "Lähetetty!!",
+    "old": "Katso vanha portfolio-sivuni",
+    "whats": "Ota yhteyttä WhatsAppin kautta"
+  }
+}

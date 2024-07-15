@@ -1,0 +1,266 @@
+{
+  "global": {
+    "next": "Następny",
+    "prev": "Poprzedni",
+    "home": "Strona główna",
+    "language": {
+      "title": "Zmień język",
+      "warning": "Ostrzeżenie: Nie wszystkie języki zostały zweryfikowane!",
+      "ar": "Arabski",
+      "be": "Bengalski",
+      "ch": "Chiński mandaryński",
+      "cz": "Czeski",
+      "de": "Niemiecki",
+      "di": "Duński",
+      "en": "Angielski",
+      "es": "Hiszpański",
+      "et": " Estoński",
+      "fi": "Fiński",
+      "fr": "Francuski",
+      "gr": "Grecki",
+      "he": "Hebrajski",
+      "hi": "Hinduski",
+      "hu": "Węgierski",
+      "ind": "Indonezyjski",
+      "it": "Włoski",
+      "ja": "Japoński",
+      "ko": "Koreański",
+      "la": "Łaciński",
+      "ne": "Holenderski",
+      "no": "Norweski",
+      "po": "Polski",
+      "ptbr": "Brazylijska portugalska",
+      "ptpt": "Portugalska portugalska",
+      "ru": "Rosyjski",
+      "sw": "Suahili",
+      "ta": "Tajski",
+      "tu": "Turecki",
+      "zu": "Zuluski"
+    }
+  },
+  "home": {
+    "menuTitle": "Strona główna",
+    "imageAlt": "Zdjęcie Filipe Bacof",
+    "header": {
+      "header1": "Witaj! Jestem",
+      "header2": "Filipe Bacof",
+      "header3": "Full-Stack Developer"
+    },
+    "shortcuts": {
+      "title": "Skróty",
+      "whatsApp": "Skontaktuj się za pomocą WhatsApp",
+      "email": "Skontaktuj się przez e-mail za pomocą mojego formularza kontaktowego",
+      "github": "Zobacz moje projekty na GitHubie",
+      "linkedin": "Połącz się ze mną na LinkedIn"
+    },
+    "location": {
+      "title": "Lokalizacja",
+      "where": "Sapucaia do Sul - RS"
+    },
+    "phones": {
+      "title": "Telefony",
+      "phone1": "+55 51 99445-6865",
+      "phone2": "+55 51 99763-1686"
+    }
+  },
+  "career": {
+    "menuTitle": "Życie zawodowe",
+    "imageAlt": "Zdjęcie Filipe Bacof pracujący",
+    "experiences": {
+      "title": "Doświadczenia",
+      "jobs": [
+        {
+          "title": "Vidaia Care",
+          "role": "Fullstack Developer",
+          "modality": "Zdalnie",
+          "start": "Lip 2023",
+          "end": "Cze 2024",
+          "elapsed": "1 rok",
+          "description": "Programowanie systemów skoncentrowanych na opiece zdrowotnej i opiece"
+        },
+        {
+          "title": "Prestativ SAP",
+          "role": "Fullstack Developer",
+          "modality": "Na miejscu",
+          "start": "Gru 2022",
+          "end": "Kwi 2023",
+          "elapsed": "5 miesięcy",
+          "description": "Rozwój systemów do wewnętrznego użytku firmy"
+        },
+        {
+          "title": "Datamétrica",
+          "role": "Operator Call Center",
+          "modality": "Zdalnie",
+          "start": "Sty 2021",
+          "end": "Kwi 2022",
+          "elapsed": "1 rok i 4 miesiące",
+          "description": "Obsługa klienta i wsparcie, obsługa systemów administracyjnych"
+        },
+        {
+          "title": "Tracktus",
+          "role": "Analityk wsparcia",
+          "modality": "Na miejscu",
+          "start": "Lut 2017",
+          "end": "Sty 2020",
+          "elapsed": "3 lata",
+          "description": "Obsługa systemów i wsparcie klienta, utrzymanie wewnętrznych informacji"
+        }
+      ]
+    },
+    "download": {
+      "title": "Pobierz CV",
+      "pt": "PT-BR",
+      "en": "EN-US"
+    }
+  },
+  "academic": {
+    "menuTitle": "Życie akademickie",
+    "imageAlt": "Zdjęcie Filipe Bacof na ukończeniu",
+    "education": {
+      "title": "Edukacja akademicka",
+      "where": "Unicesumar EAD",
+      "course": "Inżynieria oprogramowania",
+      "conclusion": "W trakcie, 13/16 ukończonych"
+    },
+    "languages": [
+      {
+        "en": "Brazylijska portugalska",
+        "level": "C2 - Biegły, ojczysty"
+      },
+      {
+        "en": "Angielski",
+        "level": "B2 - Średnio zaawansowany"
+      },
+      {
+        "en": "Hiszpański",
+        "level": "B1 - Początkujący"
+      }
+    ],
+    "books": [
+      {
+        "title": "Programista pragmatyczny",
+        "description": "Ilustruje najlepsze praktyki i główne pułapki w programowaniu."
+      },
+      {
+        "title": "Czysty kod",
+        "description": "Naucza zestawu najlepszych praktyk, aby osiągnąć większą czytelność i łatwość utrzymania kodu."
+      },
+      {
+        "title": "Przewyższając diabła",
+        "description": "Wywiad, w którym Napoleon Hill zmusza diabła do ujawnienia sztuczek, aby uciec przed pułapkami takimi jak strach, prokrastynacja, gniew, wskazane jako narzędzia diabła do odizolowania ludzi."
+      },
+      {
+        "title": "Kybalion",
+        "description": "Ta tajemnicza książka jest inicjacją w mądrość hermetyzmu, mistycznej tradycji, która przetrwała od starożytności do czasów współczesnych."
+      }
+    ],
+    "softskills": [
+      "Umiejętność analizy informacji technicznych",
+      "Dobry humor do pracy zespołowej",
+      "Zwinność w nauce nowych technologii",
+      "Kreatywność w rozwiązywaniu problemów",
+      "Zaznajomiony z pracą metodami zwinymi"
+    ],
+    "currentlyStudying": {
+      "title": "Obecnie studiuję",
+      "item": "Web3 i Blockchain",
+      "description": "Tworzenie inteligentnych umów z użyciem Solidity"
+    }
+  },
+  "personal": {
+    "menuTitle": "Życie osobiste",
+    "imageAlt": "Zdjęcie Filipe Bacof grający na gitarze",
+    "button": {
+      "title": "Kilka dobrych wspomnień",
+      "description": "Projekt kapsuły czasu, stworzony na wydarzeniu Rocketseat, zamierzam przeprowadzić ten projekt co roku."
+    },
+    "about": {
+      "title": "Kim jestem?",
+      "description": "Oprócz bycia zawodowcem pasjonującym się technologią, mam również wiele hobby, które obejmują grę na instrumentach strunowych, czytanie książek na różne tematy, oglądanie seriali z żoną oraz opiekę nad moimi dwoma kotami."
+    },
+    "quote": {
+      "sentence": "Człowiek, który robi więcej niż jest opłacany, wkrótce będzie płatny za więcej niż robi.",
+      "author": "Napoleon Hill"
+    }
+  },
+  "projects": {
+    "menuTitle": "Projekty",
+    "buttons": {
+      "deploy": "Zobacz deploy",
+      "repo": "Zobacz Repozytorium"
+    },
+    "projects": [
+      {
+        "title": "Strona Lokos D' Bira",
+        "description1": "Aplikacja webowa stworzona z przyjaciółmi jako hołd bardzo charyzmatycznej zespołowi z mojego miasta",
+        "description2": "Podkreślenie optymalizacji SEO wykonanej za pomocą NextJS, spróbuj wyszukać nazwę zespołu w Google"
+      },
+      {
+        "title": "Metallica API",
+        "description1": "Projekt backendowy rozwinięty na cześć Dnia Rocka (13 lipca)",
+        "description2": "Celem tego projektu jest nawiązanie kontaktu z innymi programistami"
+      },
+      {
+        "title": "Pokedex",
+        "description1": "Wszyscy programiści mają ten projekt, ale ja zrobiłem prawie wszystko za pomocą Tailwind",
+        "description2": "Ten projekt był wyzwaniem technicznym na stanowisko Full-Stack"
+      },
+      {
+        "title": "Menedżer Zadań",
+        "description1": "Eksperymentowałem z użyciem innego ORM, niż byłem przyzwyczajony, użyłem Sequelize zamiast Prisma",
+        "description2": "Aplikacja ta została stworzona jako wyzwanie techniczne na stanowisko Full-Stack"
+      },
+      {
+        "title": "Klon Chat GPT",
+        "description1": "Konsumpcja interfejsu API OpenAI, który jest taki sam jak oficjalny ChatGPT",
+        "description2": "Interfejs jest taki sam jak ChatGPT przy jego uruchomieniu."
+      },
+      {
+        "title": "Biblioteka Filmów",
+        "description1": "Używając API udostępnionego przez The Movie DataBase (TMDB)",
+        "description2": "Możesz zobaczyć interesujące dane na temat swoich ulubionych filmów"
+      },
+      {
+        "title": "NLW E-Sports",
+        "description1": "Jedno z pierwszych wydarzeń programistycznych, w którym brałem udział",
+        "description2": "Wyzwaniem po wydarzeniu było odtworzenie projektu strony społecznościowej e-sportu z innym motywem"
+      }
+    ],
+    "technologies": [
+      "Cypress",
+      "Docker",
+      "Git",
+      "JavaScript",
+      "Jest",
+      "MongoDB",
+      "NextJS",
+      "NodeJS",
+      "PostgreSQL",
+      "Prisma",
+      "React",
+      "Sass",
+      "Solidity",
+      "TailwindCSS",
+      "TestingLibrary",
+      "TypeScript"
+    ]
+  },
+  "contact": {
+    "menuTitle": "Kontakt",
+    "pageTitle": "Skontaktuj się ze mną przez e-mail",
+    "nameField": "Imię",
+    "emailField": "Email",
+    "phoneField": "Telefon",
+    "subjectField": "Temat",
+    "messageField": "Wiadomość",
+    "messageLabel": "Wpisz tutaj swoją wiadomość",
+    "optional": "Opcjonalne",
+    "required": "Wymagane",
+    "sendButton": "Wyślij E-mail",
+    "loading": "Proszę czekać, wysyłanie...",
+    "error": "Niepowodzenie!! Kliknij, aby spróbować ponownie",
+    "success": "Wysłane!!",
+    "old": "Zobacz moją starą stronę portfolio",
+    "whats": "Skontaktuj się za pomocą WhatsApp"
+  }
+}

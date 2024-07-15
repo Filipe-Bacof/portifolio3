@@ -1,0 +1,266 @@
+{
+  "global": {
+    "next": "Következő",
+    "prev": "Előző",
+    "home": "Főoldal",
+    "language": {
+      "title": "Nyelv váltása",
+      "warning": "Figyelem: Nem minden nyelvet ellenőriztek!",
+      "ar": "Arab",
+      "be": "Bengáli",
+      "ch": "Mandarin kínai",
+      "cz": "Cseh",
+      "de": "Német",
+      "di": "Dán",
+      "en": "Angol",
+      "es": "Spanyol",
+      "et": "Észt",
+      "fi": "Finn",
+      "fr": "Francia",
+      "gr": "Görög",
+      "he": "Héber",
+      "hi": "Hindi",
+      "hu": "Magyar",
+      "ind": "Indonéz",
+      "it": "Olasz",
+      "ja": "Japán",
+      "ko": "Koreai",
+      "la": "Latin",
+      "ne": "Holland",
+      "no": "Norvég",
+      "po": "Lengyel",
+      "ptbr": "Brazíliai portugál",
+      "ptpt": "Portugál portugál",
+      "ru": "Orosz",
+      "sw": "Szuahéli",
+      "ta": "Thai",
+      "tu": "Török",
+      "zu": "Zulu"
+    }
+  },
+  "home": {
+    "menuTitle": "Főoldal",
+    "imageAlt": "Fotó Filipe Bacofról",
+    "header": {
+      "header1": "Üdvözöllek! Én vagyok",
+      "header2": "Filipe Bacof",
+      "header3": "Teljes verziós fejlesztő"
+    },
+    "shortcuts": {
+      "title": "Gyorsbillentyűk",
+      "whatsApp": "Kapcsolatfelvétel WhatsApp-on keresztül",
+      "email": "Kapcsolatfelvétel e-mailben a kapcsolatfelvételi űrlapom használatával",
+      "github": "Nézd meg projekteimet a GitHub-on",
+      "linkedin": "Kapcsolatfelvétel velem LinkedIn-en"
+    },
+    "location": {
+      "title": "Helyszín",
+      "where": "Sapucaia do Sul - RS"
+    },
+    "phones": {
+      "title": "Telefonszámok",
+      "phone1": "+55 51 99445-6865",
+      "phone2": "+55 51 99763-1686"
+    }
+  },
+  "career": {
+    "menuTitle": "Szakmai élet",
+    "imageAlt": "Fotó Filipe Bacof dolgozik",
+    "experiences": {
+      "title": "Tapasztalatok",
+      "jobs": [
+        {
+          "title": "Vidaia Care",
+          "role": "Teljes verziós fejlesztő",
+          "modality": "Távoli",
+          "start": "2023. július",
+          "end": "2024. június",
+          "elapsed": "1 év",
+          "description": "Egészségügyi és gondozási rendszerek programozása"
+        },
+        {
+          "title": "Prestativ SAP",
+          "role": "Teljes verziós fejlesztő",
+          "modality": "Helyszíni",
+          "start": "2022. december",
+          "end": "2023. április",
+          "elapsed": "5 hónap",
+          "description": "Rendszerek fejlesztése belső cég használatra"
+        },
+        {
+          "title": "Datamétrica",
+          "role": "Ügyfélszolgálati operátor",
+          "modality": "Távoli",
+          "start": "2021. január",
+          "end": "2022. április",
+          "elapsed": "1 év 4 hónap",
+          "description": "Ügyfélszolgálat és támogatás, adminisztratív rendszerek üzemeltetése"
+        },
+        {
+          "title": "Tracktus",
+          "role": "Támogatási elemző",
+          "modality": "Helyszíni",
+          "start": "2017. február",
+          "end": "2020. január",
+          "elapsed": "3 év",
+          "description": "Rendszerüzemeltetés és ügyféltámogatás, belső információk karbantartása"
+        }
+      ]
+    },
+    "download": {
+      "title": "Önéletrajz letöltése",
+      "pt": "PT-BR",
+      "en": "EN-US"
+    }
+  },
+  "academic": {
+    "menuTitle": "Akadémiai élet",
+    "imageAlt": "Fotó Filipe Bacof a diplomaosztón",
+    "education": {
+      "title": "Akadémiai végzettség",
+      "where": "Unicesumar EAD",
+      "course": "Szoftvermérnök szak",
+      "conclusion": "Folyamatban, 13/16 befejezve"
+    },
+    "languages": [
+      {
+        "en": "Brazíliai portugál",
+        "level": "C2 - Szakértő, anyanyelvi"
+      },
+      {
+        "en": "Angol",
+        "level": "B2 - Felső középfok"
+      },
+      {
+        "en": "Spanyol",
+        "level": "B1 - Középfok"
+      }
+    ],
+    "books": [
+      {
+        "title": "A pragmatikus programozó",
+        "description": "Bemutatja a legjobb gyakorlatokat és a szoftverfejlesztés fő buktatóit."
+      },
+      {
+        "title": "Tiszta kód",
+        "description": "Egy sor legjobb gyakorlatot tanít, hogy nagyobb olvashatóságot és karbantarthatóságot érjen el a kódjában."
+      },
+      {
+        "title": "A Sátán kijátszása",
+        "description": "Egy interjú, ahol Napoleon Hill arra kényszeríti a Sátánt, hogy felfedje a csapdákból való menekülés trükkjeit, mint például a félelem, a halogatás, a düh, amelyeket az emberek elidegenítése érdekében a Sátán eszközeiként jelöltek meg."
+      },
+      {
+        "title": "A Kybalion",
+        "description": "Ez a rejtélyes könyv bevezetés a Hermetizmus bölcsességébe, egy misztikus hagyományba, amely az ókor óta él a jelenig."
+      }
+    ],
+    "softskills": [
+      "Képesség a technikai információk elemzésére",
+      "Jó humor a csapatmunkához",
+      "Rugalmas az új technológiák tanulásában",
+      "Kreativitás a problémamegoldáshoz",
+      "Szokásos munka az agilis módszertanokkal"
+    ],
+    "currentlyStudying": {
+      "title": "Jelenleg én tanulok",
+      "item": "Web3 és Blockchain",
+      "description": "Okos szerződések létrehozása Solidity segítségével"
+    }
+  },
+  "personal": {
+    "menuTitle": "Személyes élet",
+    "imageAlt": "Fotó Filipe Bacof, gitározás közben",
+    "button": {
+      "title": "Néhány jó emlék",
+      "description": "Időkapszula projekt, létrehozva egy Rocketseat eseményen, tervezem minden évben újra készíteni ezt a projektet."
+    },
+    "about": {
+      "title": "Ki vagyok én?",
+      "description": "Technológiával kapcsolatos szenvedélyes szakemberként számos hobbit űzök, ideértve a húros hangszerek játékát, könyvek olvasását különböző témákban, sorozatok nézését a feleségemmel és két macskám gondozását."
+    },
+    "quote": {
+      "sentence": "Az az ember, aki többet csinál, mint amit fizetnek neki, hamarosan többet fog fizetni, mint amennyit csinál.",
+      "author": "Napoleon Hill"
+    }
+  },
+  "projects": {
+    "menuTitle": "Projektek",
+    "buttons": {
+      "deploy": "Nézet elhelyezése",
+      "repo": "Nézet Repository"
+    },
+    "projects": [
+      {
+        "title": "Lokos D' Bira Weboldal",
+        "description1": "Webalkalmazás, amelyet barátaimmal együtt készítettünk egy nagyon karizmatikus együttes tiszteletére a városomból",
+        "description2": "Kiemelés a SEO optimalizációkra, amelyeket a NextJS használatával végeztünk, próbáld megkeresni az együttes nevét a Google-ben"
+      },
+      {
+        "title": "Metallica API",
+        "description1": "Háttér projekt, amelyet a Rock Nap ünneplésére fejlesztettek ki (július 13)",
+        "description2": "Ennek a projeknek a célja más programozókkal való hálózatba lépés"
+      },
+      {
+        "title": "Pokedex",
+        "description1": "Minden programozónak megvan ez a projekt, de én majdnem mindent a Tailwind használatával csináltam",
+        "description2": "Ezt a projektet egy Full-Stack pozícióra szóló technikai kihívásként készítettem"
+      },
+      {
+        "title": "Feladatkezelő",
+        "description1": "Kísérleteztem egy olyan ORM használatával, amit nem voltam szokva, helyette a Sequelize-t használtam a Prisma helyett",
+        "description2": "Ezt az alkalmazást egy Full-Stack pozícióra szóló technikai kihívásként készítettem"
+      },
+      {
+        "title": "Chat GPT Klón",
+        "description1": "OpenAI API fogyasztása, amelyet az hivatalos ChatGPT is használ",
+        "description2": "Az interfész ugyanaz, mint a ChatGPT induláskor."
+      },
+      {
+        "title": "Filmkönyvtár",
+        "description1": "A The Movie DataBase (TMDB) által biztosított API használatával",
+        "description2": "Érdekes adatokat láthat kedvenc filmjeidről"
+      },
+      {
+        "title": "NLW E-Sports",
+        "description1": "Az egyik első programozási esemény, amelyen részt vettem",
+        "description2": "A kihívás az esemény után az volt, hogy újra kell hozni az e-sportok társadalmi oldal projektet egy másik témával"
+      }
+    ],
+    "technologies": [
+      "Cypress",
+      "Docker",
+      "Git",
+      "JavaScript",
+      "Jest",
+      "MongoDB",
+      "NextJS",
+      "NodeJS",
+      "PostgreSQL",
+      "Prisma",
+      "React",
+      "Sass",
+      "Solidity",
+      "TailwindCSS",
+      "TestingLibrary",
+      "TypeScript"
+    ]
+  },
+  "contact": {
+    "menuTitle": "Kapcsolat",
+    "pageTitle": "Kapcsolatfelvétel e-mailben",
+    "nameField": "Név",
+    "emailField": "E-mail",
+    "phoneField": "Telefonszám",
+    "subjectField": "Tárgy",
+    "messageField": "Üzenet",
+    "messageLabel": "Írd ide az üzeneted",
+    "optional": "Opcionális",
+    "required": "Kötelező",
+    "sendButton": "E-mail küldése",
+    "loading": "Kérem várjon, küldés...",
+    "error": "Sikertelen!! Kattintson a újra próbálkozás gombra",
+    "success": "Elküldve!!",
+    "old": "Tekintse meg régi portfólió oldalam",
+    "whats": "Kapcsolatfelvétel WhatsApp-on keresztül"
+  }
+}
