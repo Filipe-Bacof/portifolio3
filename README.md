@@ -42,42 +42,50 @@ import en from "../languages/en.json";
 
 ## Prompt para traduzir o nome do idioma para todos os outros idiomas:
 
-```txt
+```md
 Traduza o trecho solicitado para os seguintes idiomas:
+
 1. Árabe (ar)
 2. Bengali (be)
 3. Mandarim Chinês (ch)
-4. Alemão (de)
-5. Inglês Americano (en)
-6. Espanhol (es)
-7. Estoniano (et)
-8. Francês (fr)
-9. Hindi (hi)
-10. Indonésio (ind)
-11. Italiano (it)
-12. Japonês (ja)
-13. Coreano (ko)
-14. Norueguês (no)
-15. Português Brasileiro (ptbr)
-16. Português de Portugal (ptpt)
-17. Russo (ru)
-18. Suaíli (sw)
+4. Tcheco (cz)
+5. Alemão (de)
+6. Dinamarquês (di)
+7. Inglês Americano (en)
+8. Espanhol (es)
+9. Estoniano (et)
+10. Finlandês (fi)
+11. Francês (fr)
+12. Grego (gr)
+13. Hebraico (he)
+14. Hindi (hi)
+15. Húngaro (hu)
+16. Indonésio (ind)
+17. Italiano (it)
+18. Japonês (ja)
+19. Coreano (ko)
+20. Latim (la)
+21. Holandês (ne)
+22. Norueguês (no)
+23. Polonês (po)
+24. Português Brasileiro (ptbr)
+25. Português de Portugal (ptpt)
+26. Russo (ru)
+27. Suaíli (sw)
+28. Tailandês (ta)
+29. Turco (tu)
+30. Zulu (zu)
 
 Segue o trecho para ser traduzido, escrito em Português Brasileiro:
-```
-
-ADICIONE AQUI O QUE DESEJA TRADUZIR
-
-```
+insira o que deseja traduzir aqui
 
 Retorne cada um deles dessa forma:
-```
+sigla-do-idioma :
+resto do json
+"key": "TRECHO_TRADUZIDO",
 
-"sigla-ao-lado-do-idioma": "TRECHO_TRADUZIDO"
-
-```
 - quero as siglas em ordem alfabetica na chave e o texto traduzido no valor do JSON
-- por favor sem as vírgulas no final de cada linha, para facilitar o ato de copiar e colar para os JSONs principais (remova essa instrução se desejar)
+- por favor sem as vírgulas no final de cada linha, para facilitar o ato de copiar e colar para os JSONs principais
 ```
 
 ## Automatização
