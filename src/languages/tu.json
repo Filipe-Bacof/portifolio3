@@ -73,37 +73,46 @@
           "title": "Vidaia Care",
           "role": "Fullstack Geliştirici",
           "modality": "Uzaktan",
-          "start": "Tem 2023",
-          "end": "Haz 2024",
-          "elapsed": "1 yıl",
-          "description": "Sağlık ve bakım odaklı sistemlerin programlanması"
+          "start": "Temmuz 2023",
+          "end": "Haziran 2024",
+          "elapsed": "12 ay",
+          "description": "Sağlık ve bakım sistemlerinin geliştirilmesi"
         },
         {
           "title": "Prestativ SAP",
           "role": "Fullstack Geliştirici",
           "modality": "Yerinde",
-          "start": "Ara 2022",
-          "end": "Nis 2023",
-          "elapsed": "5 ay",
-          "description": "Şirket içi kullanım için sistem geliştirme"
+          "start": "Mayıs 2022",
+          "end": "Nisan 2023",
+          "elapsed": "12 ay",
+          "description": "Şirket içi kullanım için iç sistemlerin geliştirilmesi"
         },
         {
           "title": "Datamétrica",
           "role": "Çağrı Merkezi Operatörü",
           "modality": "Uzaktan",
-          "start": "Oca 2021",
-          "end": "Nis 2022",
+          "start": "Ocak 2021",
+          "end": "Nisan 2022",
           "elapsed": "1 yıl 4 ay",
-          "description": "Müşteri hizmetleri ve destek, yönetim sistemlerinin işletimi"
+          "description": "Müşteri desteği ve idari sistemlerin işletilmesi"
+        },
+        {
+          "title": "Vrana Hub",
+          "role": "Stajyer",
+          "modality": "Hibrit",
+          "start": "Ocak 2020",
+          "end": "Aralık 2021",
+          "elapsed": "2 yıl",
+          "description": "Özelleştirilmiş uygulamaların geliştirilmesi"
         },
         {
           "title": "Tracktus",
           "role": "Destek Analisti",
           "modality": "Yerinde",
-          "start": "Şub 2017",
-          "end": "Oca 2020",
+          "start": "Şubat 2017",
+          "end": "Ocak 2020",
           "elapsed": "3 yıl",
-          "description": "Sistem işletimi ve müşteri desteği, iç bilgi sistemlerinin bakımı"
+          "description": "Sistem yönetimi ve müşteri desteği, iç bilgilerin bakımının yapılması"
         }
       ]
     },

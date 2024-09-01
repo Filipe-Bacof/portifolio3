@@ -75,26 +75,35 @@
           "modality": "远程",
           "start": "2023年7月",
           "end": "2024年6月",
-          "elapsed": "1年",
-          "description": "面向医疗和护理领域的系统编程"
+          "elapsed": "12个月",
+          "description": "面向健康和护理领域的系统编程"
         },
         {
           "title": "Prestativ SAP",
           "role": "全栈开发人员",
           "modality": "现场",
-          "start": "2022年12月",
+          "start": "2022年5月",
           "end": "2023年4月",
-          "elapsed": "5个月",
+          "elapsed": "12个月",
           "description": "为公司内部使用开发系统"
         },
         {
           "title": "Datamétrica",
-          "role": "电话支持操作员",
+          "role": "呼叫中心操作员",
           "modality": "远程",
           "start": "2021年1月",
           "end": "2022年4月",
           "elapsed": "1年4个月",
-          "description": "为客户提供支持和支持，运营管理系统"
+          "description": "客户服务和管理系统操作"
+        },
+        {
+          "title": "Vrana Hub",
+          "role": "实习生",
+          "modality": "混合",
+          "start": "2020年1月",
+          "end": "2021年12月",
+          "elapsed": "2年",
+          "description": "定制应用开发"
         },
         {
           "title": "Tracktus",

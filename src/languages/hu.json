@@ -71,39 +71,48 @@
       "jobs": [
         {
           "title": "Vidaia Care",
-          "role": "Teljes verziós fejlesztő",
+          "role": "Fullstack Fejlesztő",
           "modality": "Távoli",
           "start": "2023. július",
           "end": "2024. június",
-          "elapsed": "1 év",
-          "description": "Egészségügyi és gondozási rendszerek programozása"
+          "elapsed": "12 hónap",
+          "description": "Egészségügyi és gondozási rendszerek fejlesztése"
         },
         {
           "title": "Prestativ SAP",
-          "role": "Teljes verziós fejlesztő",
+          "role": "Fullstack Fejlesztő",
           "modality": "Helyszíni",
-          "start": "2022. december",
+          "start": "2022. május",
           "end": "2023. április",
-          "elapsed": "5 hónap",
-          "description": "Rendszerek fejlesztése belső cég használatra"
+          "elapsed": "12 hónap",
+          "description": "Vállalati belső rendszerek fejlesztése"
         },
         {
           "title": "Datamétrica",
-          "role": "Ügyfélszolgálati operátor",
+          "role": "Call Center Operátor",
           "modality": "Távoli",
           "start": "2021. január",
           "end": "2022. április",
-          "elapsed": "1 év 4 hónap",
-          "description": "Ügyfélszolgálat és támogatás, adminisztratív rendszerek üzemeltetése"
+          "elapsed": "1 év és 4 hónap",
+          "description": "Ügyfélszolgálat és adminisztratív rendszerek működtetése"
+        },
+        {
+          "title": "Vrana Hub",
+          "role": "Gyakornok",
+          "modality": "Hibrid",
+          "start": "2020. január",
+          "end": "2021. december",
+          "elapsed": "2 év",
+          "description": "Személyre szabott alkalmazások fejlesztése"
         },
         {
           "title": "Tracktus",
-          "role": "Támogatási elemző",
+          "role": "Támogató Elemző",
           "modality": "Helyszíni",
           "start": "2017. február",
           "end": "2020. január",
           "elapsed": "3 év",
-          "description": "Rendszerüzemeltetés és ügyféltámogatás, belső információk karbantartása"
+          "description": "Rendszerkezelés és ügyfélszolgálat, belső információk karbantartása"
         }
       ]
     },

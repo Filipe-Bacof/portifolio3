@@ -73,37 +73,46 @@
           "title": "Vidaia Care",
           "role": "Développeur Fullstack",
           "modality": "À distance",
-          "start": "Juil 2023",
+          "start": "Juillet 2023",
           "end": "Juin 2024",
-          "elapsed": "1 an",
-          "description": "Programmation de systèmes de santé"
+          "elapsed": "12 mois",
+          "description": "Programmation de systèmes de santé et de soins"
         },
         {
           "title": "Prestativ SAP",
           "role": "Développeur Fullstack",
-          "modality": "Sur site",
-          "start": "Déc 2022",
-          "end": "Avr 2023",
-          "elapsed": "5 mois",
+          "modality": "Présentiel",
+          "start": "Mai 2022",
+          "end": "Avril 2023",
+          "elapsed": "12 mois",
           "description": "Développement de systèmes pour l'usage interne de l'entreprise"
         },
         {
           "title": "Datamétrica",
           "role": "Opérateur de Centre d'Appels",
           "modality": "À distance",
-          "start": "Jan 2021",
-          "end": "Avr 2022",
+          "start": "Janvier 2021",
+          "end": "Avril 2022",
           "elapsed": "1 an et 4 mois",
-          "description": "Service et support client, gestion des systèmes administratifs"
+          "description": "Soutien à la clientèle et exploitation de systèmes administratifs"
+        },
+        {
+          "title": "Vrana Hub",
+          "role": "Stagiaire",
+          "modality": "Hybride",
+          "start": "Janvier 2020",
+          "end": "Décembre 2021",
+          "elapsed": "2 ans",
+          "description": "Développement d'applications personnalisées"
         },
         {
           "title": "Tracktus",
-          "role": "Analyste de Support",
-          "modality": "Sur site",
-          "start": "Fév 2017",
-          "end": "Jan 2020",
+          "role": "Analyste Support",
+          "modality": "Présentiel",
+          "start": "Février 2017",
+          "end": "Janvier 2020",
           "elapsed": "3 ans",
-          "description": "Gestion des systèmes et support client, maintien des informations internes"
+          "description": "Exploitation des systèmes et assistance clientèle, maintenance des informations internes"
         }
       ]
     },

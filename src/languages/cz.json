@@ -71,39 +71,48 @@
       "jobs": [
         {
           "title": "Vidaia Care",
-          "role": "Fullstack Developer",
-          "modality": "Remote",
-          "start": "Červenec 2023",
-          "end": "Červen 2024",
-          "elapsed": "1 rok",
+          "role": "Fullstack vývojář",
+          "modality": "Dálková práce",
+          "start": "červenec 2023",
+          "end": "červen 2024",
+          "elapsed": "12 měsíců",
           "description": "Programování systémů zaměřených na zdravotní péči"
         },
         {
           "title": "Prestativ SAP",
-          "role": "Fullstack Developer",
-          "modality": "Na místě",
-          "start": "Prosinec 2022",
-          "end": "Duben 2023",
-          "elapsed": "5 měsíců",
-          "description": "Vývoj systémů pro interní použití ve firmě"
+          "role": "Fullstack vývojář",
+          "modality": "Osobně",
+          "start": "květen 2022",
+          "end": "duben 2023",
+          "elapsed": "12 měsíců",
+          "description": "Vývoj systémů pro vnitřní použití firmy"
         },
         {
           "title": "Datamétrica",
           "role": "Operátor call centra",
-          "modality": "Remote",
-          "start": "Leden 2021",
-          "end": "Duben 2022",
+          "modality": "Dálková práce",
+          "start": "leden 2021",
+          "end": "duben 2022",
           "elapsed": "1 rok a 4 měsíce",
-          "description": "Zákaznická podpora a provoz administrativních systémů"
+          "description": "Podpora zákazníků a provoz administrativních systémů"
+        },
+        {
+          "title": "Vrana Hub",
+          "role": "Stážista",
+          "modality": "Hybridní",
+          "start": "leden 2020",
+          "end": "prosinec 2021",
+          "elapsed": "2 roky",
+          "description": "Vývoj na míru šitých aplikací"
         },
         {
           "title": "Tracktus",
-          "role": "Analytik podpory",
-          "modality": "Na místě",
-          "start": "Únor 2017",
-          "end": "Leden 2020",
+          "role": "Podpora analytik",
+          "modality": "Osobně",
+          "start": "únor 2017",
+          "end": "leden 2020",
           "elapsed": "3 roky",
-          "description": "Provoz systémů a zákaznická podpora, údržba interních informací"
+          "description": "Provoz systémů a podpora zákazníků, údržba interních informací"
         }
       ]
     },

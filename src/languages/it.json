@@ -73,37 +73,46 @@
           "title": "Vidaia Care",
           "role": "Sviluppatore Fullstack",
           "modality": "Remoto",
-          "start": "lug 2023",
-          "end": "giu 2024",
-          "elapsed": "1 anno",
-          "description": "Programmazione di sistemi incentrati sulla salute"
+          "start": "Luglio 2023",
+          "end": "Giugno 2024",
+          "elapsed": "12 mesi",
+          "description": "Programmazione di sistemi per la salute e la cura"
         },
         {
           "title": "Prestativ SAP",
           "role": "Sviluppatore Fullstack",
-          "modality": "In Presenza",
-          "start": "dic 2022",
-          "end": "apr 2023",
-          "elapsed": "5 mesi",
-          "description": "Sviluppo di sistemi per uso interno dell'azienda"
+          "modality": "Presenziale",
+          "start": "Maggio 2022",
+          "end": "Aprile 2023",
+          "elapsed": "12 mesi",
+          "description": "Sviluppo di sistemi per l'uso interno dell'azienda"
         },
         {
           "title": "Datamétrica",
-          "role": "Operatore Call Center",
+          "role": "Operatore di Call Center",
           "modality": "Remoto",
-          "start": "gen 2021",
-          "end": "apr 2022",
+          "start": "Gennaio 2021",
+          "end": "Aprile 2022",
           "elapsed": "1 anno e 4 mesi",
-          "description": "Assistenza e supporto ai clienti, gestione di sistemi amministrativi"
+          "description": "Assistenza clienti e operazione di sistemi amministrativi"
+        },
+        {
+          "title": "Vrana Hub",
+          "role": "Tirocinio",
+          "modality": "Ibrido",
+          "start": "Gennaio 2020",
+          "end": "Dicembre 2021",
+          "elapsed": "2 anni",
+          "description": "Sviluppo di applicazioni personalizzate"
         },
         {
           "title": "Tracktus",
           "role": "Analista di Supporto",
-          "modality": "In Presenza",
-          "start": "feb 2017",
-          "end": "gen 2020",
+          "modality": "Presenziale",
+          "start": "Febbraio 2017",
+          "end": "Gennaio 2020",
           "elapsed": "3 anni",
-          "description": "Gestione dei sistemi e supporto ai clienti, mantenimento delle informazioni interne"
+          "description": "Gestione dei sistemi e supporto clienti, manutenzione delle informazioni interne"
         }
       ]
     },

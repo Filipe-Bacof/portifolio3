@@ -75,21 +75,21 @@
           "modality": "원격",
           "start": "2023년 7월",
           "end": "2024년 6월",
-          "elapsed": "1년",
-          "description": "의료 및 보호 시스템 프로그래밍"
+          "elapsed": "12개월",
+          "description": "의료 및 케어 시스템 개발"
         },
         {
           "title": "Prestativ SAP",
           "role": "풀스택 개발자",
-          "modality": "온사이트",
-          "start": "2022년 12월",
+          "modality": "현장",
+          "start": "2022년 5월",
           "end": "2023년 4월",
-          "elapsed": "5개월",
-          "description": "기업 내 시스템 개발"
+          "elapsed": "12개월",
+          "description": "회사 내부 시스템 개발"
         },
         {
           "title": "Datamétrica",
-          "role": "원격 전화 지원 담당자",
+          "role": "콜센터 운영자",
           "modality": "원격",
           "start": "2021년 1월",
           "end": "2022년 4월",
@@ -97,13 +97,22 @@
           "description": "고객 지원 및 관리 시스템 운영"
         },
         {
+          "title": "Vrana Hub",
+          "role": "인턴십",
+          "modality": "하이브리드",
+          "start": "2020년 1월",
+          "end": "2021년 12월",
+          "elapsed": "2년",
+          "description": "맞춤형 애플리케이션 개발"
+        },
+        {
           "title": "Tracktus",
           "role": "지원 분석가",
-          "modality": "온사이트",
+          "modality": "현장",
           "start": "2017년 2월",
           "end": "2020년 1월",
           "elapsed": "3년",
-          "description": "시스템 운영 및 고객 지원, 내부 정보 유지 보수"
+          "description": "시스템 관리 및 고객 지원, 내부 정보 유지"
         }
       ]
     },

@@ -71,39 +71,48 @@
       "jobs": [
         {
           "title": "Vidaia Care",
-          "role": "Fullstack-kehittäjä",
+          "role": "Fullstack Kehittäjä",
           "modality": "Etätyö",
-          "start": "Heinä 2023",
-          "end": "Kesä 2024",
-          "elapsed": "1 vuosi",
-          "description": "Ohjelmistojen kehittäminen terveydenhuoltoon ja hoivaan"
+          "start": "Heinäkuu 2023",
+          "end": "Kesäkuu 2024",
+          "elapsed": "12 kuukautta",
+          "description": "Terveys- ja hoitojärjestelmien ohjelmointi"
         },
         {
           "title": "Prestativ SAP",
-          "role": "Fullstack-kehittäjä",
+          "role": "Fullstack Kehittäjä",
           "modality": "Paikan päällä",
-          "start": "Joulu 2022",
-          "end": "Huhti 2023",
-          "elapsed": "5 kuukautta",
-          "description": "Järjestelmien kehittäminen yrityksen sisäiseen käyttöön"
+          "start": "Toukokuu 2022",
+          "end": "Huhtikuu 2023",
+          "elapsed": "12 kuukautta",
+          "description": "Yrityksen sisäisten järjestelmien kehittäminen"
         },
         {
           "title": "Datamétrica",
-          "role": "Call center -operaattori",
+          "role": "Puhelinpalveluoperaattori",
           "modality": "Etätyö",
-          "start": "Tammi 2021",
-          "end": "Huhti 2022",
+          "start": "Tammikuu 2021",
+          "end": "Huhtikuu 2022",
           "elapsed": "1 vuosi ja 4 kuukautta",
-          "description": "Asiakaspalvelu ja tuki, hallinnollisten järjestelmien käyttö"
+          "description": "Asiakaspalvelu ja hallinnollisten järjestelmien käyttö"
+        },
+        {
+          "title": "Vrana Hub",
+          "role": "Harjoittelija",
+          "modality": "Hybridi",
+          "start": "Tammikuu 2020",
+          "end": "Joulukuu 2021",
+          "elapsed": "2 vuotta",
+          "description": "Räätälöityjen sovellusten kehittäminen"
         },
         {
           "title": "Tracktus",
-          "role": "Tukianalyytikko",
+          "role": "Tuki-analyytikko",
           "modality": "Paikan päällä",
-          "start": "Helmi 2017",
-          "end": "Tammi 2020",
+          "start": "Helmikuu 2017",
+          "end": "Tammikuu 2020",
           "elapsed": "3 vuotta",
-          "description": "Järjestelmän käyttö ja asiakastuki, sisäisen tiedon ylläpito"
+          "description": "Järjestelmien käyttö ja asiakastuki, sisäisten tietojen ylläpito"
         }
       ]
     },

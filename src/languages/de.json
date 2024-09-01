@@ -72,38 +72,47 @@
         {
           "title": "Vidaia Care",
           "role": "Fullstack-Entwickler",
-          "modality": "Remote",
-          "start": "Jul 2023",
-          "end": "Jun 2024",
-          "elapsed": "1 Jahr",
-          "description": "Programmierung von Systemen für den Gesundheitsbereich"
+          "modality": "Fernarbeit",
+          "start": "Juli 2023",
+          "end": "Juni 2024",
+          "elapsed": "12 Monate",
+          "description": "Programmierung von Systemen für das Gesundheitswesen"
         },
         {
           "title": "Prestativ SAP",
           "role": "Fullstack-Entwickler",
-          "modality": "Vor Ort",
-          "start": "Dez 2022",
-          "end": "Apr 2023",
-          "elapsed": "5 Monate",
+          "modality": "Präsenz",
+          "start": "Mai 2022",
+          "end": "April 2023",
+          "elapsed": "12 Monate",
           "description": "Entwicklung von Systemen für den internen Gebrauch des Unternehmens"
         },
         {
           "title": "Datamétrica",
-          "role": "Callcenter-Mitarbeiter",
-          "modality": "Remote",
-          "start": "Jan 2021",
-          "end": "Apr 2022",
+          "role": "Callcenter-Betreiber",
+          "modality": "Fernarbeit",
+          "start": "Januar 2021",
+          "end": "April 2022",
           "elapsed": "1 Jahr und 4 Monate",
-          "description": "Kundenbetreuung und Support, Betrieb von Verwaltungssystemen"
+          "description": "Kundenbetreuung und Betrieb von Verwaltungssystemen"
+        },
+        {
+          "title": "Vrana Hub",
+          "role": "Praktikant",
+          "modality": "Hybrid",
+          "start": "Januar 2020",
+          "end": "Dezember 2021",
+          "elapsed": "2 Jahre",
+          "description": "Entwicklung maßgeschneiderter Anwendungen"
         },
         {
           "title": "Tracktus",
           "role": "Support-Analyst",
-          "modality": "Vor Ort",
-          "start": "Feb 2017",
-          "end": "Jan 2020",
+          "modality": "Präsenz",
+          "start": "Februar 2017",
+          "end": "Januar 2020",
           "elapsed": "3 Jahre",
-          "description": "Betrieb von Systemen und Kunden-Support, Pflege interner Informationen"
+          "description": "Betrieb von Systemen und Kundenbetreuung, Wartung interner Informationen"
         }
       ]
     },

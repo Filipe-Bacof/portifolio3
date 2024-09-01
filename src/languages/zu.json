@@ -71,39 +71,48 @@
       "jobs": [
         {
           "title": "Vidaia Care",
-          "role": "Umphathi we-Fullstack",
-          "modality": "I-Remote",
-          "start": "Jul 2023",
-          "end": "Jun 2024",
-          "elapsed": "1 iminyaka",
-          "description": "Ukubhala amasistimu akhawunti yezempilo futhi inhlalakahle"
+          "role": "Umakhi we-Fullstack",
+          "modality": "Kude",
+          "start": "Julayi 2023",
+          "end": "Juni 2024",
+          "elapsed": "Izinyanga eziyi-12",
+          "description": "Ukuthuthukiswa kwezinhlelo zezempilo nokunakekelwa"
         },
         {
           "title": "Prestativ SAP",
-          "role": "Umphathi we-Fullstack",
-          "modality": "On-site",
-          "start": "Dec 2022",
-          "end": "Apr 2023",
-          "elapsed": "5 imizuzu",
-          "description": "Ukuhlela amasistimu ukusebenzisa kwezakhiwo ezimbalwa"
+          "role": "Umakhi we-Fullstack",
+          "modality": "Esizeni",
+          "start": "Meyi 2022",
+          "end": "Apreli 2023",
+          "elapsed": "Izinyanga eziyi-12",
+          "description": "Ukuthuthukiswa kwezinhlelo zangaphakathi ukuze zisetshenziswe yinkampani"
         },
         {
           "title": "Datamétrica",
-          "role": "I-Calcenter Operator",
-          "modality": "I-Remote",
-          "start": "Jan 2021",
-          "end": "Apr 2022",
-          "elapsed": "1 iminyaka nezinyanga ezine",
-          "description": "Ukuphendula kubasebenzi futhi usizo, ukusebenza kwezinkampani zokuphathwa kwamasevisi"
+          "role": "Umqhubi we-Call Center",
+          "modality": "Kude",
+          "start": "Janawari 2021",
+          "end": "Apreli 2022",
+          "elapsed": "Unyaka owodwa nezinyanga eziyi-4",
+          "description": "Ukusekela amakhasimende nokusebenza kwezinhlelo zokuphatha"
+        },
+        {
+          "title": "Vrana Hub",
+          "role": "Ukuqeqesha",
+          "modality": "Hlangene",
+          "start": "Janawari 2020",
+          "end": "Disemba 2021",
+          "elapsed": "Iminyaka emi-2",
+          "description": "Ukuthuthukiswa kwezicelo ezenziwe ngezifiso"
         },
         {
           "title": "Tracktus",
-          "role": "I-Analyst Support",
-          "modality": "On-site",
-          "start": "Feb 2017",
-          "end": "Jan 2020",
-          "elapsed": "3 iminyaka",
-          "description": "Ukusebenza kwezici ezilula kanye nokubhekana nezici ezinhlelweni zezifunda, ukucacisa umkhakha wamabhayisikobho ezindaweni"
+          "role": "Uhlaziyi Lwesevisi",
+          "modality": "Esizeni",
+          "start": "Februwari 2017",
+          "end": "Janawari 2020",
+          "elapsed": "Iminyaka emi-3",
+          "description": "Ukuphathwa kwezinhlelo nokusekelwa kwamakhasimende, ukugcinwa kolwazi lwangaphakathi"
         }
       ]
     },

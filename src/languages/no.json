@@ -71,39 +71,48 @@
       "jobs": [
         {
           "title": "Vidaia Care",
-          "role": "Fullstack-utvikler",
-          "modality": "Fjernarbeid",
-          "start": "juli 2023",
-          "end": "juni 2024",
-          "elapsed": "1 år",
-          "description": "Programmering av helsesystemer og omsorg"
+          "role": "Fullstack Utvikler",
+          "modality": "Fjernt",
+          "start": "Juli 2023",
+          "end": "Juni 2024",
+          "elapsed": "12 måneder",
+          "description": "Utvikling av helse- og omsorgssystemer"
         },
         {
           "title": "Prestativ SAP",
-          "role": "Fullstack-utvikler",
-          "modality": "Fysisk tilstedeværelse",
-          "start": "desember 2022",
-          "end": "april 2023",
-          "elapsed": "5 måneder",
-          "description": "Utvikling av systemer for intern bruk i selskapet"
+          "role": "Fullstack Utvikler",
+          "modality": "På Stedet",
+          "start": "Mai 2022",
+          "end": "April 2023",
+          "elapsed": "12 måneder",
+          "description": "Utvikling av interne systemer for bedriftsbruk"
         },
         {
           "title": "Datamétrica",
-          "role": "Operatør for kundestøtte",
-          "modality": "Fjernarbeid",
-          "start": "januar 2021",
-          "end": "april 2022",
+          "role": "Kundesenteroperatør",
+          "modality": "Fjernt",
+          "start": "Januar 2021",
+          "end": "April 2022",
           "elapsed": "1 år og 4 måneder",
-          "description": "Kundestøtte og administrativ systemdrift"
+          "description": "Kundeservice og drift av administrative systemer"
+        },
+        {
+          "title": "Vrana Hub",
+          "role": "Praksisplass",
+          "modality": "Hybrid",
+          "start": "Januar 2020",
+          "end": "Desember 2021",
+          "elapsed": "2 år",
+          "description": "Utvikling av tilpassede applikasjoner"
         },
         {
           "title": "Tracktus",
-          "role": "Supportanalytiker",
-          "modality": "Fysisk tilstedeværelse",
-          "start": "februar 2017",
-          "end": "januar 2020",
+          "role": "Støtteanalytiker",
+          "modality": "På Stedet",
+          "start": "Februar 2017",
+          "end": "Januar 2020",
           "elapsed": "3 år",
-          "description": "Systemoperasjon og kundestøtte, intern informasjonshåndtering"
+          "description": "Systemadministrasjon og kundestøtte, vedlikehold av intern informasjon"
         }
       ]
     },

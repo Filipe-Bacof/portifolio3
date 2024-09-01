@@ -5,6 +5,7 @@ import "../styles/components/Experiences.sass";
 import vidaia from "../assets/jobs/vidaia.jpg";
 import prestativ from "../assets/jobs/prestativ.jpg";
 import datametrica from "../assets/jobs/datametrica.jpg";
+import vrana from "../assets/jobs/vrana.jpg";
 import tracktus from "../assets/jobs/tracktus.jpg";
 import JobCard from "./JobCard";
 import ArrowsAndTitle from "./ArrowsAndTitle";
@@ -15,7 +16,7 @@ type ExperienciesProps = {
 
 export default function Experiences({ language }: ExperienciesProps) {
   const [selected, setSelected] = useState<number>(0);
-  const dataPics = [vidaia, prestativ, datametrica, tracktus];
+  const dataPics = [vidaia, prestativ, datametrica, vrana, tracktus];
   const data: Job[] = getTranslatedInformation(
     language,
     "career.experiences.jobs"

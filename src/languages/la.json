@@ -70,40 +70,49 @@
       "title": "Experientiæ",
       "jobs": [
         {
-          "title": "Vidaia Cura",
-          "role": "Programmator Fullstack",
+          "title": "Vidaia Care",
+          "role": "Fullstack Evolutor",
           "modality": "Remotus",
-          "start": "Iul 2023",
-          "end": "Iun 2024",
-          "elapsed": "1 annum",
-          "description": "Systemata ad curam sanitatis et curam focata programmando"
+          "start": "Iulius 2023",
+          "end": "Iunius 2024",
+          "elapsed": "12 mensis",
+          "description": "Salutis et curarum systemata evolvere"
         },
         {
           "title": "Prestativ SAP",
-          "role": "Programmator Fullstack",
-          "modality": "In loco",
-          "start": "Dec 2022",
-          "end": "Apr 2023",
-          "elapsed": "5 menses",
-          "description": "Systemata ad usum internum in domo scripta"
+          "role": "Fullstack Evolutor",
+          "modality": "Praesentialis",
+          "start": "Maius 2022",
+          "end": "Aprilis 2023",
+          "elapsed": "12 mensis",
+          "description": "Interna systemata pro usu societatis evolvere"
         },
         {
           "title": "Datamétrica",
-          "role": "Operator Call Center",
+          "role": "Call Center Operator",
           "modality": "Remotus",
-          "start": "Ian 2021",
-          "end": "Apr 2022",
-          "elapsed": "1 annum et 4 menses",
-          "description": "Servitium clientium et auxilium, systematum administrativorum operatio"
+          "start": "Ianuarius 2021",
+          "end": "Aprilis 2022",
+          "elapsed": "1 annus et 4 mensis",
+          "description": "Clientum auxilium et systemata administrare"
+        },
+        {
+          "title": "Vrana Hub",
+          "role": "Stagium",
+          "modality": "Hybridus",
+          "start": "Ianuarius 2020",
+          "end": "December 2021",
+          "elapsed": "2 anni",
+          "description": "Applicationes personalizatae evolvere"
         },
         {
           "title": "Tracktus",
-          "role": "Analistæ Auxilii",
-          "modality": "In loco",
-          "start": "Feb 2017",
-          "end": "Ian 2020",
-          "elapsed": "3 annos",
-          "description": "Systematum operatio et clientium auxilium, conservationis internae informatio"
+          "role": "Supportus Analysta",
+          "modality": "Praesentialis",
+          "start": "Februarius 2017",
+          "end": "Ianuarius 2020",
+          "elapsed": "3 anni",
+          "description": "Systemata regere et clientum auxilium, informationem internam manutenere"
         }
       ]
     },

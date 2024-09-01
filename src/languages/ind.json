@@ -72,38 +72,47 @@
         {
           "title": "Vidaia Care",
           "role": "Pengembang Fullstack",
-          "modality": "Remote",
-          "start": "Jul 2023",
-          "end": "Jun 2024",
-          "elapsed": "1 tahun",
-          "description": "Pemrograman sistem-sistem kesehatan dan perawatan"
+          "modality": "Jarak Jauh",
+          "start": "Juli 2023",
+          "end": "Juni 2024",
+          "elapsed": "12 bulan",
+          "description": "Pengembangan sistem kesehatan dan perawatan"
         },
         {
           "title": "Prestativ SAP",
           "role": "Pengembang Fullstack",
-          "modality": "On-site",
-          "start": "Des 2022",
-          "end": "Apr 2023",
-          "elapsed": "5 bulan",
-          "description": "Pengembangan sistem-sistem internal perusahaan"
+          "modality": "Di Tempat",
+          "start": "Mei 2022",
+          "end": "April 2023",
+          "elapsed": "12 bulan",
+          "description": "Pengembangan sistem internal perusahaan"
         },
         {
           "title": "Datamétrica",
-          "role": "Operator Layanan Pelanggan",
-          "modality": "Remote",
-          "start": "Jan 2021",
-          "end": "Apr 2022",
+          "role": "Operator Call Center",
+          "modality": "Jarak Jauh",
+          "start": "Januari 2021",
+          "end": "April 2022",
           "elapsed": "1 tahun 4 bulan",
-          "description": "Pelayanan dan dukungan kepada pelanggan, operasi sistem administratif"
+          "description": "Layanan pelanggan dan pengoperasian sistem administratif"
+        },
+        {
+          "title": "Vrana Hub",
+          "role": "Magang",
+          "modality": "Hibrid",
+          "start": "Januari 2020",
+          "end": "Desember 2021",
+          "elapsed": "2 tahun",
+          "description": "Pengembangan aplikasi khusus"
         },
         {
           "title": "Tracktus",
-          "role": "Analisis Dukungan",
-          "modality": "On-site",
-          "start": "Feb 2017",
-          "end": "Jan 2020",
+          "role": "Analis Dukungan",
+          "modality": "Di Tempat",
+          "start": "Februari 2017",
+          "end": "Januari 2020",
           "elapsed": "3 tahun",
-          "description": "Operasi sistem dan dukungan kepada pelanggan, pemeliharaan informasi internal"
+          "description": "Pengelolaan sistem dan dukungan pelanggan, pemeliharaan informasi internal"
         }
       ]
     },

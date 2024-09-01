@@ -71,39 +71,48 @@
       "jobs": [
         {
           "title": "Vidaia Care",
-          "role": "Täisvaruarendaja",
-          "modality": "Kaugtöö",
-          "start": "juuli 2023",
-          "end": "juuni 2024",
-          "elapsed": "1 aasta",
-          "description": "Tervishoiuvaldkonna süsteemide programmeerimine ja arendamine"
+          "role": "Fullstack Arendaja",
+          "modality": "Kaug",
+          "start": "Juuli 2023",
+          "end": "Juuni 2024",
+          "elapsed": "12 kuud",
+          "description": "Tervishoiu ja hooldussüsteemide programmeerimine"
         },
         {
           "title": "Prestativ SAP",
-          "role": "Täisvaruarendaja",
+          "role": "Fullstack Arendaja",
           "modality": "Kohapeal",
-          "start": "detsember 2022",
-          "end": "aprill 2023",
-          "elapsed": "5 kuud",
+          "start": "Mai 2022",
+          "end": "Aprill 2023",
+          "elapsed": "12 kuud",
           "description": "Süsteemide arendamine ettevõtte sisekasutuseks"
         },
         {
           "title": "Datamétrica",
-          "role": "Teletoe operaator",
-          "modality": "Kaugarvutus",
-          "start": "jaanuar 2021",
-          "end": "aprill 2022",
+          "role": "Klienditoe Operaator",
+          "modality": "Kaug",
+          "start": "Jaanuar 2021",
+          "end": "Aprill 2022",
           "elapsed": "1 aasta ja 4 kuud",
-          "description": "Klienditeenindus ja toetus, haldussüsteemide toimingud"
+          "description": "Klienditugi ja administratiivsete süsteemide haldamine"
+        },
+        {
+          "title": "Vrana Hub",
+          "role": "Praktikant",
+          "modality": "Hübriid",
+          "start": "Jaanuar 2020",
+          "end": "Detsember 2021",
+          "elapsed": "2 aastat",
+          "description": "Kohandatud rakenduste arendamine"
         },
         {
           "title": "Tracktus",
           "role": "Tugianalüütik",
           "modality": "Kohapeal",
-          "start": "veebruar 2017",
-          "end": "jaanuar 2020",
+          "start": "Veebruar 2017",
+          "end": "Jaanuar 2020",
           "elapsed": "3 aastat",
-          "description": "Süsteemide käitamine ja klientide tugi, sisemise teabe hooldus"
+          "description": "Süsteemide haldamine ja klienditugi, siseteabe hooldamine"
         }
       ]
     },

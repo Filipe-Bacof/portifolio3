@@ -73,35 +73,44 @@
           "title": "Vidaia Care",
           "role": "Fullstack Developer",
           "modality": "Remote",
-          "start": "Jul 2023",
-          "end": "Jun 2024",
-          "elapsed": "1 year",
-          "description": "Programming systems focused on healthcare and care"
+          "start": "July 2023",
+          "end": "June 2024",
+          "elapsed": "12 months",
+          "description": "Programming of systems aimed at health and care"
         },
         {
           "title": "Prestativ SAP",
           "role": "Fullstack Developer",
-          "modality": "On-site",
-          "start": "Dec 2022",
-          "end": "Apr 2023",
-          "elapsed": "5 months",
+          "modality": "Onsite",
+          "start": "May 2022",
+          "end": "April 2023",
+          "elapsed": "12 months",
           "description": "Development of systems for internal company use"
         },
         {
           "title": "Datamétrica",
           "role": "Call Center Operator",
           "modality": "Remote",
-          "start": "Jan 2021",
-          "end": "Apr 2022",
+          "start": "January 2021",
+          "end": "April 2022",
           "elapsed": "1 year and 4 months",
-          "description": "Customer service and support, operation of administrative systems"
+          "description": "Customer support and operation of administrative systems"
+        },
+        {
+          "title": "Vrana Hub",
+          "role": "Internship",
+          "modality": "Hybrid",
+          "start": "January 2020",
+          "end": "December 2021",
+          "elapsed": "2 years",
+          "description": "Development of customized applications"
         },
         {
           "title": "Tracktus",
           "role": "Support Analyst",
-          "modality": "On-site",
-          "start": "Feb 2017",
-          "end": "Jan 2020",
+          "modality": "Onsite",
+          "start": "February 2017",
+          "end": "January 2020",
           "elapsed": "3 years",
           "description": "System operation and customer support, maintenance of internal information"
         }

@@ -73,37 +73,46 @@
           "title": "Vidaia Care",
           "role": "Desarrollador Fullstack",
           "modality": "Remoto",
-          "start": "jul 2023",
-          "end": "jun 2024",
-          "elapsed": "1 año",
-          "description": "Programación de sistemas enfocados en el cuidado de la salud"
+          "start": "Julio 2023",
+          "end": "Junio 2024",
+          "elapsed": "12 meses",
+          "description": "Programación de sistemas orientados a la salud y atención"
         },
         {
           "title": "Prestativ SAP",
           "role": "Desarrollador Fullstack",
           "modality": "Presencial",
-          "start": "dic 2022",
-          "end": "abr 2023",
-          "elapsed": "5 meses",
+          "start": "Mayo 2022",
+          "end": "Abril 2023",
+          "elapsed": "12 meses",
           "description": "Desarrollo de sistemas para uso interno de la empresa"
         },
         {
           "title": "Datamétrica",
-          "role": "Operador de Call Center",
+          "role": "Operador de Centro de Llamadas",
           "modality": "Remoto",
-          "start": "ene 2021",
-          "end": "abr 2022",
+          "start": "Enero 2021",
+          "end": "Abril 2022",
           "elapsed": "1 año y 4 meses",
-          "description": "Atención y soporte a clientes, operación de sistemas administrativos"
+          "description": "Soporte al cliente y operación de sistemas administrativos"
+        },
+        {
+          "title": "Vrana Hub",
+          "role": "Pasantía",
+          "modality": "Híbrido",
+          "start": "Enero 2020",
+          "end": "Diciembre 2021",
+          "elapsed": "2 años",
+          "description": "Desarrollo de aplicaciones personalizadas"
         },
         {
           "title": "Tracktus",
           "role": "Analista de Soporte",
           "modality": "Presencial",
-          "start": "feb 2017",
-          "end": "ene 2020",
+          "start": "Febrero 2017",
+          "end": "Enero 2020",
           "elapsed": "3 años",
-          "description": "Operación de sistemas y soporte a clientes, mantenimiento de información interna"
+          "description": "Operación de sistemas y soporte al cliente, mantenimiento de información interna"
         }
       ]
     },

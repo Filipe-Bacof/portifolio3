@@ -71,39 +71,48 @@
       "jobs": [
         {
           "title": "Vidaia Care",
-          "role": "Fullstack Developer",
+          "role": "Programista Fullstack",
           "modality": "Zdalnie",
-          "start": "Lip 2023",
-          "end": "Cze 2024",
-          "elapsed": "1 rok",
-          "description": "Programowanie systemów skoncentrowanych na opiece zdrowotnej i opiece"
+          "start": "Lipiec 2023",
+          "end": "Czerwiec 2024",
+          "elapsed": "12 miesięcy",
+          "description": "Rozwój systemów opieki zdrowotnej"
         },
         {
           "title": "Prestativ SAP",
-          "role": "Fullstack Developer",
+          "role": "Programista Fullstack",
           "modality": "Na miejscu",
-          "start": "Gru 2022",
-          "end": "Kwi 2023",
-          "elapsed": "5 miesięcy",
-          "description": "Rozwój systemów do wewnętrznego użytku firmy"
+          "start": "Maj 2022",
+          "end": "Kwiecień 2023",
+          "elapsed": "12 miesięcy",
+          "description": "Rozwój wewnętrznych systemów dla użytku firmowego"
         },
         {
           "title": "Datamétrica",
           "role": "Operator Call Center",
           "modality": "Zdalnie",
-          "start": "Sty 2021",
-          "end": "Kwi 2022",
+          "start": "Styczeń 2021",
+          "end": "Kwiecień 2022",
           "elapsed": "1 rok i 4 miesiące",
-          "description": "Obsługa klienta i wsparcie, obsługa systemów administracyjnych"
+          "description": "Wsparcie klienta i obsługa systemów administracyjnych"
+        },
+        {
+          "title": "Vrana Hub",
+          "role": "Staż",
+          "modality": "Hybrydowy",
+          "start": "Styczeń 2020",
+          "end": "Grudzień 2021",
+          "elapsed": "2 lata",
+          "description": "Rozwój aplikacji na zamówienie"
         },
         {
           "title": "Tracktus",
-          "role": "Analityk wsparcia",
+          "role": "Analityk Wsparcia",
           "modality": "Na miejscu",
-          "start": "Lut 2017",
-          "end": "Sty 2020",
+          "start": "Luty 2017",
+          "end": "Styczeń 2020",
           "elapsed": "3 lata",
-          "description": "Obsługa systemów i wsparcie klienta, utrzymanie wewnętrznych informacji"
+          "description": "Zarządzanie systemami i wsparcie klienta, utrzymanie informacji wewnętrznych"
         }
       ]
     },

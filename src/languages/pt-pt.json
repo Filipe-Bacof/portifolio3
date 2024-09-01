@@ -73,37 +73,46 @@
           "title": "Vidaia Care",
           "role": "Desenvolvedor Fullstack",
           "modality": "Remoto",
-          "start": "jul de 2023",
-          "end": "jun de 2024",
-          "elapsed": "1 ano",
-          "description": "Programação de sistemas voltados para área da saúde e cuidado"
+          "start": "Julho 2023",
+          "end": "Junho 2024",
+          "elapsed": "12 meses",
+          "description": "Desenvolvimento de sistemas de saúde e cuidado"
         },
         {
           "title": "Prestativ SAP",
           "role": "Desenvolvedor Fullstack",
           "modality": "Presencial",
-          "start": "dez de 2022",
-          "end": "abr de 2023",
-          "elapsed": "5 meses",
-          "description": "Desenvolvimento de sistemas para uso interno da empresa"
+          "start": "Maio 2022",
+          "end": "Abril 2023",
+          "elapsed": "12 meses",
+          "description": "Desenvolvimento de sistemas internos para uso da empresa"
         },
         {
           "title": "Datamétrica",
-          "role": "Operador de Teleatendimento",
+          "role": "Operador de Call Center",
           "modality": "Remoto",
-          "start": "jan de 2021",
-          "end": "abr de 2022",
+          "start": "Janeiro 2021",
+          "end": "Abril 2022",
           "elapsed": "1 ano e 4 meses",
-          "description": "Atendimento e suporte para clientes, operação de sistemas administrativos"
+          "description": "Atendimento ao cliente e operação de sistemas administrativos"
+        },
+        {
+          "title": "Vrana Hub",
+          "role": "Estágio",
+          "modality": "Híbrido",
+          "start": "Janeiro 2020",
+          "end": "Dezembro 2021",
+          "elapsed": "2 anos",
+          "description": "Desenvolvimento de aplicações personalizadas"
         },
         {
           "title": "Tracktus",
           "role": "Analista de Suporte",
           "modality": "Presencial",
-          "start": "fev de 2017",
-          "end": "jan de 2020",
+          "start": "Fevereiro 2017",
+          "end": "Janeiro 2020",
           "elapsed": "3 anos",
-          "description": "Operação de sistemas e suporte para clientes, manutenção de informações internas"
+          "description": "Administração de sistemas e suporte ao cliente, manutenção de informações internas"
         }
       ]
     },

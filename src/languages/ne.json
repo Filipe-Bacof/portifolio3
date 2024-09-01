@@ -71,39 +71,48 @@
       "jobs": [
         {
           "title": "Vidaia Care",
-          "role": "Fullstack Developer",
-          "modality": "Op afstand",
-          "start": "Jul 2023",
-          "end": "Jun 2024",
-          "elapsed": "1 jaar",
-          "description": "Programmeren van systemen gericht op gezondheidszorg en zorg"
+          "role": "Fullstack Ontwikkelaar",
+          "modality": "Op Afstand",
+          "start": "Juli 2023",
+          "end": "Juni 2024",
+          "elapsed": "12 maanden",
+          "description": "Gezondheids- en zorgsystemen ontwikkelen"
         },
         {
           "title": "Prestativ SAP",
-          "role": "Fullstack Developer",
-          "modality": "Op locatie",
-          "start": "Dec 2022",
-          "end": "Apr 2023",
-          "elapsed": "5 maanden",
-          "description": "Ontwikkeling van systemen voor intern gebruik van het bedrijf"
+          "role": "Fullstack Ontwikkelaar",
+          "modality": "Op Locatie",
+          "start": "Mei 2022",
+          "end": "April 2023",
+          "elapsed": "12 maanden",
+          "description": "Interne systemen voor bedrijfgebruik ontwikkelen"
         },
         {
           "title": "Datamétrica",
-          "role": "Callcentermedewerker",
-          "modality": "Op afstand",
-          "start": "Jan 2021",
-          "end": "Apr 2022",
+          "role": "Callcenter Medewerker",
+          "modality": "Op Afstand",
+          "start": "Januari 2021",
+          "end": "April 2022",
           "elapsed": "1 jaar en 4 maanden",
-          "description": "Klantenservice en ondersteuning, bediening van administratieve systemen"
+          "description": "Klantenservice en beheer van administratieve systemen"
+        },
+        {
+          "title": "Vrana Hub",
+          "role": "Stage",
+          "modality": "Hybride",
+          "start": "Januari 2020",
+          "end": "December 2021",
+          "elapsed": "2 jaar",
+          "description": "Ontwikkeling van op maat gemaakte applicaties"
         },
         {
           "title": "Tracktus",
-          "role": "Support-analist",
-          "modality": "Op locatie",
-          "start": "Feb 2017",
-          "end": "Jan 2020",
+          "role": "Ondersteuningsanalist",
+          "modality": "Op Locatie",
+          "start": "Februari 2017",
+          "end": "Januari 2020",
           "elapsed": "3 jaar",
-          "description": "Bedrijfsvoering van systemen en klantenondersteuning, onderhoud van interne informatie"
+          "description": "Systeembeheer en klantondersteuning, onderhoud van interne informatie"
         }
       ]
     },

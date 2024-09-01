@@ -71,39 +71,48 @@
       "jobs": [
         {
           "title": "Vidaia Care",
-          "role": "Fullstack Developer",
-          "modality": "Fjern",
-          "start": "Jul 2023",
-          "end": "Jun 2024",
-          "elapsed": "1 år",
-          "description": "Programmeringssystemer med fokus på sundhedspleje og omsorg"
+          "role": "Fullstack-udvikler",
+          "modality": "Fjernarbejde",
+          "start": "juli 2023",
+          "end": "juni 2024",
+          "elapsed": "12 måneder",
+          "description": "Programmering af systemer rettet mod sundheds- og plejesektoren"
         },
         {
           "title": "Prestativ SAP",
-          "role": "Fullstack Developer",
-          "modality": "På stedet",
-          "start": "Dec 2022",
-          "end": "Apr 2023",
-          "elapsed": "5 måneder",
-          "description": "Udvikling af systemer til intern virksomhedsbrug"
+          "role": "Fullstack-udvikler",
+          "modality": "Fysisk tilstedeværelse",
+          "start": "maj 2022",
+          "end": "april 2023",
+          "elapsed": "12 måneder",
+          "description": "Udvikling af systemer til intern brug i virksomheden"
         },
         {
           "title": "Datamétrica",
-          "role": "Call Center Operator",
-          "modality": "Fjern",
-          "start": "Jan 2021",
-          "end": "Apr 2022",
+          "role": "Callcenter-operatør",
+          "modality": "Fjernarbejde",
+          "start": "januar 2021",
+          "end": "april 2022",
           "elapsed": "1 år og 4 måneder",
-          "description": "Kundeservice og support, drift af administrative systemer"
+          "description": "Kundeservice og drift af administrative systemer"
+        },
+        {
+          "title": "Vrana Hub",
+          "role": "Praktikant",
+          "modality": "Hybrid",
+          "start": "januar 2020",
+          "end": "december 2021",
+          "elapsed": "2 år",
+          "description": "Udvikling af skræddersyede applikationer"
         },
         {
           "title": "Tracktus",
-          "role": "Support Analyst",
-          "modality": "På stedet",
-          "start": "Feb 2017",
-          "end": "Jan 2020",
+          "role": "Supportanalytiker",
+          "modality": "Fysisk tilstedeværelse",
+          "start": "februar 2017",
+          "end": "januar 2020",
           "elapsed": "3 år",
-          "description": "Systemdrift og kundesupport, vedligeholdelse af intern information"
+          "description": "Drift af systemer og kundesupport, vedligeholdelse af interne oplysninger"
         }
       ]
     },

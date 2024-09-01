@@ -70,40 +70,49 @@
       "title": "経験",
       "jobs": [
         {
-          "title": "ヴィダイア お手入れ",
+          "title": "Vidaia Care",
           "role": "フルスタック開発者",
           "modality": "リモート",
           "start": "2023年7月",
           "end": "2024年6月",
-          "elapsed": "1年",
-          "description": "医療およびケア分野向けシステムのプログラミング"
+          "elapsed": "12ヶ月",
+          "description": "医療およびケアシステムの開発"
         },
         {
-          "title": "役立つ 樹液",
+          "title": "Prestativ SAP",
           "role": "フルスタック開発者",
           "modality": "オンサイト",
-          "start": "2022年12月",
+          "start": "2022年5月",
           "end": "2023年4月",
-          "elapsed": "5ヶ月",
-          "description": "企業内システムの開発"
+          "elapsed": "12ヶ月",
+          "description": "企業の内部システムの開発"
         },
         {
-          "title": "データメトリック",
-          "role": "テレサポートオペレーター",
+          "title": "Datamétrica",
+          "role": "コールセンターオペレーター",
           "modality": "リモート",
           "start": "2021年1月",
           "end": "2022年4月",
           "elapsed": "1年4ヶ月",
-          "description": "顧客対応と管理システムの操作"
+          "description": "顧客サポートおよび管理システムの運用"
         },
         {
-          "title": "トラックタス",
+          "title": "Vrana Hub",
+          "role": "インターンシップ",
+          "modality": "ハイブリッド",
+          "start": "2020年1月",
+          "end": "2021年12月",
+          "elapsed": "2年",
+          "description": "カスタマイズされたアプリケーションの開発"
+        },
+        {
+          "title": "Tracktus",
           "role": "サポートアナリスト",
           "modality": "オンサイト",
           "start": "2017年2月",
           "end": "2020年1月",
           "elapsed": "3年",
-          "description": "システム運用と顧客サポート、内部情報の管理"
+          "description": "システム管理および顧客サポート、内部情報の維持"
         }
       ]
     },

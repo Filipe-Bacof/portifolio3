@@ -71,39 +71,48 @@
       "jobs": [
         {
           "title": "Vidaia Care",
-          "role": "Mtaalam wa Maendeleo ya Fullstack",
-          "modality": "Kijijini",
+          "role": "Mendelezaji wa Fullstack",
+          "modality": "Mbali",
           "start": "Julai 2023",
           "end": "Juni 2024",
-          "elapsed": "Mwaka mmoja",
-          "description": "Programu za programu zilizolenga eneo la afya na utunzaji"
+          "elapsed": "Miezi 12",
+          "description": "Kukuza mifumo ya afya na utunzaji"
         },
         {
           "title": "Prestativ SAP",
-          "role": "Mtaalam wa Maendeleo ya Fullstack",
-          "modality": "Ana kwa Ana",
-          "start": "Desemba 2022",
+          "role": "Mendelezaji wa Fullstack",
+          "modality": "Katika eneo",
+          "start": "Mei 2022",
           "end": "Aprili 2023",
-          "elapsed": "Miezi 5",
-          "description": "Maendeleo ya mifumo kwa matumizi ya ndani ya kampuni"
+          "elapsed": "Miezi 12",
+          "description": "Kukuza mifumo ya ndani kwa matumizi ya kampuni"
         },
         {
           "title": "Datamétrica",
-          "role": "Msimamizi wa Huduma za Simu",
-          "modality": "Kijijini",
+          "role": "Mwendeshaji wa Kituo cha Simu",
+          "modality": "Mbali",
           "start": "Januari 2021",
           "end": "Aprili 2022",
-          "elapsed": "Mwaka mmoja na miezi 4",
-          "description": "Kutoa msaada kwa wateja, uendeshaji wa mifumo ya utawala"
+          "elapsed": "Mwaka 1 na miezi 4",
+          "description": "Huduma kwa wateja na operesheni za mifumo ya utawala"
+        },
+        {
+          "title": "Vrana Hub",
+          "role": "Internship",
+          "modality": "Mseto",
+          "start": "Januari 2020",
+          "end": "Desemba 2021",
+          "elapsed": "Miaka 2",
+          "description": "Kuendeleza maombi yaliyobinafsishwa"
         },
         {
           "title": "Tracktus",
-          "role": "Mchambuzi wa Msaada",
-          "modality": "Ana kwa Ana",
+          "role": "Mchambuzi wa Usaidizi",
+          "modality": "Katika eneo",
           "start": "Februari 2017",
           "end": "Januari 2020",
           "elapsed": "Miaka 3",
-          "description": "Uendeshaji wa mifumo na msaada kwa wateja, utunzaji wa habari za ndani"
+          "description": "Usimamizi wa mifumo na msaada kwa wateja, kudumisha habari za ndani"
         }
       ]
     },

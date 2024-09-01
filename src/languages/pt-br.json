@@ -75,16 +75,16 @@
           "modality": "Remoto",
           "start": "jul de 2023",
           "end": "jun de 2024",
-          "elapsed": "1 ano",
+          "elapsed": "12 meses",
           "description": "Programação de sistemas voltados para área da saúde e cuidado"
         },
         {
           "title": "Prestativ SAP",
           "role": "Desenvolvedor Fullstack",
           "modality": "Presencial",
-          "start": "dez de 2022",
+          "start": "mai de 2022",
           "end": "abr de 2023",
-          "elapsed": "5 meses",
+          "elapsed": "12 meses",
           "description": "Desenvolvimento de sistemas para uso interno da empresa"
         },
         {
@@ -95,6 +95,15 @@
           "end": "abr de 2022",
           "elapsed": "1 ano e 4 meses",
           "description": "Atendimento e suporte para clientes, operação de sistemas administrativos"
+        },
+        {
+          "title": "Vrana Hub",
+          "role": "Estágio",
+          "modality": "Híbrido",
+          "start": "jan de 2020",
+          "end": "dez de 2021",
+          "elapsed": "2 anos",
+          "description": "Desenvolvimento de aplicações customizadas "
         },
         {
           "title": "Tracktus",
