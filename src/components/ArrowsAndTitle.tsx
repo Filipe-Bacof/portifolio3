@@ -8,15 +8,19 @@ type ArrowsAndTitleProps = {
   children: ReactNode;
   selected: number;
   lenght: number;
+  limitheight?: boolean;
 };
 export default function ArrowsAndTitle({
   action,
   children,
   selected,
   lenght,
+  limitheight = false,
 }: ArrowsAndTitleProps) {
   return (
-    <div className="arrows-and-title-content">
+    <div
+      className={`arrows-and-title-content ${limitheight && "limit-height"}`}
+    >
       <IconBxsLeftArrow
         className={`arrows-and-title-icon ${
           selected === 0 ? "disabled" : "able"

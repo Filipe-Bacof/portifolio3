@@ -38,6 +38,7 @@ export default function Experiences({ language }: ExperienciesProps) {
         action={handleSelected}
         lenght={data.length}
         selected={selected}
+        limitheight={true}
       >
         <h3 className="career-title">
           {getTranslatedInformation(language, "career.experiences.title")}
