@@ -5,6 +5,7 @@
     "home": "Strona główna",
     "language": {
       "title": "Zmień język",
+      "description": "Wybierz flagę, aby zastosować język",
       "warning": "Ostrzeżenie: Nie wszystkie języki zostały zweryfikowane!",
       "ar": "Arabski",
       "be": "Bengalski",

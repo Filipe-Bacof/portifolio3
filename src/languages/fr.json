@@ -5,6 +5,7 @@
     "home": "Accueil",
     "language": {
       "title": "Changer de langue",
+      "description": "Sélectionnez le drapeau pour appliquer la langue",
       "warning": "Avertissement : Toutes les langues n'ont pas été révisées !",
       "ar": "Arabe",
       "be": "Bengali",

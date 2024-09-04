@@ -5,6 +5,7 @@
     "home": "Kotisivu",
     "language": {
       "title": "Vaihda kieltä",
+      "description": "Valitse kieli soveltaaksesi lippua",
       "warning": "Huomio: Kaikkia kieliä ei ole tarkistettu!",
       "ar": "Arabia",
       "be": "Bengali",

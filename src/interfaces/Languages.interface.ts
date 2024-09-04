@@ -17,6 +17,7 @@ interface Global {
 
 export interface LanguageOptions {
   title: string;
+  description: string;
   warning: string;
   ar: string;
   be: string;
@@ -51,7 +52,7 @@ export interface LanguageOptions {
 }
 
 export type Language = Exclude<
-  keyof Omit<LanguageOptions, "title" | "warning">,
+  keyof Omit<LanguageOptions, "title" | "warning" | "description">,
   keyof Object
 >;
 

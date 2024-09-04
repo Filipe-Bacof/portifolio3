@@ -5,6 +5,7 @@
     "home": "Startpagina",
     "language": {
       "title": "Taal wijzigen",
+      "description": "Selecteer de vlag om de taal toe te passen",
       "warning": "Waarschuwing: Niet alle talen zijn gerecenseerd!",
       "ar": "Arabisch",
       "be": "Bengaals",

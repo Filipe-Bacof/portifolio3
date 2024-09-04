@@ -5,6 +5,7 @@
     "home": "Startseite",
     "language": {
       "title": "Sprache ändern",
+      "description": "Wählen Sie die Flagge, um die Sprache anzuwenden",
       "warning": "Warnung: Nicht alle Sprachen wurden überprüft!",
       "ar": "Arabisch",
       "be": "Bengalisch",

@@ -5,6 +5,7 @@
     "home": "Domovská stránka",
     "language": {
       "title": "Změnit jazyk",
+      "description": "Vyberte vlajku pro použití jazyka",
       "warning": "Upozornění: Ne všechny jazyky byly zkontrolovány!",
       "ar": "Arabština",
       "be": "Bengálština",

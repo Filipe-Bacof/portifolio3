@@ -5,6 +5,7 @@
     "home": "Beranda",
     "language": {
       "title": "Ganti Bahasa",
+      "description": "Pilih bendera untuk menerapkan bahasa",
       "warning": "Peringatan: Tidak semua bahasa telah ditinjau!",
       "ar": "Arab",
       "be": "Bengali",

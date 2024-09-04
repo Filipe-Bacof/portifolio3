@@ -5,6 +5,7 @@
     "home": "Ana Sayfa",
     "language": {
       "title": "Dil Değiştir",
+      "description": "Dili uygulamak için bayrağı seçin",
       "warning": "Uyarı: Tüm diller gözden geçirilmiş değil!",
       "ar": "Arapça",
       "be": "Bengalce",

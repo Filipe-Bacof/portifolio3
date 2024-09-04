@@ -5,6 +5,7 @@
     "home": "Página Inicial",
     "language": {
       "title": "Mudar Idioma",
+      "description": "Selecione a bandeira para aplicar o idioma",
       "warning": "Aviso: Nem todos os idiomas foram revisados!",
       "ar": "Árabe",
       "be": "Bengali",

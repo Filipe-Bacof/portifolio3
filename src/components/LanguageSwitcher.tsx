@@ -237,6 +237,12 @@ export default function LanguageSwitcher({
         <Popover.Portal>
           <Popover.Content className="popover-content">
             <Popover.Arrow />
+            <h2 className="language-title">
+              {getTranslatedInformation(
+                selected,
+                "global.language.description"
+              )}
+            </h2>
             <div className="language-panel">
               {languages.map((lang) => (
                 <img

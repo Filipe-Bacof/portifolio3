@@ -5,6 +5,7 @@
     "home": "Forside",
     "language": {
       "title": "Skift sprog",
+      "description": "Vælg flaget for at anvende sproget",
       "warning": "Advarsel: Ikke alle sprog er blevet gennemgået!",
       "ar": "Arabisk",
       "be": "Bengali",

@@ -5,6 +5,7 @@
     "home": "Avaleht",
     "language": {
       "title": "Muuda keelt",
+      "description": "Valige keele rakendamiseks lipp",
       "warning": "Hoiatus: Kõiki keeli ei ole üle vaadatud!",
       "ar": "Araabia",
       "be": "Bengali",

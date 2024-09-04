@@ -5,6 +5,7 @@
     "home": "Főoldal",
     "language": {
       "title": "Nyelv váltása",
+      "description": "Válassza ki a zászlót a nyelv alkalmazásához",
       "warning": "Figyelem: Nem minden nyelvet ellenőriztek!",
       "ar": "Arab",
       "be": "Bengáli",

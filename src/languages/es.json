@@ -5,6 +5,7 @@
     "home": "Página Principal",
     "language": {
       "title": "Cambiar idioma",
+      "description": "Seleccione la bandera para aplicar el idioma",
       "warning": "¡Advertencia: No todos los idiomas han sido revisados!",
       "ar": "Árabe",
       "be": "Bengalí",

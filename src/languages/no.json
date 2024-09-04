@@ -5,6 +5,7 @@
     "home": "Hjem",
     "language": {
       "title": "Bytt språk",
+      "description": "Velg flagget for å bruke språket",
       "warning": "Advarsel: Ikke alle språk er gjennomgått!",
       "ar": "Arabisk",
       "be": "Bengali",

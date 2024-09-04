@@ -5,6 +5,7 @@
     "home": "Pagina Iniziale",
     "language": {
       "title": "Cambia lingua",
+      "description": "Seleziona la bandiera per applicare la lingua",
       "warning": "Avviso: Non tutte le lingue sono state riviste!",
       "ar": "Arabo",
       "be": "Bengalese",

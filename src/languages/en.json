@@ -5,6 +5,7 @@
     "home": "Home Page",
     "language": {
       "title": "Change Language",
+      "description": "Select the flag to apply the language",
       "warning": "Warning: Not all languages have been reviewed!",
       "ar": "Arabic",
       "be": "Bengali",
