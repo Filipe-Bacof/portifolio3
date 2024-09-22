@@ -1,8 +1,9 @@
 // icon:github | Ant Design Icons https://ant.design/components/icon/ | Ant Design
-import * as React from "react";
+import type * as React from "react";
 
 function IconGithub(props: React.SVGProps<SVGSVGElement>) {
   return (
+    // biome-ignore lint/a11y/noSvgWithoutTitle: <explanation>
     <svg
       viewBox="0 0 1024 1024"
       fill="currentColor"

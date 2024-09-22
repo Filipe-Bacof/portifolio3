@@ -1,8 +1,8 @@
 import IconSolidity from "../assets/icons/techs/IconSolidity";
-import { Language } from "../interfaces/Languages.interface";
+import type { Language } from "../interfaces/Languages.interface";
 import "../styles/components/CurrentlyStudying.sass";
 import { getTranslatedInformation } from "../utils/languageFunctions";
-import ButtonLink from "./ButtonLink";
+import { ButtonLink } from "./ButtonLink";
 
 type CurrentlyStudyingProps = {
   language: Language;

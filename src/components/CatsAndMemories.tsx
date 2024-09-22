@@ -1,7 +1,7 @@
-import { Language } from "../interfaces/Languages.interface";
+import type { Language } from "../interfaces/Languages.interface";
 import { getTranslatedInformation } from "../utils/languageFunctions";
 import "../styles/components/CatsAndMemories.sass";
-import ButtonLink from "./ButtonLink";
+import { ButtonLink } from "./ButtonLink";
 import IconCounterClockwiseClock from "../assets/icons/IconCounterClockwiseClock";
 
 type CatsAndMemoriesProps = {

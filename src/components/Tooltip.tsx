@@ -1,4 +1,4 @@
-import { ReactNode, forwardRef } from "react";
+import { type ReactNode, forwardRef } from "react";
 import * as TooltipRadix from "@radix-ui/react-tooltip";
 import "../styles/components/Tooltip.sass";
 

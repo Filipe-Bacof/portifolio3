@@ -1,4 +1,4 @@
-import { Language } from "../interfaces/Languages.interface";
+import type { Language } from "../interfaces/Languages.interface";
 import LanguageSwitcher from "./LanguageSwitcher";
 import "../styles/components/Header.sass";
 
