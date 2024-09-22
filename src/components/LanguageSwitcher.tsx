@@ -30,13 +30,13 @@ import taIcon from "../assets/flags-icons/ta.svg";
 import tuIcon from "../assets/flags-icons/tu.svg";
 import zuIcon from "../assets/flags-icons/zu.svg";
 import "../styles/components/LanguageSwitcher.sass";
-import { Language } from "../interfaces/Languages.interface";
+import type { Language } from "../interfaces/Languages.interface";
 import {
   getTranslatedInformation,
   isLanguage,
 } from "../utils/languageFunctions";
 import * as Popover from "@radix-ui/react-popover";
-import BorderPhoto from "./BorderPhoto";
+import { BorderPhoto } from "./BorderPhoto";
 
 type LanguageSwitcherProps = {
   selected: Language;
@@ -245,6 +245,7 @@ export default function LanguageSwitcher({
             </h2>
             <div className="language-panel">
               {languages.map((lang) => (
+                // biome-ignore lint/a11y/useKeyWithClickEvents: <explanation>
                 <img
                   key={lang.code}
                   src={lang.icon}

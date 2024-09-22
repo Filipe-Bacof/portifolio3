@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Language, Project } from "../interfaces/Languages.interface";
+import type { Language, Project } from "../interfaces/Languages.interface";
 import { getTranslatedInformation } from "../utils/languageFunctions";
 import "../styles/components/ProjectView.sass";
 import lokos from "../assets/projects/lokos.jpg";
@@ -10,7 +10,7 @@ import gptClone from "../assets/projects/gpt-clone.jpg";
 import movies from "../assets/projects/movies.jpg";
 import esports from "../assets/projects/esports.jpg";
 import Tooltip from "../components/Tooltip";
-import BorderPhoto from "./BorderPhoto";
+import { BorderPhoto } from "./BorderPhoto";
 import ArrowsAndTitle from "./ArrowsAndTitle";
 
 type ProjectViewProps = {
@@ -73,7 +73,12 @@ export default function ProjectView({ language }: ProjectViewProps) {
           side="bottom"
           text={getTranslatedInformation(language, "projects.buttons.repo")}
         >
-          <a href={repos[selected]} target="_blank" className="project-title">
+          <a
+            href={repos[selected]}
+            target="_blank"
+            className="project-title"
+            rel="noreferrer"
+          >
             {data[selected].title}
           </a>
         </Tooltip>

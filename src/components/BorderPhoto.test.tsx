@@ -1,6 +1,6 @@
 import { render, screen, fireEvent } from "@testing-library/react";
 import { describe, test, expect, vi } from "vitest";
-import BorderPhoto from "../components/BorderPhoto";
+import { BorderPhoto } from "../components/BorderPhoto";
 import "@testing-library/jest-dom";
 
 describe("BorderPhoto Component", () => {

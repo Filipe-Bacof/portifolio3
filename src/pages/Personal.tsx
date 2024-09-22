@@ -1,7 +1,7 @@
-import BorderPhoto from "../components/BorderPhoto";
+import { BorderPhoto } from "../components/BorderPhoto";
 import CatsAndMemories from "../components/CatsAndMemories";
 import WhoIAm from "../components/WhoIAm";
-import { Language } from "../interfaces/Languages.interface";
+import type { Language } from "../interfaces/Languages.interface";
 import { getTranslatedInformation } from "../utils/languageFunctions";
 
 type PersonalProps = {

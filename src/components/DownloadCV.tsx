@@ -1,4 +1,4 @@
-import { Language } from "../interfaces/Languages.interface";
+import type { Language } from "../interfaces/Languages.interface";
 import { getTranslatedInformation } from "../utils/languageFunctions";
 import IconFileDownload from "../assets/icons/IconFileDownload";
 import "../styles/components/DownloadCV.sass";
@@ -16,6 +16,7 @@ export default function DownloadCV({ language }: DownloadCVProps) {
           href="https://github.com/Filipe-Bacof/portifolio-filipe/raw/master/public/curriculo-filipe-bacof.pdf"
           target="_blank"
           className="button-download"
+          rel="noreferrer"
         >
           {getTranslatedInformation(language, "career.download.pt")}{" "}
           <IconFileDownload />
@@ -24,6 +25,7 @@ export default function DownloadCV({ language }: DownloadCVProps) {
           href="https://github.com/Filipe-Bacof/portifolio-filipe/raw/master/public/resume-filipe-bacof.pdf"
           target="_blank"
           className="button-download"
+          rel="noreferrer"
         >
           {getTranslatedInformation(language, "career.download.en")}{" "}
           <IconFileDownload />

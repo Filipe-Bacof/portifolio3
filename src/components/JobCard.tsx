@@ -1,6 +1,6 @@
-import { Job } from "../interfaces/Languages.interface";
+import type { Job } from "../interfaces/Languages.interface";
 import "../styles/components/JobCard.sass";
-import BorderPhoto from "./BorderPhoto";
+import { BorderPhoto } from "./BorderPhoto";
 
 type JobCardProps = {
   data: Job;

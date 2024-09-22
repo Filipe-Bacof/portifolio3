@@ -1,8 +1,8 @@
 import AcademicInfo from "../components/AcademicInfo";
-import BorderPhoto from "../components/BorderPhoto";
+import { BorderPhoto } from "../components/BorderPhoto";
 import CurrentlyStudying from "../components/CurrentlyStudying";
 import Languages from "../components/Languages";
-import { Language } from "../interfaces/Languages.interface";
+import type { Language } from "../interfaces/Languages.interface";
 import { getTranslatedInformation } from "../utils/languageFunctions";
 
 type AcademicProps = {

@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Job, Language } from "../interfaces/Languages.interface";
+import type { Job, Language } from "../interfaces/Languages.interface";
 import { getTranslatedInformation } from "../utils/languageFunctions";
 import "../styles/components/Experiences.sass";
 import vidaia from "../assets/jobs/vidaia.jpg";

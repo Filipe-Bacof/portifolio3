@@ -1,7 +1,7 @@
-import BorderPhoto from "../components/BorderPhoto";
+import { BorderPhoto } from "../components/BorderPhoto";
 import DownloadCV from "../components/DownloadCV";
 import Experiences from "../components/Experiences";
-import { Language } from "../interfaces/Languages.interface";
+import type { Language } from "../interfaces/Languages.interface";
 import { getTranslatedInformation } from "../utils/languageFunctions";
 
 type ProfessionalProps = {

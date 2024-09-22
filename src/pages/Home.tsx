@@ -1,8 +1,8 @@
-import BorderPhoto from "../components/BorderPhoto";
+import { BorderPhoto } from "../components/BorderPhoto";
 import HomeShortcuts from "../components/HomeShortcuts";
 import Typewriter from "../components/Typewriter";
-import { Language } from "../interfaces/Languages.interface";
-import { AvailablePages } from "../interfaces/Pages.interface";
+import type { Language } from "../interfaces/Languages.interface";
+import type { AvailablePages } from "../interfaces/Pages.interface";
 import { getTranslatedInformation } from "../utils/languageFunctions";
 
 type HomeProps = {

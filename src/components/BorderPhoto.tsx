@@ -1,7 +1,7 @@
 import "../styles/components/BorderPhoto.sass";
 import Tooltip from "./Tooltip";
 
-type BorderPhotoProps = {
+export type BorderPhotoProps = {
   src: string;
   alt: string;
   text?: string;
@@ -12,7 +12,7 @@ type BorderPhotoProps = {
   side?: "left" | "top" | "right" | "bottom";
 };
 
-const BorderPhoto = ({
+export function BorderPhoto({
   src,
   alt,
   small,
@@ -21,7 +21,7 @@ const BorderPhoto = ({
   text,
   href,
   side,
-}: BorderPhotoProps) => {
+}: BorderPhotoProps) {
   const Comp = href ? "a" : "div";
 
   const combinedClasses = `border-photo-gradient ${small ? "small" : ""} ${
@@ -42,6 +42,4 @@ const BorderPhoto = ({
       )}
     </Comp>
   );
-};
-
-export default BorderPhoto;
+}
