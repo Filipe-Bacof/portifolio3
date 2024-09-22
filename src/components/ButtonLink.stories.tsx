@@ -11,6 +11,19 @@ export default {
     text: "Ir para o site do google",
     side: "bottom",
   },
+  argTypes: {
+    children: {
+      table: {
+        disable: true,
+      },
+    },
+    side: {
+      options: ["left", "top", "right", "bottom"],
+      control: {
+        type: "inline-radio",
+      },
+    },
+  },
 } as Meta<ButtonLinkProps>;
 
 export const Default: StoryObj<ButtonLinkProps> = {};
