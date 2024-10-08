@@ -71,6 +71,15 @@
       "title": "Esperienze",
       "jobs": [
         {
+          "title": "PariPassu",
+          "role": "Sviluppatore Fullstack",
+          "modality": "Remoto",
+          "start": "ottobre 2024",
+          "end": "attualmente",
+          "elapsed": "lavoro attuale",
+          "description": "Sviluppo di sistemi nel settore agroalimentare"
+        },
+        {
           "title": "Vidaia Care",
           "role": "Sviluppatore Fullstack",
           "modality": "Remoto",

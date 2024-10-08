@@ -71,6 +71,15 @@
       "title": "Tapasztalatok",
       "jobs": [
         {
+          "title": "PariPassu",
+          "role": "Fullstack fejlesztő",
+          "modality": "Távoli",
+          "start": "2024. október",
+          "end": "jelenleg",
+          "elapsed": "jelenlegi munka",
+          "description": "Rendszerfejlesztés az agrár-élelmiszeripari ágazatban"
+        },
+        {
           "title": "Vidaia Care",
           "role": "Fullstack Fejlesztő",
           "modality": "Távoli",

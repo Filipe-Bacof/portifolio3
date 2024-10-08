@@ -71,6 +71,15 @@
       "title": "Doświadczenia",
       "jobs": [
         {
+          "title": "PariPassu",
+          "role": "Fullstack Developer",
+          "modality": "Zdalnie",
+          "start": "październik 2024",
+          "end": "obecnie",
+          "elapsed": "aktualna praca",
+          "description": "Rozwój systemów w sektorze rolno-spożywczym"
+        },
+        {
           "title": "Vidaia Care",
           "role": "Programista Fullstack",
           "modality": "Zdalnie",

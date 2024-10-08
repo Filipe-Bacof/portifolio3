@@ -71,6 +71,15 @@
       "title": "Kokemukset",
       "jobs": [
         {
+          "title": "PariPassu",
+          "role": "Fullstack-kehittäjä",
+          "modality": "Etänä",
+          "start": "lokakuu 2024",
+          "end": "nykyisin",
+          "elapsed": "nykyinen työ",
+          "description": "Järjestelmien kehittäminen maatalous- ja elintarvikealalla"
+        },
+        {
           "title": "Vidaia Care",
           "role": "Fullstack Kehittäjä",
           "modality": "Etätyö",

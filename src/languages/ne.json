@@ -71,6 +71,15 @@
       "title": "Ervaringen",
       "jobs": [
         {
+          "title": "PariPassu",
+          "role": "Fullstack-ontwikkelaar",
+          "modality": "Afstandsbediening",
+          "start": "oktober 2024",
+          "end": "momenteel",
+          "elapsed": "huidige baan",
+          "description": "Systeemontwikkeling in de agrovoedingssector"
+        },
+        {
           "title": "Vidaia Care",
           "role": "Fullstack Ontwikkelaar",
           "modality": "Op Afstand",

@@ -71,6 +71,15 @@
       "title": "Erfaringer",
       "jobs": [
         {
+          "title": "PariPassu",
+          "role": "Fullstack-utvikler",
+          "modality": "Fjernt",
+          "start": "oktober 2024",
+          "end": "for tiden",
+          "elapsed": "nåværende jobb",
+          "description": "Systemutvikling i landbruks- og matsektoren"
+        },
+        {
           "title": "Vidaia Care",
           "role": "Fullstack Utvikler",
           "modality": "Fjernt",

@@ -71,6 +71,15 @@
       "title": "Опыт работы",
       "jobs": [
         {
+          "title": "PariPassu",
+          "role": "Fullstack разработчик",
+          "modality": "Удаленно",
+          "start": "окт 2024",
+          "end": "в настоящее время",
+          "elapsed": "текущая работа",
+          "description": "Разработка систем в агропродовольственном секторе"
+        },
+        {
           "title": "Vidaia Care",
           "role": "Fullstack Разработчик",
           "modality": "Удаленная работа",

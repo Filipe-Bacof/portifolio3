@@ -71,6 +71,15 @@
       "title": "Experientiæ",
       "jobs": [
         {
+          "title": "PariPassu",
+          "role": "Plenarii Evolutor",
+          "modality": "Remotus",
+          "start": "Oct 2024",
+          "end": "nunc",
+          "elapsed": "opus praesens",
+          "description": "Systematum in agroalimentaria evolutione"
+        },
+        {
           "title": "Vidaia Care",
           "role": "Fullstack Evolutor",
           "modality": "Remotus",

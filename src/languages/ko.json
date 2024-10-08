@@ -71,6 +71,15 @@
       "title": "경험",
       "jobs": [
         {
+          "title": "PariPassu",
+          "role": "풀스택 개발자",
+          "modality": "원격",
+          "start": "2024년 10월",
+          "end": "현재",
+          "elapsed": "현재 직업",
+          "description": "농식품 분야 시스템 개발"
+        },
+        {
           "title": "Vidaia Care",
           "role": "풀스택 개발자",
           "modality": "원격",

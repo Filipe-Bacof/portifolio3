@@ -71,6 +71,15 @@
       "title": "الخبرات",
       "jobs": [
         {
+          "title": "باريباسو",
+          "role": "مطور Fullstack",
+          "modality": "عن بعد",
+          "start": "أكتوبر 2024",
+          "end": "حاليًا",
+          "elapsed": "العمل الحالي",
+          "description": "تطوير الأنظمة في قطاع الأغذية الزراعية"
+        },
+        {
           "title": "Vidaia Care",
           "role": "مطور Fullstack",
           "modality": "عن بعد",

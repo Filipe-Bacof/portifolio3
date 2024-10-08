@@ -71,6 +71,15 @@
       "title": "Kogemused",
       "jobs": [
         {
+          "title": "PariPassu",
+          "role": "Fullstack arendaja",
+          "modality": "Kaug",
+          "start": "oktoober 2024",
+          "end": "praegu",
+          "elapsed": "praegune töö",
+          "description": "Süsteemide arendamine põllumajandus- ja toiduainesektoris"
+        },
+        {
           "title": "Vidaia Care",
           "role": "Fullstack Arendaja",
           "modality": "Kaug",

@@ -71,6 +71,15 @@
       "title": "Zkušenosti",
       "jobs": [
         {
+          "title": "PariPassu",
+          "role": "Fullstack vývojář",
+          "modality": "Dálkově",
+          "start": "říjen 2024",
+          "end": "nyní",
+          "elapsed": "současná práce",
+          "description": "Vývoj systémů v zemědělsko-potravinářském sektoru"
+        },
+        {
           "title": "Vidaia Care",
           "role": "Fullstack vývojář",
           "modality": "Dálková práce",

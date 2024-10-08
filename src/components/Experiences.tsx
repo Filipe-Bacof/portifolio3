@@ -2,6 +2,7 @@ import { useState } from "react";
 import type { Job, Language } from "../interfaces/Languages.interface";
 import { getTranslatedInformation } from "../utils/languageFunctions";
 import "../styles/components/Experiences.sass";
+import paripassu from "../assets/jobs/paripassu.jpg";
 import vidaia from "../assets/jobs/vidaia.jpg";
 import prestativ from "../assets/jobs/prestativ.jpg";
 import datametrica from "../assets/jobs/datametrica.jpg";
@@ -16,7 +17,7 @@ type ExperienciesProps = {
 
 export default function Experiences({ language }: ExperienciesProps) {
   const [selected, setSelected] = useState<number>(0);
-  const dataPics = [vidaia, prestativ, datametrica, vrana, tracktus];
+  const dataPics = [paripassu, vidaia, prestativ, datametrica, vrana, tracktus];
   const data: Job[] = getTranslatedInformation(
     language,
     "career.experiences.jobs"
@@ -31,6 +32,10 @@ export default function Experiences({ language }: ExperienciesProps) {
       setSelected(prevPage);
     }
   };
+
+  if (dataPics.length !== data.length) {
+    return null;
+  }
 
   return (
     <>

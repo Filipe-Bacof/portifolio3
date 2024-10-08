@@ -71,6 +71,15 @@
       "title": "Pengalaman",
       "jobs": [
         {
+          "title": "PariPassu",
+          "role": "Pengembang Fullstack",
+          "modality": "Jarak jauh",
+          "start": "Oktober 2024",
+          "end": "saat ini",
+          "elapsed": "pekerjaan saat ini",
+          "description": "Pengembangan sistem di sektor pangan-agro"
+        },
+        {
           "title": "Vidaia Care",
           "role": "Pengembang Fullstack",
           "modality": "Jarak Jauh",

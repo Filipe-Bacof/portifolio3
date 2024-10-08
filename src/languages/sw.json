@@ -71,6 +71,15 @@
       "title": "Uzoefu",
       "jobs": [
         {
+          "title": "PariPassu",
+          "role": "Mendelezaji wa Fullstack",
+          "modality": "Kwa mbali",
+          "start": "Oktoba 2024",
+          "end": "hivi sasa",
+          "elapsed": "kazi ya sasa",
+          "description": "Maendeleo ya mifumo katika sekta ya chakula na kilimo"
+        },
+        {
           "title": "Vidaia Care",
           "role": "Mendelezaji wa Fullstack",
           "modality": "Mbali",

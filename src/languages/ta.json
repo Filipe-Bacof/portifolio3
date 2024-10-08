@@ -71,6 +71,15 @@
       "title": "ประสบการณ์",
       "jobs": [
         {
+          "title": "PariPassu",
+          "role": "นักพัฒนา Fullstack",
+          "modality": "ทางไกล",
+          "start": "ตุลาคม 2024",
+          "end": "ปัจจุบัน",
+          "elapsed": "งานปัจจุบัน",
+          "description": "การพัฒนาระบบในภาคเกษตรอาหาร"
+        },
+        {
           "title": "Vidaia Care",
           "role": "முழு ஸ்டாக் டெவலப்பர்",
           "modality": "தொலைபரப்பல்",

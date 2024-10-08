@@ -71,6 +71,15 @@
       "title": "Deneyimler",
       "jobs": [
         {
+          "title": "PariPassu",
+          "role": "Fullstack Geliştirici",
+          "modality": "Uzaktan",
+          "start": "Ekim 2024",
+          "end": "şu anda",
+          "elapsed": "güncel iş",
+          "description": "Tarım-gıda sektöründe sistem geliştirme"
+        },
+        {
           "title": "Vidaia Care",
           "role": "Fullstack Geliştirici",
           "modality": "Uzaktan",

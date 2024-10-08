@@ -71,6 +71,15 @@
       "title": "経験",
       "jobs": [
         {
+          "title": "PariPassu",
+          "role": "フルスタック開発者",
+          "modality": "リモート",
+          "start": "2024年10月",
+          "end": "現在",
+          "elapsed": "現在の仕事",
+          "description": "農業食品分野でのシステム開発"
+        },
+        {
           "title": "Vidaia Care",
           "role": "フルスタック開発者",
           "modality": "リモート",
